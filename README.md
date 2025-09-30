@@ -1,5 +1,13 @@
 # Modpack Pokédex (Cobblemon)
 
+[![CurseForge](https://img.shields.io/badge/CurseForge-My_Modpack-orange?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/cobblemon-academy)
+
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
+[![Static Site](https://img.shields.io/badge/site-static-green.svg)](#)
+[![Built with http-server](https://img.shields.io/badge/devserver-http--server-orange.svg)](https://www.npmjs.com/package/http-server)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/deploy-Cloudflare_Pages-F38020?logo=cloudflare)](https://pages.cloudflare.com/)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](../../issues)
+
 A tiny static site + data extractor that builds a **modpack-specific Pokédex** from your Minecraft instance (Cobblemon + any addons/overrides).  
 This repo contains:
 
@@ -129,6 +137,13 @@ PRs welcome! Helpful areas:
 - UX improvements for the static site
 
 Please keep PRs focused and include a short description plus steps to test.
+
+---
+
+## Hosting
+
+This site is deployed automatically to **Cloudflare Pages**, managed by the repository owner.  
+The `site/` directory (including the generated `/out` data) is published as a static website, so any changes committed to this repo are reflected in the live Pokédex after the Pages build completes.
 
 ---
 
