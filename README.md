@@ -10,8 +10,8 @@
 A tiny static site + data extractor that builds a **modpack-specific Pokédex** from your Minecraft instance (Cobblemon + any addons/overrides).  
 This repo contains:
 
-- `main.js, index.html, /components, /utils` — static website (no server needed)
-- `/out` — generated data consumed by the site
+- `/site` — static website (no server needed)
+- `/site/out` — generated data consumed by the site
 - `/scripts/dex_build.py` — Python **3.12** script that scans a Minecraft instance for Cobblemon data and emits normalized JSON
 
 ---
@@ -29,6 +29,7 @@ npm i -g http-server
 2. Serve the site
 
 ```bash
+cd site
 http-server -p 8080 .
 ```
 
@@ -71,6 +72,7 @@ Copy or move that `out/` directory into the site next to `main.js`:
 
 ```
 repo/
+└─ site/              # ← place the generated folder here
     ├─ index.html
     ├─ main.js
     ├─ styles.css
