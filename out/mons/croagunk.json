@@ -1,0 +1,319 @@
+{
+  "id": "croagunk",
+  "dexnum": 453,
+  "name": "Croagunk",
+  "primaryType": "poison",
+  "secondaryType": "fighting",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen4"
+  ],
+  "abilities": [
+    "anticipation",
+    "dryskin",
+    "h:poisontouch"
+  ],
+  "eggGroups": [
+    "human_like"
+  ],
+  "baseStats": {
+    "hp": 48,
+    "attack": 61,
+    "defence": 40,
+    "special_attack": 61,
+    "special_defence": 40,
+    "speed": 50
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 140,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:astonish",
+    "3:mudslap",
+    "8:poisonsting",
+    "10:taunt",
+    "15:pursuit",
+    "16:lowkick",
+    "17:feintattack",
+    "22:revenge",
+    "24:swagger",
+    "29:mudbomb",
+    "31:suckerpunch",
+    "36:nastyplot",
+    "36:toxic",
+    "36:venoshock",
+    "38:poisonjab",
+    "43:sludgebomb",
+    "45:flatter",
+    "47:belch",
+    "egg:acupressure",
+    "egg:bulletpunch",
+    "egg:counter",
+    "egg:crosschop",
+    "egg:drainpunch",
+    "egg:dynamicpunch",
+    "egg:fakeout",
+    "egg:feint",
+    "egg:headbutt",
+    "egg:meditate",
+    "egg:mefirst",
+    "egg:quickguard",
+    "egg:smellingsalts",
+    "egg:vacuumwave",
+    "egg:wakeupslap",
+    "tm:acidspray",
+    "tm:aerialace",
+    "tm:assurance",
+    "tm:attract",
+    "tm:batonpass",
+    "tm:bounce",
+    "tm:brickbreak",
+    "tm:bulkup",
+    "tm:bulldoze",
+    "tm:captivate",
+    "tm:chillingwater",
+    "tm:confide",
+    "tm:darkpulse",
+    "tm:dig",
+    "tm:doubleteam",
+    "tm:drainpunch",
+    "tm:earthquake",
+    "tm:embargo",
+    "tm:encore",
+    "tm:endure",
+    "tm:facade",
+    "tm:fling",
+    "tm:focusblast",
+    "tm:focuspunch",
+    "tm:foulplay",
+    "tm:frustration",
+    "tm:gunkshot",
+    "tm:helpinghand",
+    "tm:hiddenpower",
+    "tm:icepunch",
+    "tm:icywind",
+    "tm:lowkick",
+    "tm:lowsweep",
+    "tm:megakick",
+    "tm:megapunch",
+    "tm:mudshot",
+    "tm:mudslap",
+    "tm:nastyplot",
+    "tm:naturalgift",
+    "tm:payback",
+    "tm:poisonjab",
+    "tm:poweruppunch",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:return",
+    "tm:revenge",
+    "tm:reversal",
+    "tm:rockclimb",
+    "tm:rockslide",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:scaryface",
+    "tm:screech",
+    "tm:secretpower",
+    "tm:shadowball",
+    "tm:shadowclaw",
+    "tm:sleeptalk",
+    "tm:sludgebomb",
+    "tm:sludgewave",
+    "tm:snatch",
+    "tm:snore",
+    "tm:strength",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swagger",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:thief",
+    "tm:thunderpunch",
+    "tm:torment",
+    "tm:toxic",
+    "tm:venomdrench",
+    "tm:venoshock",
+    "tm:workup",
+    "tm:xscissor",
+    "tutor:astonish",
+    "tutor:bounce",
+    "tutor:coaching",
+    "tutor:darkpulse",
+    "tutor:drainpunch",
+    "tutor:dualchop",
+    "tutor:focuspunch",
+    "tutor:foulplay",
+    "tutor:furycutter",
+    "tutor:gunkshot",
+    "tutor:headbutt",
+    "tutor:helpinghand",
+    "tutor:icepunch",
+    "tutor:icywind",
+    "tutor:knockoff",
+    "tutor:lashout",
+    "tutor:lowkick",
+    "tutor:mudslap",
+    "tutor:poisonjab",
+    "tutor:poisonsting",
+    "tutor:roleplay",
+    "tutor:sleeptalk",
+    "tutor:snatch",
+    "tutor:snore",
+    "tutor:spite",
+    "tutor:suckerpunch",
+    "tutor:superfang",
+    "tutor:taunt",
+    "tutor:thunderpunch",
+    "tutor:vacuumwave"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "croagunk_toxicroak",
+      "variant": "level_up",
+      "result": "toxicroak",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 37
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 7.8,
+        "levels": "10-36",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/croagunk.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 14.5,
+        "levels": "10-36",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/croagunk.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 0.78,
+        "levels": "10-36",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/toxicroak.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 1.45,
+        "levels": "10-36",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/toxicroak.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 7,
+        "levels": "12-40",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0453_croagunk.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/genomons/croagunk.png",
+      "out/sprites/cobblemon/croagunk.png"
+    ],
+    "shiny": [
+      "out/sprites/genomons/croagunk_shiny.png",
+      "out/sprites/cobblemon/croagunk_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation4/croagunk.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation4\\croagunk.json"
+  ]
+}

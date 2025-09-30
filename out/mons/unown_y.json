@@ -1,0 +1,171 @@
+{
+  "id": "unown_y",
+  "dexnum": 201,
+  "name": "Unown Y",
+  "primaryType": "psychic",
+  "secondaryType": "",
+  "maleRatio": -1,
+  "labels": [
+    "gen2"
+  ],
+  "abilities": [
+    "levitate",
+    "h:levitate"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 48,
+    "attack": 72,
+    "defence": 48,
+    "special_attack": 72,
+    "special_defence": 48,
+    "speed": 48
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 1,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 225,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "minecraft:ender_pearl",
+        "percentage": null,
+        "quantityRange": "0-1",
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:hiddenpower"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "stronghold"
+        ],
+        "rarity": "uncommon",
+        "weight": 9.0,
+        "levels": "14-63",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0201_unown.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 30.0,
+        "levels": "35-68",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_end"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0201_unown.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 0.05,
+        "levels": "35-68",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_end"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0201_unown.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "stronghold"
+        ],
+        "rarity": "uncommon",
+        "weight": 9.0,
+        "levels": "14-63",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0201_unown.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 30.0,
+        "levels": "35-68",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_end"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0201_unown.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/unown_y.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/unown_y_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation2/unown.json"
+  ]
+}

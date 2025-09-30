@@ -1,0 +1,246 @@
+{
+  "id": "eelektrik",
+  "dexnum": 603,
+  "name": "Eelektrik",
+  "primaryType": "electric",
+  "secondaryType": "",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen5"
+  ],
+  "abilities": [
+    "levitate",
+    "h:levitate"
+  ],
+  "eggGroups": [
+    "amorphous"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 85,
+    "defence": 70,
+    "special_attack": 75,
+    "special_defence": 70,
+    "speed": 40
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 2,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 60,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:slime_ball",
+        "percentage": null,
+        "quantityRange": "0-2",
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:headbutt",
+    "1:thunderwave",
+    "1:spark",
+    "1:chargebeam",
+    "1:crunch",
+    "1:tackle",
+    "9:bind",
+    "19:acid",
+    "29:discharge",
+    "44:thunderbolt",
+    "49:acidspray",
+    "54:coil",
+    "59:wildcharge",
+    "64:gastroacid",
+    "69:zapcannon",
+    "74:thrash",
+    "tm:acidspray",
+    "tm:acrobatics",
+    "tm:aquatail",
+    "tm:bind",
+    "tm:bodyslam",
+    "tm:bounce",
+    "tm:charge",
+    "tm:chargebeam",
+    "tm:crunch",
+    "tm:eerieimpulse",
+    "tm:electricterrain",
+    "tm:electroball",
+    "tm:electroweb",
+    "tm:endure",
+    "tm:facade",
+    "tm:flash",
+    "tm:flashcannon",
+    "tm:gastroacid",
+    "tm:gigadrain",
+    "tm:headbutt",
+    "tm:irontail",
+    "tm:knockoff",
+    "tm:lightscreen",
+    "tm:lunge",
+    "tm:magnetrise",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:risingvoltage",
+    "tm:scaryface",
+    "tm:shockwave",
+    "tm:signalbeam",
+    "tm:sleeptalk",
+    "tm:substitute",
+    "tm:superfang",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:throatchop",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderfang",
+    "tm:thunderwave",
+    "tm:uturn",
+    "tm:voltswitch",
+    "tm:wildcharge",
+    "tutor:aquatail",
+    "tutor:bind",
+    "tutor:bounce",
+    "tutor:chargebeam",
+    "tutor:electroweb",
+    "tutor:flashcannon",
+    "tutor:gastroacid",
+    "tutor:gigadrain",
+    "tutor:irontail",
+    "tutor:knockoff",
+    "tutor:magnetrise",
+    "tutor:rest",
+    "tutor:risingvoltage",
+    "tutor:shockwave",
+    "tutor:signalbeam",
+    "tutor:sleeptalk",
+    "tutor:superfang",
+    "tutor:throatchop",
+    "tutor:thunderbolt",
+    "tutor:thunderfang",
+    "tutor:wildcharge"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "eelektrik_eelektross",
+      "variant": "item_interact",
+      "result": "eelektross",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "cobblemon:thunder_stone"
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "rare",
+        "weight": 4.0,
+        "levels": "39-50",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_cave"
+          ],
+          "exclude": [
+            "#cobblemon:is_lush"
+          ]
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "uncommon",
+        "weight": 4.0,
+        "levels": "39-50",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_lush"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 3.1,
+        "levels": "39-50",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_lush"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "rare",
+        "weight": 1.0,
+        "levels": "39-50",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_cave"
+          ],
+          "exclude": [
+            "#cobblemon:is_lush"
+          ]
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/eelektrik.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/eelektrik_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/eelektrik.json"
+  ]
+}

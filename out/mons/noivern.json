@@ -1,0 +1,347 @@
+{
+  "id": "noivern",
+  "dexnum": 715,
+  "name": "Noivern",
+  "primaryType": "flying",
+  "secondaryType": "dragon",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen6"
+  ],
+  "abilities": [
+    "frisk",
+    "infiltrator",
+    "h:telepathy"
+  ],
+  "eggGroups": [
+    "flying",
+    "dragon"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 70,
+    "defence": 80,
+    "special_attack": 97,
+    "special_defence": 80,
+    "speed": 123
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 2
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 45,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:absorb",
+    "1:dragonpulse",
+    "1:gust",
+    "1:moonlight",
+    "1:supersonic",
+    "1:tackle",
+    "5:leechlife",
+    "12:doubleteam",
+    "16:wingattack",
+    "18:agility",
+    "20:bite",
+    "24:aircutter",
+    "28:whirlwind",
+    "31:razorwind",
+    "32:superfang",
+    "36:airslash",
+    "40:screech",
+    "44:roost",
+    "51:tailwind",
+    "56:hurricane",
+    "62:boomburst",
+    "tm:acrobatics",
+    "tm:aerialace",
+    "tm:agility",
+    "tm:aircutter",
+    "tm:airslash",
+    "tm:attract",
+    "tm:bodyslam",
+    "tm:breakingswipe",
+    "tm:brickbreak",
+    "tm:confide",
+    "tm:cut",
+    "tm:darkpulse",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:dracometeor",
+    "tm:dragoncheer",
+    "tm:dragonclaw",
+    "tm:dragondance",
+    "tm:dragonpulse",
+    "tm:dragontail",
+    "tm:dreameater",
+    "tm:dualwingbeat",
+    "tm:echoedvoice",
+    "tm:endure",
+    "tm:facade",
+    "tm:flamethrower",
+    "tm:fly",
+    "tm:focusblast",
+    "tm:frustration",
+    "tm:gigaimpact",
+    "tm:heatwave",
+    "tm:hiddenpower",
+    "tm:honeclaws",
+    "tm:hurricane",
+    "tm:hyperbeam",
+    "tm:hypervoice",
+    "tm:irontail",
+    "tm:leechlife",
+    "tm:outrage",
+    "tm:protect",
+    "tm:psychic",
+    "tm:psychicnoise",
+    "tm:rest",
+    "tm:return",
+    "tm:roost",
+    "tm:round",
+    "tm:scaryface",
+    "tm:screech",
+    "tm:secretpower",
+    "tm:shadowball",
+    "tm:shadowclaw",
+    "tm:sleeptalk",
+    "tm:snore",
+    "tm:solarbeam",
+    "tm:steelwing",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:superfang",
+    "tm:swagger",
+    "tm:swift",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:thief",
+    "tm:torment",
+    "tm:toxic",
+    "tm:uproar",
+    "tm:uturn",
+    "tm:waterpulse",
+    "tm:wildcharge",
+    "tm:xscissor",
+    "tutor:defog",
+    "tutor:dracometeor",
+    "tutor:dragonpulse",
+    "tutor:dualwingbeat",
+    "tutor:heatwave",
+    "tutor:hypervoice",
+    "tutor:irontail",
+    "tutor:laserfocus",
+    "tutor:outrage",
+    "tutor:skyattack",
+    "tutor:snatch",
+    "tutor:snore",
+    "tutor:superfang",
+    "tutor:tailwind",
+    "tutor:uproar",
+    "tutor:waterpulse"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 5,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [
+          "night"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_spooky"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/noivern.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 2,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [
+          "night"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_spooky"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/noivern.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 5.0,
+        "levels": "50-70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": [
+            "#cobblemon:is_deep_dark",
+            "#cobblemon:is_dripstone",
+            "terralith:cave/underground_jungle"
+          ]
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/noivern.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1,
+        "levels": "50-80",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_dark"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/noivern.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 1,
+        "levels": "50-80",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_dark"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/noivern.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 3.0,
+        "levels": "50-70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "betterend:chorus_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/noivern.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 1.0,
+        "levels": "50-70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "betterend:foggy_mushroomland",
+            "betterend:umbrella_jungle"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/noivern.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/noivern.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/noivern_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation6/noivern.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation6\\noivern.json"
+  ]
+}

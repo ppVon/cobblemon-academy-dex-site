@@ -1,0 +1,246 @@
+{
+  "id": "grimer_alola",
+  "dexnum": 88,
+  "name": "Grimer Alola",
+  "primaryType": "poison",
+  "secondaryType": "dark",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen7",
+    "alolan_form"
+  ],
+  "abilities": [
+    "poisontouch",
+    "gluttony",
+    "h:powerofalchemy"
+  ],
+  "eggGroups": [
+    "amorphous"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defence": 50,
+    "special_attack": 40,
+    "special_defence": 50,
+    "speed": 25
+  },
+  "evYield": {
+    "hp": 1,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 190,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:slime_ball",
+        "percentage": null,
+        "quantityRange": "0-1",
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:black_sludge",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:toxic_orb",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:pound",
+    "1:poisongas",
+    "4:harden",
+    "7:bite",
+    "12:disable",
+    "15:acidspray",
+    "18:poisonfang",
+    "21:minimize",
+    "26:toxic",
+    "29:knockoff",
+    "32:crunch",
+    "37:screech",
+    "40:gunkshot",
+    "43:acidarmor",
+    "46:belch",
+    "48:memento",
+    "egg:assurance",
+    "egg:clearsmog",
+    "egg:curse",
+    "egg:meanlook",
+    "egg:pursuit",
+    "egg:recycle",
+    "egg:shadowsneak",
+    "egg:spite",
+    "egg:spitup",
+    "egg:stockpile",
+    "egg:swallow",
+    "tm:acidspray",
+    "tm:assurance",
+    "tm:bodyslam",
+    "tm:brickbreak",
+    "tm:brutalswing",
+    "tm:crunch",
+    "tm:curse",
+    "tm:darkpulse",
+    "tm:dig",
+    "tm:drainpunch",
+    "tm:embargo",
+    "tm:endure",
+    "tm:explosion",
+    "tm:facade",
+    "tm:fireblast",
+    "tm:firepunch",
+    "tm:flamethrower",
+    "tm:fling",
+    "tm:gastroacid",
+    "tm:gigadrain",
+    "tm:gigaimpact",
+    "tm:gunkshot",
+    "tm:helpinghand",
+    "tm:hex",
+    "tm:hyperbeam",
+    "tm:icepunch",
+    "tm:imprison",
+    "tm:infestation",
+    "tm:knockoff",
+    "tm:metronome",
+    "tm:mudshot",
+    "tm:mudslap",
+    "tm:painsplit",
+    "tm:payback",
+    "tm:poisonjab",
+    "tm:poweruppunch",
+    "tm:protect",
+    "tm:quash",
+    "tm:raindance",
+    "tm:recycle",
+    "tm:rest",
+    "tm:rockpolish",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:sandstorm",
+    "tm:scaryface",
+    "tm:screech",
+    "tm:selfdestruct",
+    "tm:shadowball",
+    "tm:shockwave",
+    "tm:sleeptalk",
+    "tm:sludgebomb",
+    "tm:sludgewave",
+    "tm:snarl",
+    "tm:spite",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swift",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:thief",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderpunch",
+    "tm:torment",
+    "tm:toxic",
+    "tm:venoshock",
+    "tm:zenheadbutt",
+    "tutor:darkpulse",
+    "tutor:drainpunch",
+    "tutor:firepunch",
+    "tutor:flamethrower",
+    "tutor:gastroacid",
+    "tutor:gigadrain",
+    "tutor:gigaimpact",
+    "tutor:gunkshot",
+    "tutor:helpinghand",
+    "tutor:hyperbeam",
+    "tutor:icepunch",
+    "tutor:knockoff",
+    "tutor:mudslap",
+    "tutor:painsplit",
+    "tutor:poisonjab",
+    "tutor:recycle",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:shadowball",
+    "tutor:shockwave",
+    "tutor:sleeptalk",
+    "tutor:sludgebomb",
+    "tutor:snarl",
+    "tutor:spite",
+    "tutor:stoneedge",
+    "tutor:swift",
+    "tutor:thunderbolt",
+    "tutor:thunderpunch",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "grimer_mukalola",
+      "variant": "level_up",
+      "result": "muk alolan",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "venomdrench"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 38
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 10.0,
+        "levels": "14-37",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_beach"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0088_grimer_alolan.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/genomons/grimer_alolan.png",
+      "out/sprites/cobblemon/grimer_alolan.png"
+    ],
+    "shiny": [
+      "out/sprites/genomons/grimer_alolan_shiny.png",
+      "out/sprites/cobblemon/grimer_alolan_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation1/grimer.json"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "combee",
+  "dexnum": 415,
+  "name": "Combee",
+  "primaryType": "bug",
+  "secondaryType": "flying",
+  "maleRatio": 0.875,
+  "labels": [
+    "gen4"
+  ],
+  "abilities": [
+    "honeygather",
+    "h:hustle"
+  ],
+  "eggGroups": [
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 30,
+    "defence": 42,
+    "special_attack": 30,
+    "special_defence": 42,
+    "speed": 70
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "experienceGroup": "medium_slow",
+  "catchRate": 120,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:honey_bottle",
+        "percentage": null,
+        "quantityRange": "0-1",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:honeycomb",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:poison_barb",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:charti_berry",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:sweetscent",
+    "1:gust",
+    "1:bugbite",
+    "1:strugglebug",
+    "tm:bugbite",
+    "tm:bugbuzz",
+    "tm:endeavor",
+    "tm:lunge",
+    "tm:ominouswind",
+    "tm:skittersmack",
+    "tm:sleeptalk",
+    "tm:stringshot",
+    "tm:strugglebug",
+    "tm:terablast",
+    "tutor:bugbite",
+    "tutor:endeavor",
+    "tutor:ominouswind",
+    "tutor:skittersmack",
+    "tutor:sleeptalk",
+    "tutor:stringshot"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "combee_vespiquen",
+      "variant": "level_up",
+      "result": "vespiquen",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "slash"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 21
+        },
+        {
+          "variant": "properties",
+          "target": "gender=female"
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 9.9,
+        "levels": "1-24",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [
+          "day"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_temperate"
+          ],
+          "exclude": [
+            "#cobblemon:is_freezing",
+            "#cobblemon:is_spooky"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0415_combee.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 9.9,
+        "levels": "1-24",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#aether:is_aether"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0415_combee.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 99.0,
+        "levels": "1-24",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#the_bumblezone:the_bumblezone"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0415_combee.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/combee.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/combee_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation4/combee.json"
+  ]
+}

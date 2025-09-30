@@ -1,0 +1,243 @@
+{
+  "id": "necrozma",
+  "dexnum": 800,
+  "name": "Necrozma",
+  "primaryType": "psychic",
+  "secondaryType": "",
+  "maleRatio": -1,
+  "labels": [
+    "gen7",
+    "legendary"
+  ],
+  "abilities": [
+    "prismarmor"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 97,
+    "attack": 107,
+    "defence": 101,
+    "special_attack": 127,
+    "special_defence": 89,
+    "speed": 79
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 255,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:chargebeam",
+    "1:confusion",
+    "1:gravity",
+    "1:metalclaw",
+    "1:mirrorshot",
+    "1:moonlight",
+    "1:morningsun",
+    "8:stealthrock",
+    "16:slash",
+    "24:nightslash",
+    "32:psychocut",
+    "40:storedpower",
+    "48:rockblast",
+    "56:irondefense",
+    "64:powergem",
+    "67:wringout",
+    "72:photongeyser",
+    "80:autotomize",
+    "88:prismaticlaser",
+    "tm:aerialace",
+    "tm:allyswitch",
+    "tm:breakingswipe",
+    "tm:brickbreak",
+    "tm:brutalswing",
+    "tm:bulldoze",
+    "tm:calmmind",
+    "tm:chargebeam",
+    "tm:confide",
+    "tm:cosmicpower",
+    "tm:darkpulse",
+    "tm:doubleteam",
+    "tm:dragondance",
+    "tm:dragonpulse",
+    "tm:earthpower",
+    "tm:earthquake",
+    "tm:embargo",
+    "tm:endure",
+    "tm:facade",
+    "tm:flashcannon",
+    "tm:fling",
+    "tm:frustration",
+    "tm:futuresight",
+    "tm:gigaimpact",
+    "tm:gyroball",
+    "tm:heatwave",
+    "tm:hiddenpower",
+    "tm:hyperbeam",
+    "tm:hypervoice",
+    "tm:imprison",
+    "tm:irondefense",
+    "tm:ironhead",
+    "tm:lightscreen",
+    "tm:outrage",
+    "tm:powergem",
+    "tm:protect",
+    "tm:psychic",
+    "tm:psychicfangs",
+    "tm:psychocut",
+    "tm:psyshock",
+    "tm:reflect",
+    "tm:rest",
+    "tm:return",
+    "tm:rockblast",
+    "tm:rockpolish",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:scaryface",
+    "tm:shadowclaw",
+    "tm:sleeptalk",
+    "tm:smartstrike",
+    "tm:snore",
+    "tm:solarbeam",
+    "tm:stealthrock",
+    "tm:stoneedge",
+    "tm:storedpower",
+    "tm:substitute",
+    "tm:swagger",
+    "tm:swordsdance",
+    "tm:thief",
+    "tm:thunderwave",
+    "tm:toxic",
+    "tm:trickroom",
+    "tm:xscissor",
+    "tutor:allyswitch",
+    "tutor:autotomize",
+    "tutor:chargebeam",
+    "tutor:dragonpulse",
+    "tutor:earthpower",
+    "tutor:expandingforce",
+    "tutor:gravity",
+    "tutor:heatwave",
+    "tutor:hypervoice",
+    "tutor:irondefense",
+    "tutor:ironhead",
+    "tutor:knockoff",
+    "tutor:lightscreen",
+    "tutor:magnetrise",
+    "tutor:meteorbeam",
+    "tutor:moonlight",
+    "tutor:nightslash",
+    "tutor:outrage",
+    "tutor:photongeyser",
+    "tutor:powergem",
+    "tutor:prismaticlaser",
+    "tutor:psychocut",
+    "tutor:recycle",
+    "tutor:shockwave",
+    "tutor:signalbeam",
+    "tutor:snore",
+    "tutor:stealthrock",
+    "tutor:substitute",
+    "tutor:telekinesis",
+    "tutor:wringout"
+  ],
+  "forms": [
+    "Dusk-Mane",
+    "Dawn-Wings",
+    "Ultra"
+  ],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "necrozma_ultranecrozma",
+      "variant": "level_up",
+      "result": "ultranecrozma",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 80
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "necro_prism",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_dark"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-necrozma.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "necro_prism",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:the_end",
+            "minecraft:end_barrens",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-necrozma.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon_reanimodel/necrozma.png",
+      "out/sprites/cobblemon/necrozma.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon_reanimodel/necrozma_shiny.png",
+      "out/sprites/cobblemon/necrozma_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/necrozma.json",
+    "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/species/generation7/necrozma.json",
+    "datapacks\\MysticMons_v3.2.1\\data\\cobblemon\\species\\generation7\\necrozma.json"
+  ]
+}

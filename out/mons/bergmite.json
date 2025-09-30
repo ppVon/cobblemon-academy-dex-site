@@ -1,0 +1,385 @@
+{
+  "id": "bergmite",
+  "dexnum": 712,
+  "name": "Bergmite",
+  "primaryType": "ice",
+  "secondaryType": "",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen6",
+    "kalosian_form"
+  ],
+  "abilities": [
+    "owntempo",
+    "icebody",
+    "h:sturdy"
+  ],
+  "eggGroups": [
+    "monster",
+    "mineral"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 69,
+    "defence": 85,
+    "special_attack": 32,
+    "special_defence": 35,
+    "speed": 28
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 1,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 190,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:never_melt_ice",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:harden",
+    "1:rapidspin",
+    "3:tackle",
+    "6:powdersnow",
+    "9:curse",
+    "12:icywind",
+    "15:protect",
+    "18:avalanche",
+    "21:bite",
+    "24:icefang",
+    "27:irondefense",
+    "30:recover",
+    "33:crunch",
+    "36:takedown",
+    "39:blizzard",
+    "42:doubleedge",
+    "egg:auroraveil",
+    "egg:barrier",
+    "egg:mirrorcoat",
+    "egg:mist",
+    "egg:sharpen",
+    "tm:afteryou",
+    "tm:auroraveil",
+    "tm:avalanche",
+    "tm:blizzard",
+    "tm:bodyslam",
+    "tm:bulldoze",
+    "tm:chillingwater",
+    "tm:crunch",
+    "tm:curse",
+    "tm:doubleedge",
+    "tm:endure",
+    "tm:facade",
+    "tm:flash",
+    "tm:frostbreath",
+    "tm:gyroball",
+    "tm:hail",
+    "tm:iceball",
+    "tm:icebeam",
+    "tm:icefang",
+    "tm:icespinner",
+    "tm:iciclespear",
+    "tm:icywind",
+    "tm:irondefense",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:rockpolish",
+    "tm:rockslide",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:safeguard",
+    "tm:sleeptalk",
+    "tm:snowscape",
+    "tm:stoneedge",
+    "tm:strength",
+    "tm:substitute",
+    "tm:takedown",
+    "tm:terablast",
+    "tutor:afteryou",
+    "tutor:bulldoze",
+    "tutor:iceball",
+    "tutor:icebeam",
+    "tutor:icefang",
+    "tutor:icywind",
+    "tutor:irondefense",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:rocksmash",
+    "tutor:sleeptalk",
+    "tutor:stoneedge"
+  ],
+  "forms": [
+    "Hisui-Bias"
+  ],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "bergmite_avalugg",
+      "variant": "level_up",
+      "result": "avalugg",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "bodyslam"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 37
+        },
+        {
+          "variant": "biome",
+          "biomeAnticondition": "#cobblemon:evolution/regional/bergmite_hisuibiome"
+        }
+      ]
+    },
+    {
+      "id": "bergmite_avalugghisui",
+      "variant": "level_up",
+      "result": "avalugg",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "rockslide"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 37
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:evolution/regional/bergmite_hisuibiome"
+        },
+        {
+          "variant": "biome",
+          "biomeAnticondition": "#cobblemon:evolution/regional/bergmite_kalosbiome"
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "5-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_frozen_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0712_bergmite.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "5-30",
+        "contexts": [
+          "surface"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_frozen_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0712_bergmite.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "5-30",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_frozen_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0712_bergmite.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "5-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:nether/is_frozen"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0712_bergmite.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "5-30",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_frozen_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0712_bergmite.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "5-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_frozen_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/bergmite.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water_surface"
+        ],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "5-30",
+        "contexts": [
+          "surface"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_frozen_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/bergmite.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "5-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_nether_frozen"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/bergmite.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 8.0,
+        "levels": "5-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_snowy_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/bergmite.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/bergmite.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/bergmite_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation6/bergmite.json"
+  ]
+}

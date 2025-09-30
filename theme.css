@@ -1,0 +1,62 @@
+:root {
+  color-scheme: light dark;
+}
+
+/* base */
+html.dark body {
+  background: #0b1220;
+  color: #e5e7eb;
+}
+
+/* cards / surfaces / rings */
+html.dark .bg-white {
+  background-color: #0f172a !important;
+}
+html.dark .ring-slate-200 {
+  box-shadow: 0 0 0 1px #1e293b inset;
+  border-color: #1e293b !important;
+}
+html.dark .hover\:bg-slate-50:hover {
+  background-color: #0c162a !important;
+}
+
+/* slate palette (texts + subtle surfaces) */
+html.dark .text-slate-600 {
+  color: #94a3b8 !important;
+}
+html.dark .text-slate-500 {
+  color: #9aa4b2 !important;
+}
+html.dark .bg-slate-100 {
+  background-color: #0f1b31 !important;
+}
+html.dark .bg-slate-200 {
+  background-color: #1e293b !important;
+  color: #e5e7eb !important;
+}
+
+/* pills/chips you use for types/labels */
+html.dark .bg-emerald-100 {
+  background-color: #064e3b !important;
+  color: #a7f3d0 !important;
+}
+html.dark .bg-indigo-100 {
+  background-color: #1e1b4b !important;
+  color: #a5b4fc !important;
+}
+
+/* accents you use */
+html.dark .text-indigo-700 {
+  color: #a5b4fc !important;
+}
+html.dark .bg-indigo-500 {
+  background-color: #6366f1 !important;
+}
+
+/* form fields */
+html.dark input,
+html.dark select {
+  background: #0f172a;
+  color: #e5e7eb;
+  border-color: #1e293b;
+}

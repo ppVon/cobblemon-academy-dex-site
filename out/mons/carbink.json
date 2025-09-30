@@ -1,0 +1,268 @@
+{
+  "id": "carbink",
+  "dexnum": 703,
+  "name": "Carbink",
+  "primaryType": "rock",
+  "secondaryType": "fairy",
+  "maleRatio": -1,
+  "labels": [
+    "gen6"
+  ],
+  "abilities": [
+    "clearbody",
+    "h:sturdy"
+  ],
+  "eggGroups": [
+    "fairy",
+    "mineral"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defence": 150,
+    "special_attack": 50,
+    "special_defence": 150,
+    "speed": 50
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 1,
+    "special_attack": 0,
+    "special_defence": 1,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 60,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:diamond",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:babiri_berry",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:float_stone",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:harden",
+    "1:tackle",
+    "5:guardsplit",
+    "5:rockthrow",
+    "8:sharpen",
+    "10:smackdown",
+    "15:flail",
+    "18:reflect",
+    "20:ancientpower",
+    "25:rockpolish",
+    "30:lightscreen",
+    "35:rockslide",
+    "40:skillswap",
+    "45:powergem",
+    "50:stealthrock",
+    "55:moonblast",
+    "60:stoneedge",
+    "70:safeguard",
+    "tm:allyswitch",
+    "tm:bodypress",
+    "tm:bodyslam",
+    "tm:calmmind",
+    "tm:charm",
+    "tm:confide",
+    "tm:dazzlinggleam",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:earthpower",
+    "tm:endeavor",
+    "tm:endure",
+    "tm:explosion",
+    "tm:facade",
+    "tm:flash",
+    "tm:flashcannon",
+    "tm:frustration",
+    "tm:gigaimpact",
+    "tm:gravity",
+    "tm:guardswap",
+    "tm:gyroball",
+    "tm:hail",
+    "tm:heavyslam",
+    "tm:hiddenpower",
+    "tm:hyperbeam",
+    "tm:irondefense",
+    "tm:ironhead",
+    "tm:lightscreen",
+    "tm:meteorbeam",
+    "tm:mistyexplosion",
+    "tm:mistyterrain",
+    "tm:naturepower",
+    "tm:powergem",
+    "tm:protect",
+    "tm:psychic",
+    "tm:psychup",
+    "tm:raindance",
+    "tm:reflect",
+    "tm:rest",
+    "tm:return",
+    "tm:rockblast",
+    "tm:rockpolish",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:safeguard",
+    "tm:sandstorm",
+    "tm:sandtomb",
+    "tm:secretpower",
+    "tm:skillswap",
+    "tm:sleeptalk",
+    "tm:smackdown",
+    "tm:snore",
+    "tm:spikes",
+    "tm:stealthrock",
+    "tm:stompingtantrum",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:toxic",
+    "tm:trickroom",
+    "tm:wonderroom",
+    "tutor:afteryou",
+    "tutor:allyswitch",
+    "tutor:covet",
+    "tutor:earthpower",
+    "tutor:gravity",
+    "tutor:irondefense",
+    "tutor:magiccoat",
+    "tutor:magnetrise",
+    "tutor:meteorbeam",
+    "tutor:mistyexplosion",
+    "tutor:skillswap",
+    "tutor:snore",
+    "tutor:stealthrock",
+    "tutor:stompingtantrum",
+    "tutor:telekinesis",
+    "tutor:terrainpulse",
+    "tutor:wonderroom"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 100.0,
+        "levels": "25-50",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": [
+            "#cobblemon:is_deep_dark"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0703_carbink.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 10.0,
+        "levels": "25-50",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:nether/is_quartz"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0703_carbink.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 10.0,
+        "levels": "25-50",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "the_bumblezone:crystal_canyon"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0703_carbink.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 2.9,
+        "levels": "23-48",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:torreya_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/torreya_forest/common_torreya_forest.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/carbink.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/carbink_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation6/carbink.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation6\\carbink.json"
+  ]
+}

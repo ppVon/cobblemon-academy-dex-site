@@ -1,0 +1,460 @@
+{
+  "id": "relicanth",
+  "dexnum": 369,
+  "name": "Relicanth",
+  "primaryType": "water",
+  "secondaryType": "rock",
+  "maleRatio": 0.875,
+  "labels": [
+    "gen3"
+  ],
+  "abilities": [
+    "swiftswim",
+    "rockhead",
+    "h:sturdy"
+  ],
+  "eggGroups": [
+    "water_1",
+    "water_2"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 90,
+    "defence": 130,
+    "special_attack": 45,
+    "special_defence": 65,
+    "speed": 55
+  },
+  "evYield": {
+    "hp": 1,
+    "attack": 0,
+    "defence": 1,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 25,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:deep_sea_scale",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:rindo_berry",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:tackle",
+    "1:harden",
+    "1:mudsport",
+    "5:watergun",
+    "10:ancientpower",
+    "15:yawn",
+    "20:dive",
+    "25:takedown",
+    "30:aquatail",
+    "35:rest",
+    "40:flail",
+    "45:hydropump",
+    "50:doubleedge",
+    "55:headsmash",
+    "egg:magnitude",
+    "egg:mudslap",
+    "egg:skullbash",
+    "egg:snore",
+    "egg:watersport",
+    "tm:amnesia",
+    "tm:ancientpower",
+    "tm:aquatail",
+    "tm:blizzard",
+    "tm:bodypress",
+    "tm:bodyslam",
+    "tm:bounce",
+    "tm:brine",
+    "tm:bulldoze",
+    "tm:calmmind",
+    "tm:dive",
+    "tm:doubleedge",
+    "tm:earthpower",
+    "tm:earthquake",
+    "tm:endure",
+    "tm:facade",
+    "tm:gigaimpact",
+    "tm:hail",
+    "tm:headbutt",
+    "tm:hydropump",
+    "tm:hyperbeam",
+    "tm:icebeam",
+    "tm:icywind",
+    "tm:irondefense",
+    "tm:liquidation",
+    "tm:meteorbeam",
+    "tm:muddywater",
+    "tm:mudshot",
+    "tm:mudslap",
+    "tm:protect",
+    "tm:psychup",
+    "tm:raindance",
+    "tm:rest",
+    "tm:rockblast",
+    "tm:rockpolish",
+    "tm:rockslide",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:safeguard",
+    "tm:sandstorm",
+    "tm:scald",
+    "tm:scaleshot",
+    "tm:sleeptalk",
+    "tm:smackdown",
+    "tm:snore",
+    "tm:stealthrock",
+    "tm:stompingtantrum",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:surf",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:waterfall",
+    "tm:waterpulse",
+    "tm:whirlpool",
+    "tm:zenheadbutt",
+    "tutor:ancientpower",
+    "tutor:aquatail",
+    "tutor:bounce",
+    "tutor:bulldoze",
+    "tutor:calmmind",
+    "tutor:dive",
+    "tutor:earthpower",
+    "tutor:gigaimpact",
+    "tutor:hyperbeam",
+    "tutor:icebeam",
+    "tutor:icywind",
+    "tutor:irondefense",
+    "tutor:liquidation",
+    "tutor:meteorbeam",
+    "tutor:mudslap",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:rocksmash",
+    "tutor:scaleshot",
+    "tutor:sleeptalk",
+    "tutor:snore",
+    "tutor:stealthrock",
+    "tutor:stompingtantrum",
+    "tutor:stoneedge",
+    "tutor:waterpulse",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "uncommon",
+        "weight": 2.0,
+        "levels": "24-49",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water",
+          "ocean_ruins"
+        ],
+        "rarity": "common",
+        "weight": 20.0,
+        "levels": "24-49",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "rare",
+        "weight": 10.0,
+        "levels": "24-49",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": [
+            "#cobblemon:is_deep_ocean",
+            "#cobblemon:is_lush"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 2.0,
+        "levels": "24-49",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 2.0,
+        "levels": "24-49",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "rare",
+        "weight": 6.0,
+        "levels": "24-49",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_ocean"
+          ],
+          "exclude": [
+            "#cobblemon:is_deep_ocean"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 2.0,
+        "levels": "24-49",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": [
+            "#cobblemon:is_deep_ocean",
+            "#cobblemon:is_lush"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 2.0,
+        "levels": "24-49",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": [
+            "#cobblemon:is_deep_ocean",
+            "#cobblemon:is_lush"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water",
+          "ocean_ruins"
+        ],
+        "rarity": "common",
+        "weight": 20.0,
+        "levels": "24-49",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "rare",
+        "weight": 6.0,
+        "levels": "24-49",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_ocean"
+          ],
+          "exclude": [
+            "#cobblemon:is_deep_ocean"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "uncommon",
+        "weight": 2.0,
+        "levels": "24-49",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 2.0,
+        "levels": "24-49",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 2.0,
+        "levels": "24-49",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/relicanth.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/relicanth_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation3/relicanth.json"
+  ]
+}

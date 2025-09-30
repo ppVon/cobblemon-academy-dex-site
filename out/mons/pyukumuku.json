@@ -1,0 +1,300 @@
+{
+  "id": "pyukumuku",
+  "dexnum": 771,
+  "name": "Pyukumuku",
+  "primaryType": "water",
+  "secondaryType": "",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen7"
+  ],
+  "abilities": [
+    "innardsout",
+    "h:unaware"
+  ],
+  "eggGroups": [
+    "water_1"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 60,
+    "defence": 130,
+    "special_attack": 30,
+    "special_defence": 130,
+    "speed": 5
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 2,
+    "speed": 0
+  },
+  "experienceGroup": "fast",
+  "catchRate": 60,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:slime_ball",
+        "percentage": null,
+        "quantityRange": "0-2",
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:batonpass",
+    "1:watersport",
+    "1:mudsport",
+    "1:harden",
+    "1:bide",
+    "5:helpinghand",
+    "10:taunt",
+    "15:safeguard",
+    "20:counter",
+    "25:purify",
+    "30:curse",
+    "35:gastroacid",
+    "40:painsplit",
+    "45:recover",
+    "50:soak",
+    "55:toxic",
+    "60:memento",
+    "egg:bestow",
+    "egg:mirrorcoat",
+    "egg:spite",
+    "egg:swagger",
+    "egg:tickle",
+    "tm:batonpass",
+    "tm:block",
+    "tm:curse",
+    "tm:endure",
+    "tm:gastroacid",
+    "tm:hail",
+    "tm:helpinghand",
+    "tm:lightscreen",
+    "tm:painsplit",
+    "tm:protect",
+    "tm:psychup",
+    "tm:quash",
+    "tm:raindance",
+    "tm:recycle",
+    "tm:reflect",
+    "tm:rest",
+    "tm:safeguard",
+    "tm:screech",
+    "tm:sleeptalk",
+    "tm:spite",
+    "tm:substitute",
+    "tm:swagger",
+    "tm:taunt",
+    "tm:toxic",
+    "tm:venomdrench",
+    "tutor:block",
+    "tutor:gastroacid",
+    "tutor:helpinghand",
+    "tutor:painsplit",
+    "tutor:recycle",
+    "tutor:rest",
+    "tutor:sleeptalk",
+    "tutor:spite"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 6.0,
+        "levels": "16-41",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_beach"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0771_pyukumuku.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "common",
+        "weight": 2.0,
+        "levels": "16-41",
+        "contexts": [
+          "seafloor"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_ocean"
+          ],
+          "exclude": [
+            "#cobblemon:is_frozen_ocean",
+            "#cobblemon:is_warm_ocean"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0771_pyukumuku.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "common",
+        "weight": 10.0,
+        "levels": "16-41",
+        "contexts": [
+          "seafloor"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_warm_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0771_pyukumuku.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 2.0,
+        "levels": "16-41",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_beach",
+            "#cobblemon:is_ocean"
+          ],
+          "exclude": [
+            "#cobblemon:is_frozen_ocean",
+            "#cobblemon:is_warm_ocean"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0771_pyukumuku.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 10.0,
+        "levels": "16-41",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_warm_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0771_pyukumuku.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 2.0,
+        "levels": "16-41",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_beach",
+            "#cobblemon:is_ocean"
+          ],
+          "exclude": [
+            "#cobblemon:is_frozen_ocean",
+            "#cobblemon:is_warm_ocean"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0771_pyukumuku.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 10.0,
+        "levels": "16-41",
+        "contexts": [
+          "fishing"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_warm_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0771_pyukumuku.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "common",
+        "weight": 1.2,
+        "levels": "16-41",
+        "contexts": [
+          "seafloor"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_safari_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/common_is_safari_ocean.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/pyukumuku.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/pyukumuku_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/pyukumuku.json"
+  ]
+}

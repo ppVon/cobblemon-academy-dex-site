@@ -1,0 +1,121 @@
+{
+  "id": "ogerponteal",
+  "dexnum": 1017,
+  "name": "ogerponteal",
+  "primaryType": "grass",
+  "secondaryType": "",
+  "maleRatio": 0,
+  "labels": [
+    "custom",
+    "gen9",
+    "legendary"
+  ],
+  "abilities": [
+    "defiant"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 88,
+    "attack": 120,
+    "defence": 84,
+    "special_attack": 60,
+    "special_defence": 96,
+    "speed": 110
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 3,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 20,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:followme",
+    "1:leechseed",
+    "1:quickattack",
+    "1:vinewhip",
+    "6:focusenergy",
+    "12:growth",
+    "24:lowsweep",
+    "30:ivycudgel",
+    "36:throatchop",
+    "42:synthesis",
+    "48:spikyshield",
+    "54:powerwhip",
+    "60:superpower",
+    "66:woodhammer",
+    "tm:takedown",
+    "tm:charm",
+    "tm:scaryface",
+    "tm:protect",
+    "tm:lowkick",
+    "tm:trailblaze",
+    "tm:facade",
+    "tm:magicalleaf",
+    "tm:rocktomb",
+    "tm:fling",
+    "tm:endure",
+    "tm:sunnyday",
+    "tm:raindance",
+    "tm:sandstorm",
+    "tm:bulletseed",
+    "tm:falseswipe",
+    "tm:brickbreak",
+    "tm:zenheadbutt",
+    "tm:sleeptalk",
+    "tm:seedbomb",
+    "tm:grassknot",
+    "tm:stompingtantrum",
+    "tm:rest",
+    "tm:taunt",
+    "tm:swordsdance",
+    "tm:spikes",
+    "tm:substitude",
+    "tm:gigadrain",
+    "tm:energyball",
+    "tm:encore",
+    "tm:playrough",
+    "tm:helpinghand",
+    "tm:reversal",
+    "tm:grassyterrain",
+    "tm:gigaimpact",
+    "tm:leafstorm",
+    "tm:solarbeam",
+    "tm:knockoff",
+    "tm:solarblade",
+    "tm:grassyglide",
+    "tm:lashout"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "ogerponteal_ogerpon",
+      "variant": "level_up",
+      "result": "ogerpon",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    }
+  ],
+  "spawns": [],
+  "implemented": true,
+  "images": {},
+  "speciesSources": [
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\custom\\ogerponteal.json"
+  ]
+}

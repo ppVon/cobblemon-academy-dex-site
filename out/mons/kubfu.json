@@ -1,0 +1,221 @@
+{
+  "id": "kubfu",
+  "dexnum": 891,
+  "name": "Kubfu",
+  "primaryType": "fighting",
+  "secondaryType": "",
+  "maleRatio": 0.875,
+  "labels": [
+    "gen8",
+    "legendary"
+  ],
+  "abilities": [
+    "innerfocus",
+    "h:innerfocus"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 90,
+    "defence": 60,
+    "special_attack": 53,
+    "special_defence": 50,
+    "speed": 72
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:rocksmash",
+    "1:leer",
+    "4:endure",
+    "8:focusenergy",
+    "12:aerialace",
+    "16:scaryface",
+    "20:headbutt",
+    "24:brickbreak",
+    "28:detect",
+    "32:bulkup",
+    "36:ironhead",
+    "40:dynamicpunch",
+    "44:counter",
+    "48:closecombat",
+    "52:focuspunch",
+    "tm:acrobatics",
+    "tm:aerialace",
+    "tm:bodyslam",
+    "tm:brickbreak",
+    "tm:bulkup",
+    "tm:closecombat",
+    "tm:dig",
+    "tm:doubleedge",
+    "tm:endure",
+    "tm:facade",
+    "tm:firepunch",
+    "tm:fling",
+    "tm:focusenergy",
+    "tm:focuspunch",
+    "tm:headbutt",
+    "tm:helpinghand",
+    "tm:icepunch",
+    "tm:ironhead",
+    "tm:lowkick",
+    "tm:lowsweep",
+    "tm:megakick",
+    "tm:megapunch",
+    "tm:metalclaw",
+    "tm:protect",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:revenge",
+    "tm:reversal",
+    "tm:rocksmash",
+    "tm:scaryface",
+    "tm:sleeptalk",
+    "tm:substitute",
+    "tm:superpower",
+    "tm:swordsdance",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:thunderpunch",
+    "tm:uturn",
+    "tm:workup",
+    "tm:zenheadbutt",
+    "tutor:aerialace",
+    "tutor:bulkup",
+    "tutor:firepunch",
+    "tutor:focusenergy",
+    "tutor:focuspunch",
+    "tutor:helpinghand",
+    "tutor:icepunch",
+    "tutor:ironhead",
+    "tutor:lowkick",
+    "tutor:rest",
+    "tutor:rocksmash",
+    "tutor:sleeptalk",
+    "tutor:superpower",
+    "tutor:thunderpunch",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "kubfu_urshifu",
+      "variant": "item_interact",
+      "result": "urshifu wushu_style=single_strike",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "wickedblow"
+      ],
+      "requirements": [],
+      "requiredContext": "cobblemon:muscle_band"
+    },
+    {
+      "id": "kubfu_urshifurapidstrike",
+      "variant": "item_interact",
+      "result": "urshifu wushu_style=rapid_strike",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "surgingstrikes"
+      ],
+      "requirements": [],
+      "requiredContext": "cobblemon:expert_belt"
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "15",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "kubfus_band",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_jungle",
+            "terralith:cave/underground_jungle",
+            "wythers:dripleaf_swamp",
+            "wythers:eucalyptus_deanei_forest",
+            "wythers:highland_tropical_rainforest",
+            "wythers:humid_tropical_grassland",
+            "wythers:jungle_canyon",
+            "wythers:subtropical_forest",
+            "wythers:subtropical_forest_edge",
+            "wythers:subtropical_grassland",
+            "wythers:tropical_forest",
+            "wythers:tropical_forest_canyon",
+            "wythers:tropical_grassland",
+            "wythers:tropical_island",
+            "wythers:tropical_rainforest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kubfu.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "15",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "kubfus_band",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "wythers:bamboo_jungle_highlands",
+            "#cobblemon:is_bamboo",
+            "wythers:bamboo_jungle_canyon",
+            "wythers:bamboo_jungle_highlands",
+            "wythers:bamboo_jungle_swamp",
+            "wythers:bamboo_swamp",
+            "wythers:sakura_forest",
+            "wythers:sandy_jungle",
+            "wythers:sparse_bamboo_jungle"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kubfu.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/kubfu.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/kubfu_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation8/kubfu.json",
+    "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/species/generation8/kubfu.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation8\\kubfu.json"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "cosmog",
+  "dexnum": 789,
+  "name": "Cosmog",
+  "primaryType": "psychic",
+  "secondaryType": "",
+  "maleRatio": -1,
+  "labels": [
+    "gen7",
+    "legendary"
+  ],
+  "abilities": [
+    "unaware"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 43,
+    "attack": 29,
+    "defence": 31,
+    "special_attack": 29,
+    "special_defence": 31,
+    "speed": 37
+  },
+  "evYield": {
+    "hp": 1,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 45,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:splash",
+    "1:teleport",
+    "tutor:splash",
+    "tutor:teleport"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "cosmog_cosmoem",
+      "variant": "level_up",
+      "result": "cosmoem",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "cosmicpower"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 43
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "15",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "lillies_bag",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:cherry_grove",
+            "minecraft:flower_forest",
+            "minecraft:meadow",
+            "minecraft:sunflower_plains",
+            "#byg:is_floral",
+            "#c:floral",
+            "#c:flower_forests",
+            "byg:amaranth_fields",
+            "byg:allium_fields",
+            "byg:rose_fields",
+            "byg:skyris_vale",
+            "byg:cherry_blossom_forest",
+            "byg:orchard",
+            "terralith:blooming_plateau",
+            "terralith:blooming_valley",
+            "terralith:lavender_forest",
+            "terralith:lavender_valley",
+            "terralith:sakura_grove",
+            "terralith:sakura_valley",
+            "wythers:autumnal_flower_forest",
+            "wythers:flowering_pantanal",
+            "wythers:jacaranda_savanna",
+            "wythers:lapacho_plains",
+            "wythers:sakura_forest",
+            "wythers:spring_flower_fields",
+            "wythers:spring_flower_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-cosmog.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "15",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "lillies_bag",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:the_end",
+            "minecraft:end_barrens",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-cosmog.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/genomons/cosmog.png",
+      "out/sprites/cobblemon/cosmog.png"
+    ],
+    "shiny": [
+      "out/sprites/genomons/cosmog_shiny.png",
+      "out/sprites/cobblemon/cosmog_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/cosmog.json",
+    "datapacks\\MysticMons_v3.2.1\\data\\cobblemon\\species\\generation7\\cosmog.json"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "marshadow",
+  "dexnum": 802,
+  "name": "Marshadow",
+  "primaryType": "fighting",
+  "secondaryType": "ghost",
+  "maleRatio": -1,
+  "labels": [
+    "gen7",
+    "mythical"
+  ],
+  "abilities": [
+    "technician"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 125,
+    "defence": 80,
+    "special_attack": 90,
+    "special_defence": 90,
+    "speed": 125
+  },
+  "evYield": {
+    "attack": 2,
+    "speed": 1
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:firepunch",
+    "1:icepunch",
+    "1:thunderpunch",
+    "1:counter",
+    "1:pursuit",
+    "1:feint",
+    "1:copycat",
+    "1:shadowsneak",
+    "9:roleplay",
+    "15:rollingkick",
+    "18:shadowpunch",
+    "27:forcepalm",
+    "35:jumpkick",
+    "36:assurance",
+    "45:suckerpunch",
+    "54:drainpunch",
+    "63:psychup",
+    "72:spectralthief",
+    "81:laserfocus",
+    "90:endeavor",
+    "99:closecombat",
+    "tm:acrobatics",
+    "tm:agility",
+    "tm:assurance",
+    "tm:aurasphere",
+    "tm:blazekick",
+    "tm:bounce",
+    "tm:brickbreak",
+    "tm:bulkup",
+    "tm:calmmind",
+    "tm:closecombat",
+    "tm:confide",
+    "tm:doubleteam",
+    "tm:drainpunch",
+    "tm:echoedvoice",
+    "tm:endure",
+    "tm:facade",
+    "tm:falseswipe",
+    "tm:firepunch",
+    "tm:fling",
+    "tm:focusblast",
+    "tm:foulplay",
+    "tm:frustration",
+    "tm:gigaimpact",
+    "tm:grassknot",
+    "tm:hex",
+    "tm:hiddenpower",
+    "tm:hyperbeam",
+    "tm:icepunch",
+    "tm:ironhead",
+    "tm:lowkick",
+    "tm:lowsweep",
+    "tm:megakick",
+    "tm:megapunch",
+    "tm:outrage",
+    "tm:payback",
+    "tm:phantomforce",
+    "tm:poisonjab",
+    "tm:protect",
+    "tm:rest",
+    "tm:return",
+    "tm:revenge",
+    "tm:reversal",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:shadowball",
+    "tm:shadowclaw",
+    "tm:sleeptalk",
+    "tm:smackdown",
+    "tm:snore",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:superpower",
+    "tm:swagger",
+    "tm:swift",
+    "tm:thief",
+    "tm:throatchop",
+    "tm:thunderpunch",
+    "tm:toxic",
+    "tm:willowisp",
+    "tm:workup",
+    "tm:zenheadbutt",
+    "tutor:coaching",
+    "tutor:focuspunch",
+    "tutor:knockoff",
+    "tutor:lastresort",
+    "tutor:poltergeist",
+    "tutor:skittersmack",
+    "tutor:snatch"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.6,
+        "levels": "31-48",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/ultra-rare_dark_swamp.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.03,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:dark_forest",
+            "minecraft:swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-marshadow.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.03,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_spooky",
+            "#cobblemon:is_dark",
+            "#cobblemon:is_deep_dark"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-marshadow.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/marshadow.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/marshadow_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/marshadow.json",
+    "datapacks\\MysticMons_v3.2.1\\data\\cobblemon\\species\\generation7\\marshadow.json"
+  ]
+}

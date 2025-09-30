@@ -1,0 +1,243 @@
+{
+  "id": "virizion",
+  "dexnum": 640,
+  "name": "Virizion",
+  "primaryType": "grass",
+  "secondaryType": "fighting",
+  "maleRatio": -1,
+  "labels": [
+    "gen5",
+    "legendary"
+  ],
+  "abilities": [
+    "justified"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 91,
+    "attack": 90,
+    "defence": 72,
+    "special_attack": 90,
+    "special_defence": 129,
+    "speed": 108
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 3,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:helpinghand",
+    "1:leer",
+    "1:quickattack",
+    "1:takedown",
+    "1:workup",
+    "7:magicalleaf",
+    "14:quickguard",
+    "21:doublekick",
+    "28:retaliate",
+    "35:gigadrain",
+    "42:synthesis",
+    "42:takedown",
+    "49:sacredsword",
+    "56:swordsdance",
+    "63:leafblade",
+    "70:closecombat",
+    "tm:aerialace",
+    "tm:airslash",
+    "tm:aurasphere",
+    "tm:bodyslam",
+    "tm:bounce",
+    "tm:brickbreak",
+    "tm:bulletseed",
+    "tm:calmmind",
+    "tm:closecombat",
+    "tm:coaching",
+    "tm:confide",
+    "tm:cut",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:falseswipe",
+    "tm:flash",
+    "tm:focusblast",
+    "tm:frustration",
+    "tm:gigadrain",
+    "tm:gigaimpact",
+    "tm:grassknot",
+    "tm:grassyglide",
+    "tm:helpinghand",
+    "tm:hiddenpower",
+    "tm:hyperbeam",
+    "tm:leafblade",
+    "tm:leafstorm",
+    "tm:lightscreen",
+    "tm:magicalleaf",
+    "tm:megahorn",
+    "tm:naturepower",
+    "tm:protect",
+    "tm:psychup",
+    "tm:reflect",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:return",
+    "tm:revenge",
+    "tm:reversal",
+    "tm:roar",
+    "tm:rocksmash",
+    "tm:round",
+    "tm:safeguard",
+    "tm:scaryface",
+    "tm:secretpower",
+    "tm:seedbomb",
+    "tm:sleeptalk",
+    "tm:smartstrike",
+    "tm:snore",
+    "tm:solarbeam",
+    "tm:solarblade",
+    "tm:stoneedge",
+    "tm:strength",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:superpower",
+    "tm:swagger",
+    "tm:swift",
+    "tm:swordsdance",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:toxic",
+    "tm:trailblaze",
+    "tm:upperhand",
+    "tm:vacuumwave",
+    "tm:workup",
+    "tm:xscissor",
+    "tm:zenheadbutt",
+    "tutor:block",
+    "tutor:bounce",
+    "tutor:coaching",
+    "tutor:gigadrain",
+    "tutor:grassyglide",
+    "tutor:helpinghand",
+    "tutor:laserfocus",
+    "tutor:quickguard",
+    "tutor:retaliate",
+    "tutor:seedbomb",
+    "tutor:sleeptalk",
+    "tutor:snore",
+    "tutor:superpower",
+    "tutor:synthesis",
+    "tutor:workup",
+    "tutor:worryseed",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "grassland_blade",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_hill",
+            "#cobblemon:is_highlands",
+            "#c:mountain_slope",
+            "#forge:is_slope",
+            "terralith:blooming_valley",
+            "terralith:forested_highlands",
+            "terralith:lavender_valley",
+            "terralith:lush_valley",
+            "terralith:moonlight_valley",
+            "terralith:sakura_valley",
+            "terralith:savanna_slopes",
+            "terralith:temperate_highlands",
+            "terralith:yosemite_lowlands",
+            "wythers:autumnal_crags",
+            "wythers:ayers_rock",
+            "wythers:icy_crags",
+            "wythers:old_growth_taiga_crags",
+            "wythers:taiga_crags",
+            "wythers:temperate_rainforest_crags",
+            "wythers:thermal_taiga_crags",
+            "wythers:windswept_jungle"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-virizion.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "grassland_blade",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_mountain",
+            "#cobblemon:is_hills",
+            "#forge:is_mountain",
+            "terralith:stony_spires",
+            "terralith:volcanic_peaks",
+            "terralith:windswept_spires",
+            "terralith:yosemite_cliffs",
+            "wythers:tibesti_mountains"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-virizion.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/virizion.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/virizion_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/virizion.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation5\\virizion.json"
+  ]
+}

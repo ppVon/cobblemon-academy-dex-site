@@ -1,0 +1,210 @@
+{
+  "id": "ironbundle",
+  "dexnum": 991,
+  "name": "Iron Bundle",
+  "primaryType": "ice",
+  "secondaryType": "water",
+  "maleRatio": -1,
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "abilities": [
+    "quarkdrive"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 56,
+    "attack": 80,
+    "defence": 114,
+    "special_attack": 124,
+    "special_defence": 60,
+    "speed": 136
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 3
+  },
+  "experienceGroup": "slow",
+  "catchRate": 50,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:ice",
+        "percentage": null,
+        "quantityRange": "1-3",
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:electricterrain",
+    "1:present",
+    "7:powdersnow",
+    "14:whirlpool",
+    "21:takedown",
+    "28:drillpeck",
+    "35:helpinghand",
+    "42:freezedry",
+    "49:flipturn",
+    "56:icebeam",
+    "63:agility",
+    "70:snowscape",
+    "77:hydropump",
+    "84:auroraveil",
+    "91:blizzard",
+    "tm:acrobatics",
+    "tm:agility",
+    "tm:aircutter",
+    "tm:avalanche",
+    "tm:blizzard",
+    "tm:bodyslam",
+    "tm:chillingwater",
+    "tm:electricterrain",
+    "tm:encore",
+    "tm:endure",
+    "tm:facade",
+    "tm:fling",
+    "tm:gigaimpact",
+    "tm:helpinghand",
+    "tm:hydropump",
+    "tm:hyperbeam",
+    "tm:icebeam",
+    "tm:icepunch",
+    "tm:icespinner",
+    "tm:icywind",
+    "tm:playrough",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:sleeptalk",
+    "tm:snowscape",
+    "tm:substitute",
+    "tm:swift",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:thief",
+    "tm:uturn",
+    "tm:waterpulse",
+    "tutor:drillpeck",
+    "tutor:flipturn",
+    "tutor:freezedry",
+    "tutor:helpinghand"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.32,
+        "levels": "27-48",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/ultra-rare_starlight_permafrost_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.0,
+        "levels": "50-70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_freezing",
+            "#cobblemon:is_glacial",
+            "#cobblemon:is_tundra"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/ironbundle.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.0,
+        "levels": "50-70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_end"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/ironbundle.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.0,
+        "levels": "50-70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_end"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/ironbundle.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/ironbundle.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/ironbundle_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation9/ironbundle.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation9\\ironbundle.json"
+  ]
+}

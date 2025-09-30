@@ -1,0 +1,127 @@
+{
+  "id": "necrozma_ultra",
+  "dexnum": 800,
+  "name": "Necrozma Ultra",
+  "primaryType": "psychic",
+  "secondaryType": "dragon",
+  "maleRatio": -1,
+  "labels": [
+    "gen7",
+    "legendary"
+  ],
+  "abilities": [
+    "neuroforce"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 97,
+    "attack": 167,
+    "defence": 97,
+    "special_attack": 167,
+    "special_defence": 97,
+    "speed": 129
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 1,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "experienceGroup": "slow",
+  "catchRate": 255,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "form_change:moongeistbeam",
+    "form_change:sunsteelstrike"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "necrozma_ultranecrozma",
+      "variant": "level_up",
+      "result": "ultranecrozma",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 80
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "necro_prism",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_dark"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-necrozma.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "necro_prism",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:the_end",
+            "minecraft:end_barrens",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-necrozma.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon_reanimodel/necrozma_ultra.png",
+      "out/sprites/cobblemon/necrozma_ultra.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon_reanimodel/necrozma_ultra_shiny.png",
+      "out/sprites/cobblemon/necrozma_ultra_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/necrozma.json",
+    "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/species/generation7/necrozma.json",
+    "datapacks\\MysticMons_v3.2.1\\data\\cobblemon\\species\\generation7\\necrozma.json"
+  ]
+}

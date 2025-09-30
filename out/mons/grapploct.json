@@ -1,0 +1,199 @@
+{
+  "id": "grapploct",
+  "dexnum": 853,
+  "name": "Grapploct",
+  "primaryType": "fighting",
+  "secondaryType": "",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen8"
+  ],
+  "abilities": [
+    "limber",
+    "h:technician"
+  ],
+  "eggGroups": [
+    "water_1",
+    "human_like"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 118,
+    "defence": 90,
+    "special_attack": 70,
+    "special_defence": 80,
+    "speed": 42
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 2,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_slow",
+  "catchRate": 45,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "minecraft:ink_sac",
+        "percentage": null,
+        "quantityRange": "2-4",
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:pinap_berry",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:octolock",
+    "1:octazooka",
+    "1:rocksmash",
+    "1:leer",
+    "1:feint",
+    "1:bind",
+    "15:detect",
+    "20:brickbreak",
+    "25:bulkup",
+    "30:submission",
+    "35:taunt",
+    "40:reversal",
+    "45:superpower",
+    "50:topsyturvy",
+    "egg:circlethrow",
+    "egg:painsplit",
+    "egg:poweruppunch",
+    "egg:seismictoss",
+    "egg:soak",
+    "egg:suckerpunch",
+    "tm:bind",
+    "tm:bodyslam",
+    "tm:brickbreak",
+    "tm:brine",
+    "tm:brutalswing",
+    "tm:bulkup",
+    "tm:closecombat",
+    "tm:coaching",
+    "tm:dig",
+    "tm:dive",
+    "tm:drainpunch",
+    "tm:endure",
+    "tm:facade",
+    "tm:focusblast",
+    "tm:gigaimpact",
+    "tm:hydropump",
+    "tm:hyperbeam",
+    "tm:icepunch",
+    "tm:liquidation",
+    "tm:megapunch",
+    "tm:muddywater",
+    "tm:mudshot",
+    "tm:painsplit",
+    "tm:payback",
+    "tm:poweruppunch",
+    "tm:protect",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:revenge",
+    "tm:reversal",
+    "tm:rocksmash",
+    "tm:scaryface",
+    "tm:skittersmack",
+    "tm:sleeptalk",
+    "tm:stompingtantrum",
+    "tm:substitute",
+    "tm:suckerpunch",
+    "tm:superpower",
+    "tm:surf",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:waterfall",
+    "tm:whirlpool",
+    "tm:workup",
+    "tutor:bind",
+    "tutor:bulkup",
+    "tutor:coaching",
+    "tutor:dive",
+    "tutor:drainpunch",
+    "tutor:gigaimpact",
+    "tutor:hyperbeam",
+    "tutor:icepunch",
+    "tutor:liquidation",
+    "tutor:painsplit",
+    "tutor:rest",
+    "tutor:rocksmash",
+    "tutor:skittersmack",
+    "tutor:sleeptalk",
+    "tutor:stompingtantrum",
+    "tutor:suckerpunch",
+    "tutor:superpower"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 2.5,
+        "levels": "13-34",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_coast",
+            "#cobblemon:is_island"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/grapploct.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water_surface"
+        ],
+        "rarity": "common",
+        "weight": 0.2,
+        "levels": "13-34",
+        "contexts": [
+          "surface"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_river",
+            "#cobblemon:is_freshwater"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/grapploct.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/grapploct.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/grapploct_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation8/grapploct.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation8\\grapploct.json"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "spectrier",
+  "dexnum": 897,
+  "name": "Spectrier",
+  "primaryType": "ghost",
+  "secondaryType": "",
+  "maleRatio": -1,
+  "labels": [
+    "gen8",
+    "legendary"
+  ],
+  "abilities": [
+    "grimneigh"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 65,
+    "defence": 60,
+    "special_attack": 145,
+    "special_defence": 80,
+    "speed": 130
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 3,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:tackle",
+    "1:tailwhip",
+    "6:doublekick",
+    "12:hex",
+    "18:stomp",
+    "24:confuseray",
+    "30:haze",
+    "36:shadowball",
+    "42:takedown",
+    "48:agility",
+    "54:thrash",
+    "60:disable",
+    "66:doubleedge",
+    "72:nastyplot",
+    "tm:agility",
+    "tm:assurance",
+    "tm:bodyslam",
+    "tm:bulldoze",
+    "tm:calmmind",
+    "tm:confuseray",
+    "tm:crunch",
+    "tm:darkpulse",
+    "tm:drainingkiss",
+    "tm:endure",
+    "tm:facade",
+    "tm:foulplay",
+    "tm:gigaimpact",
+    "tm:hex",
+    "tm:hyperbeam",
+    "tm:mudshot",
+    "tm:nastyplot",
+    "tm:nightshade",
+    "tm:payback",
+    "tm:phantomforce",
+    "tm:protect",
+    "tm:psychic",
+    "tm:psychocut",
+    "tm:rest",
+    "tm:round",
+    "tm:scaryface",
+    "tm:shadowball",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:snore",
+    "tm:stompingtantrum",
+    "tm:substitute",
+    "tm:swift",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:uproar",
+    "tm:willowisp",
+    "tutor:disable",
+    "tutor:doubleedge",
+    "tutor:lashout",
+    "tutor:nastyplot",
+    "tutor:thrash"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "shaderoot_carrot",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_forest",
+            "#cobblemon:is_dark_forest",
+            "#cobblemon:is_plains"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-spectrier.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "shaderoot_carrot",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_forest",
+            "#cobblemon:is_spooky",
+            "#cobblemon:is_plains"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-spectrier.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/genomons/spectrier.png",
+      "out/sprites/cobblemon/spectrier.png"
+    ],
+    "shiny": [
+      "out/sprites/genomons/spectrier_shiny.png",
+      "out/sprites/cobblemon/spectrier_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation8/spectrier.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation8\\spectrier.json"
+  ]
+}

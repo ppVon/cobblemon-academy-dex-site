@@ -1,0 +1,226 @@
+{
+  "id": "irontreads",
+  "dexnum": 990,
+  "name": "Iron Treads",
+  "primaryType": "ground",
+  "secondaryType": "steel",
+  "maleRatio": -1,
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "abilities": [
+    "quarkdrive",
+    "h:quarkdrive"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 112,
+    "defence": 120,
+    "special_attack": 72,
+    "special_defence": 70,
+    "speed": 106
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 3,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 30,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:iron_ingot",
+        "percentage": null,
+        "quantityRange": "1-3",
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:hornattack",
+    "1:defensecurl",
+    "1:rollout",
+    "1:electricterrain",
+    "7:bulldoze",
+    "21:rapidspin",
+    "28:ironhead",
+    "35:stompingtantrum",
+    "42:knockoff",
+    "49:earthquake",
+    "56:heavyslam",
+    "63:wildcharge",
+    "70:endeavor",
+    "77:megahorn",
+    "84:gigaimpact",
+    "91:steelroller",
+    "tm:bodypress",
+    "tm:bodyslam",
+    "tm:bulldoze",
+    "tm:doubleedge",
+    "tm:earthpower",
+    "tm:earthquake",
+    "tm:electricterrain",
+    "tm:electroball",
+    "tm:endeavor",
+    "tm:facade",
+    "tm:flashcannon",
+    "tm:gigaimpact",
+    "tm:gyroball",
+    "tm:hardpress",
+    "tm:heavyslam",
+    "tm:highhorsepower",
+    "tm:hyperbeam",
+    "tm:icefang",
+    "tm:icespinner",
+    "tm:irondefense",
+    "tm:ironhead",
+    "tm:knockoff",
+    "tm:megahorn",
+    "tm:metalsound",
+    "tm:mudshot",
+    "tm:mudslap",
+    "tm:protect",
+    "tm:rest",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:rollout",
+    "tm:sandstorm",
+    "tm:scaryface",
+    "tm:sleeptalk",
+    "tm:smartstrike",
+    "tm:stealthrock",
+    "tm:steelbeam",
+    "tm:steelroller",
+    "tm:stompingtantrum",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:supercellslam",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:thunder",
+    "tm:thunderfang",
+    "tm:voltswitch",
+    "tm:wildcharge",
+    "tm:zenheadbutt",
+    "tutor:bulldoze",
+    "tutor:earthpower",
+    "tutor:endeavor",
+    "tutor:flashcannon",
+    "tutor:gigaimpact",
+    "tutor:highhorsepower",
+    "tutor:hyperbeam",
+    "tutor:icefang",
+    "tutor:irondefense",
+    "tutor:ironhead",
+    "tutor:knockoff",
+    "tutor:megahorn",
+    "tutor:mudslap",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:rollout",
+    "tutor:sleeptalk",
+    "tutor:stealthrock",
+    "tutor:steelbeam",
+    "tutor:steelroller",
+    "tutor:stompingtantrum",
+    "tutor:stoneedge",
+    "tutor:thunderfang",
+    "tutor:wildcharge",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.2,
+        "levels": "31-53",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/ultra-rare_crystallized_desert.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.0,
+        "levels": "50-70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_arid",
+            "#cobblemon:is_badlands",
+            "#cobblemon:is_mountain"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/irontreads.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.5,
+        "levels": "50-70",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_end"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/irontreads.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/irontreads.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/irontreads_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation9/irontreads.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation9\\irontreads.json"
+  ]
+}

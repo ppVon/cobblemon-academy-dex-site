@@ -1,0 +1,236 @@
+{
+  "id": "vullaby",
+  "dexnum": 629,
+  "name": "Vullaby",
+  "primaryType": "dark",
+  "secondaryType": "flying",
+  "maleRatio": 0,
+  "labels": [
+    "gen5"
+  ],
+  "abilities": [
+    "bigpecks",
+    "overcoat",
+    "h:weakarmor"
+  ],
+  "eggGroups": [
+    "flying"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 55,
+    "defence": 75,
+    "special_attack": 45,
+    "special_defence": 65,
+    "speed": 60
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 1,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 190,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "percentage": null,
+        "quantityRange": "0-1",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:rotten_flesh",
+        "percentage": null,
+        "quantityRange": "0-1",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:chicken",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:bluk_berry",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:gust",
+    "1:leer",
+    "5:furyattack",
+    "6:flatter",
+    "12:pluck",
+    "18:tailwind",
+    "23:feintattack",
+    "24:knockoff",
+    "28:punishment",
+    "30:irondefense",
+    "36:whirlwind",
+    "42:airslash",
+    "48:darkpulse",
+    "50:embargo",
+    "54:nastyplot",
+    "60:defog",
+    "64:mirrormove",
+    "66:attract",
+    "72:bravebird",
+    "egg:faketears",
+    "egg:foulplay",
+    "egg:knockoff",
+    "egg:meanlook",
+    "egg:roost",
+    "egg:scaryface",
+    "egg:steelwing",
+    "egg:toxic",
+    "tm:aerialace",
+    "tm:airslash",
+    "tm:assurance",
+    "tm:attract",
+    "tm:bravebird",
+    "tm:confide",
+    "tm:cut",
+    "tm:darkpulse",
+    "tm:doubleteam",
+    "tm:embargo",
+    "tm:endure",
+    "tm:facade",
+    "tm:faketears",
+    "tm:fly",
+    "tm:foulplay",
+    "tm:frustration",
+    "tm:heatwave",
+    "tm:hiddenpower",
+    "tm:incinerate",
+    "tm:irondefense",
+    "tm:nastyplot",
+    "tm:payback",
+    "tm:pluck",
+    "tm:protect",
+    "tm:psychup",
+    "tm:raindance",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:return",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:roost",
+    "tm:round",
+    "tm:scaryface",
+    "tm:secretpower",
+    "tm:shadowball",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:snore",
+    "tm:steelwing",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swagger",
+    "tm:swift",
+    "tm:taunt",
+    "tm:thief",
+    "tm:torment",
+    "tm:toxic",
+    "tm:uturn",
+    "tutor:block",
+    "tutor:darkpulse",
+    "tutor:defog",
+    "tutor:dualwingbeat",
+    "tutor:foulplay",
+    "tutor:heatwave",
+    "tutor:irondefense",
+    "tutor:knockoff",
+    "tutor:lashout",
+    "tutor:roost",
+    "tutor:sleeptalk",
+    "tutor:snatch",
+    "tutor:snore",
+    "tutor:tailwind"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "vullaby_mandibuzz",
+      "variant": "level_up",
+      "result": "mandibuzz",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "bonerush"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 54
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 2.1,
+        "levels": "27-53",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/common_dark_swamp.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3,
+        "levels": "10-25",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_arid"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/vullaby.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/vullaby.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/vullaby_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/vullaby.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation5\\vullaby.json"
+  ]
+}

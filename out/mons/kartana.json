@@ -1,0 +1,134 @@
+{
+  "id": "kartana",
+  "dexnum": 798,
+  "name": "Kartana",
+  "primaryType": "grass",
+  "secondaryType": "steel",
+  "maleRatio": -1,
+  "labels": [
+    "gen7",
+    "ultra_beast"
+  ],
+  "abilities": [
+    "beastboost",
+    "h:beastboost"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 59,
+    "attack": 181,
+    "defence": 131,
+    "special_attack": 59,
+    "special_defence": 31,
+    "speed": 109
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 3,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 45,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:echo_shard",
+        "percentage": null,
+        "quantityRange": "1-3",
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:vacuumwave",
+    "1:furycutter",
+    "5:razorleaf",
+    "10:falseswipe",
+    "15:cut",
+    "20:aircutter",
+    "25:aerialace",
+    "30:detect",
+    "35:nightslash",
+    "40:synthesis",
+    "45:laserfocus",
+    "50:defog",
+    "55:leafblade",
+    "60:sacredsword",
+    "65:swordsdance",
+    "70:guillotine",
+    "tm:aerialace",
+    "tm:aircutter",
+    "tm:airslash",
+    "tm:brickbreak",
+    "tm:calmmind",
+    "tm:cut",
+    "tm:defog",
+    "tm:endure",
+    "tm:falseswipe",
+    "tm:furycutter",
+    "tm:gigadrain",
+    "tm:gigaimpact",
+    "tm:irondefense",
+    "tm:knockoff",
+    "tm:laserfocus",
+    "tm:lastresort",
+    "tm:leafblade",
+    "tm:protect",
+    "tm:psychocut",
+    "tm:rest",
+    "tm:screech",
+    "tm:sleeptalk",
+    "tm:smartstrike",
+    "tm:solarblade",
+    "tm:steelbeam",
+    "tm:substitute",
+    "tm:swordsdance",
+    "tm:synthesis",
+    "tm:tailwind",
+    "tm:terablast",
+    "tm:vacuumwave",
+    "tm:xscissor",
+    "tutor:aerialace",
+    "tutor:aircutter",
+    "tutor:calmmind",
+    "tutor:defog",
+    "tutor:falseswipe",
+    "tutor:furycutter",
+    "tutor:gigadrain",
+    "tutor:gigaimpact",
+    "tutor:irondefense",
+    "tutor:knockoff",
+    "tutor:laserfocus",
+    "tutor:lastresort",
+    "tutor:psychocut",
+    "tutor:rest",
+    "tutor:sleeptalk",
+    "tutor:steelbeam",
+    "tutor:synthesis",
+    "tutor:tailwind",
+    "tutor:vacuumwave",
+    "tutor:xscissor"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/kartana.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/kartana_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/kartana.json"
+  ]
+}

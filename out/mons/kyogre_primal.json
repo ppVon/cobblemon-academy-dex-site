@@ -1,0 +1,241 @@
+{
+  "id": "kyogre_primal",
+  "dexnum": 382,
+  "name": "Kyogre Primal",
+  "primaryType": "water",
+  "secondaryType": "",
+  "maleRatio": -1,
+  "labels": [
+    "gen6",
+    "primal",
+    "legendary"
+  ],
+  "abilities": [
+    "primordialsea"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 150,
+    "defence": 90,
+    "special_attack": 180,
+    "special_defence": 160,
+    "speed": 90
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 3,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "minecraft:heart_of_the_sea",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:ancientpower",
+    "1:bodyslam",
+    "1:originpulse",
+    "1:scaryface",
+    "1:waterpulse",
+    "9:aquatail",
+    "18:calmmind",
+    "27:muddywater",
+    "36:icebeam",
+    "45:sheercold",
+    "50:rest",
+    "54:aquaring",
+    "72:hydropump",
+    "81:doubleedge",
+    "90:waterspout",
+    "tm:avalanche",
+    "tm:blizzard",
+    "tm:bodyslam",
+    "tm:brickbreak",
+    "tm:brine",
+    "tm:bulldoze",
+    "tm:calmmind",
+    "tm:chillingwater",
+    "tm:confide",
+    "tm:dive",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:earthquake",
+    "tm:endure",
+    "tm:facade",
+    "tm:frustration",
+    "tm:gigaimpact",
+    "tm:hail",
+    "tm:heavyslam",
+    "tm:helpinghand",
+    "tm:hiddenpower",
+    "tm:hydropump",
+    "tm:hyperbeam",
+    "tm:icebeam",
+    "tm:icywind",
+    "tm:ironhead",
+    "tm:liquidation",
+    "tm:muddywater",
+    "tm:naturalgift",
+    "tm:protect",
+    "tm:psychup",
+    "tm:raindance",
+    "tm:rest",
+    "tm:return",
+    "tm:roar",
+    "tm:rockslide",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:safeguard",
+    "tm:scald",
+    "tm:scaryface",
+    "tm:secretpower",
+    "tm:shockwave",
+    "tm:sleeptalk",
+    "tm:snore",
+    "tm:strength",
+    "tm:substitute",
+    "tm:surf",
+    "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderwave",
+    "tm:toxic",
+    "tm:uproar",
+    "tm:waterfall",
+    "tm:waterpulse",
+    "tm:whirlpool",
+    "tutor:ancientpower",
+    "tutor:aquatail",
+    "tutor:block",
+    "tutor:bodyslam",
+    "tutor:calmmind",
+    "tutor:defensecurl",
+    "tutor:dive",
+    "tutor:doubleedge",
+    "tutor:endure",
+    "tutor:headbutt",
+    "tutor:hydropump",
+    "tutor:icywind",
+    "tutor:ironhead",
+    "tutor:liquidation",
+    "tutor:mimic",
+    "tutor:mudslap",
+    "tutor:originpulse",
+    "tutor:psychup",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:shockwave",
+    "tutor:signalbeam",
+    "tutor:sleeptalk",
+    "tutor:snore",
+    "tutor:substitute",
+    "tutor:surf",
+    "tutor:swagger",
+    "tutor:swift",
+    "tutor:thunder",
+    "tutor:thunderwave",
+    "tutor:uproar",
+    "tutor:waterpulse",
+    "tutor:waterspout"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "kyogre_normal",
+      "variant": "level_up",
+      "result": "kyogre primal=false",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "minecraft:heart_of_the_sea"
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "freshwater",
+          "underwater"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "45-70",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "blue_orb",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:deep_ocean",
+            "minecraft:ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyogre.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "freshwater",
+          "underwater"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "45-70",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "blue_orb",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_ocean",
+            "#cobblemon:is_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyogre.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/kyogre_primal.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/kyogre_primal_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation3/kyogre.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation3\\kyogre.json"
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "greattusk",
+  "dexnum": 984,
+  "name": "Great Tusk",
+  "primaryType": "ground",
+  "secondaryType": "fighting",
+  "maleRatio": -1,
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "abilities": [
+    "protosynthesis"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 115,
+    "attack": 131,
+    "defence": 131,
+    "special_attack": 53,
+    "special_defence": 53,
+    "speed": 87
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 3,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 30,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:defensecurl",
+    "1:hornattack",
+    "1:rollout",
+    "1:sunnyday",
+    "7:bulldoze",
+    "14:taunt",
+    "21:rapidspin",
+    "28:brickbreak",
+    "35:stompingtantrum",
+    "42:knockoff",
+    "49:earthquake",
+    "56:gigaimpact",
+    "63:closecombat",
+    "70:endeavor",
+    "77:megahorn",
+    "84:headsmash",
+    "91:headlongrush",
+    "100:bodypress",
+    "100:bodyslam",
+    "100:brickbreak",
+    "100:bulkup",
+    "100:bulldoze",
+    "100:closecombat",
+    "100:dig",
+    "100:earthpower",
+    "100:earthquake",
+    "100:endure",
+    "100:facade",
+    "100:firefang",
+    "100:flashcannon",
+    "100:gigaimpact",
+    "100:heavyslam",
+    "100:hyperbeam",
+    "100:icefang",
+    "100:icespinner",
+    "100:ironhead",
+    "100:mudshot",
+    "100:mudslap",
+    "100:playrough",
+    "100:protect",
+    "100:psyshock",
+    "100:rest",
+    "100:reversal",
+    "100:rockslide",
+    "100:rocktomb",
+    "100:sandstorm",
+    "100:scaryface",
+    "100:sleeptalk",
+    "100:smartstrike",
+    "100:stealthrock",
+    "100:stompingtantrum",
+    "100:stoneedge",
+    "100:substitute",
+    "100:sunnyday",
+    "100:takedown",
+    "100:taunt",
+    "100:terablast",
+    "100:thunderfang",
+    "100:zenheadbutt",
+    "100:brickbreak",
+    "100:earthquake",
+    "100:gigaimpact",
+    "100:knockoff",
+    "100:rapidspin",
+    "100:stompingtantrum"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.4,
+        "levels": "34-53",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/ultra-rare_starlight_permafrost_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.0,
+        "levels": "50",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_arid"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/greattusk.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/greattusk.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/greattusk_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation9/greattusk.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation9\\greattusk.json"
+  ]
+}

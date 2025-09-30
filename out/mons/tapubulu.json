@@ -1,0 +1,240 @@
+{
+  "id": "tapubulu",
+  "dexnum": 787,
+  "name": "Tapu Bulu",
+  "primaryType": "grass",
+  "secondaryType": "fairy",
+  "maleRatio": -1,
+  "labels": [
+    "gen7",
+    "legendary"
+  ],
+  "abilities": [
+    "grassysurge",
+    "h:telepathy"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 130,
+    "defence": 115,
+    "special_attack": 85,
+    "special_defence": 95,
+    "speed": 75
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 3,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:leafage",
+    "1:rototiller",
+    "1:rocksmash",
+    "5:withdraw",
+    "10:disable",
+    "15:leechseed",
+    "20:megadrain",
+    "25:whirlwind",
+    "30:hornattack",
+    "35:scaryface",
+    "40:hornleech",
+    "45:zenheadbutt",
+    "50:meanlook",
+    "55:naturesmadness",
+    "60:woodhammer",
+    "65:megahorn",
+    "70:skullbash",
+    "75:grassyterrain",
+    "tm:brickbreak",
+    "tm:brutalswing",
+    "tm:bulkup",
+    "tm:bulletseed",
+    "tm:calmmind",
+    "tm:closecombat",
+    "tm:darkestlariat",
+    "tm:dazzlinggleam",
+    "tm:dualchop",
+    "tm:echoedvoice",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:falseswipe",
+    "tm:fling",
+    "tm:focusblast",
+    "tm:focuspunch",
+    "tm:gigadrain",
+    "tm:gigaimpact",
+    "tm:grassknot",
+    "tm:grassyterrain",
+    "tm:guardswap",
+    "tm:highhorsepower",
+    "tm:hyperbeam",
+    "tm:irondefense",
+    "tm:lightscreen",
+    "tm:megahorn",
+    "tm:megapunch",
+    "tm:naturepower",
+    "tm:payback",
+    "tm:powerswap",
+    "tm:protect",
+    "tm:psychup",
+    "tm:reflect",
+    "tm:rest",
+    "tm:revenge",
+    "tm:roar",
+    "tm:rockslide",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:safeguard",
+    "tm:scaryface",
+    "tm:seedbomb",
+    "tm:sleeptalk",
+    "tm:smartstrike",
+    "tm:snarl",
+    "tm:solarbeam",
+    "tm:stoneedge",
+    "tm:storedpower",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:superpower",
+    "tm:swordsdance",
+    "tm:synthesis",
+    "tm:taunt",
+    "tm:telekinesis",
+    "tm:terablast",
+    "tm:torment",
+    "tm:workup",
+    "tm:worryseed",
+    "tm:zenheadbutt",
+    "tutor:bulkup",
+    "tutor:calmmind",
+    "tutor:dazzlinggleam",
+    "tutor:dualchop",
+    "tutor:energyball",
+    "tutor:falseswipe",
+    "tutor:focuspunch",
+    "tutor:gigadrain",
+    "tutor:gigaimpact",
+    "tutor:highhorsepower",
+    "tutor:hyperbeam",
+    "tutor:irondefense",
+    "tutor:megahorn",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:rocksmash",
+    "tutor:seedbomb",
+    "tutor:sleeptalk",
+    "tutor:snarl",
+    "tutor:stoneedge",
+    "tutor:superpower",
+    "tutor:synthesis",
+    "tutor:telekinesis",
+    "tutor:worryseed",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "bulu_totem",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_jungle",
+            "terralith:cave/underground_jungle",
+            "wythers:dripleaf_swamp",
+            "wythers:eucalyptus_deanei_forest",
+            "wythers:highland_tropical_rainforest",
+            "wythers:humid_tropical_grassland",
+            "wythers:jungle_canyon",
+            "wythers:subtropical_forest",
+            "wythers:subtropical_forest_edge",
+            "wythers:subtropical_grassland",
+            "wythers:tropical_forest",
+            "wythers:tropical_forest_canyon",
+            "wythers:tropical_grassland",
+            "wythers:tropical_island",
+            "wythers:tropical_rainforest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-tapubulu.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "bulu_totem",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:stony_shore",
+            "#cobblemon:is_beach",
+            "#c:stony_shores",
+            "terralith:basalt_cliffs",
+            "terralith:granite_cliffs",
+            "terralith:white_cliffs",
+            "wythers:calcite_coast",
+            "wythers:coastal_mangroves",
+            "wythers:cold_island",
+            "wythers:cold_stony_shore",
+            "wythers:deepslate_shore",
+            "wythers:frigid_island",
+            "wythers:frozen_island",
+            "wythers:gravelly_beach",
+            "wythers:icy_shore",
+            "wythers:mediterranean_island",
+            "wythers:temperate_island",
+            "wythers:tropical_island",
+            "wythers:warm_stony_shore"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-tapubulu.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/tapu_bulu.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/tapu_bulu_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/tapubulu.json"
+  ]
+}

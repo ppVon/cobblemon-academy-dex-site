@@ -1,0 +1,242 @@
+{
+  "id": "morpeko",
+  "dexnum": 877,
+  "name": "Morpeko",
+  "primaryType": "electric",
+  "secondaryType": "dark",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen8"
+  ],
+  "abilities": [
+    "hungerswitch",
+    "h:hungerswitch"
+  ],
+  "eggGroups": [
+    "field",
+    "fairy"
+  ],
+  "baseStats": {
+    "hp": 58,
+    "attack": 95,
+    "defence": 58,
+    "special_attack": 70,
+    "special_defence": 58,
+    "speed": 97
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 2
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 180,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:roseli_berry",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:thundershock",
+    "1:tailwhip",
+    "5:leer",
+    "10:powertrip",
+    "15:quickattack",
+    "20:flatter",
+    "25:bite",
+    "30:spark",
+    "35:torment",
+    "40:agility",
+    "45:bulletseed",
+    "50:crunch",
+    "55:aurawheel",
+    "60:thrash",
+    "egg:charge",
+    "egg:fakeout",
+    "egg:partingshot",
+    "egg:quash",
+    "egg:rapidspin",
+    "egg:superfang",
+    "egg:swagger",
+    "egg:tickle",
+    "tm:agility",
+    "tm:assurance",
+    "tm:batonpass",
+    "tm:brickbreak",
+    "tm:bulletseed",
+    "tm:charge",
+    "tm:chargebeam",
+    "tm:crunch",
+    "tm:darkpulse",
+    "tm:doubleedge",
+    "tm:eerieimpulse",
+    "tm:electricterrain",
+    "tm:electroball",
+    "tm:electroweb",
+    "tm:endeavor",
+    "tm:endure",
+    "tm:facade",
+    "tm:faketears",
+    "tm:firefang",
+    "tm:fling",
+    "tm:foulplay",
+    "tm:icefang",
+    "tm:knockoff",
+    "tm:lashout",
+    "tm:nastyplot",
+    "tm:outrage",
+    "tm:payback",
+    "tm:protect",
+    "tm:psychicfangs",
+    "tm:quash",
+    "tm:rest",
+    "tm:revenge",
+    "tm:reversal",
+    "tm:risingvoltage",
+    "tm:scaryface",
+    "tm:seedbomb",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:spite",
+    "tm:stompingtantrum",
+    "tm:substitute",
+    "tm:superfang",
+    "tm:swagger",
+    "tm:swift",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:thief",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderfang",
+    "tm:thunderpunch",
+    "tm:thunderwave",
+    "tm:torment",
+    "tm:uproar",
+    "tm:voltswitch",
+    "tm:wildcharge",
+    "tutor:chargebeam",
+    "tutor:darkpulse",
+    "tutor:electroweb",
+    "tutor:endeavor",
+    "tutor:firefang",
+    "tutor:foulplay",
+    "tutor:icefang",
+    "tutor:knockoff",
+    "tutor:lashout",
+    "tutor:outrage",
+    "tutor:psychic",
+    "tutor:rest",
+    "tutor:risingvoltage",
+    "tutor:seedbomb",
+    "tutor:sleeptalk",
+    "tutor:snarl",
+    "tutor:spite",
+    "tutor:stompingtantrum",
+    "tutor:superfang",
+    "tutor:swift",
+    "tutor:thunderbolt",
+    "tutor:thunderfang",
+    "tutor:thunderpunch",
+    "tutor:uproar",
+    "tutor:wildcharge"
+  ],
+  "forms": [
+    "Hangry"
+  ],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 4.1,
+        "levels": "15-32",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:dark_forest",
+            "minecraft:flower_forest",
+            "#cobblemon:is_jungle",
+            "#cobblemon:is_forest"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0877_morpeko.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 4.1,
+        "levels": "15-32",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_spooky",
+            "#cobblemon:is_magical"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0877_morpeko.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 4.1,
+        "levels": "15-32",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:dark_forest",
+            "minecraft:flower_forest",
+            "#cobblemon:is_jungle",
+            "#cobblemon:is_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0877_morpeko.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/morpeko.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/morpeko_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation8/morpeko.json"
+  ]
+}

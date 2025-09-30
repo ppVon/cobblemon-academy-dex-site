@@ -1,0 +1,238 @@
+{
+  "id": "leavanny",
+  "dexnum": 542,
+  "name": "Leavanny",
+  "primaryType": "bug",
+  "secondaryType": "grass",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen5"
+  ],
+  "abilities": [
+    "swarm",
+    "chlorophyll",
+    "h:overcoat"
+  ],
+  "eggGroups": [
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 103,
+    "defence": 80,
+    "special_attack": 70,
+    "special_defence": 80,
+    "speed": 92
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 3,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_slow",
+  "catchRate": 45,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "percentage": null,
+        "quantityRange": "0-3",
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:mental_herb",
+        "percentage": 10.0,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:revival_herb",
+        "percentage": 10.0,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:coba_berry",
+        "percentage": 10.0,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:falseswipe",
+    "1:tackle",
+    "1:stringshot",
+    "1:bugbite",
+    "1:razorleaf",
+    "1:slash",
+    "1:flail",
+    "1:stickyweb",
+    "1:grasswhistle",
+    "22:strugglebug",
+    "29:fellstinger",
+    "32:helpinghand",
+    "36:leafblade",
+    "39:xscissor",
+    "43:entrainment",
+    "46:swordsdance",
+    "50:leafstorm",
+    "egg:camouflage",
+    "egg:mefirst",
+    "egg:mindreader",
+    "egg:razorwind",
+    "egg:screech",
+    "egg:snore",
+    "egg:switcheroo",
+    "egg:synthesis",
+    "egg:worryseed",
+    "tm:agility",
+    "tm:airslash",
+    "tm:batonpass",
+    "tm:bugbite",
+    "tm:bugbuzz",
+    "tm:bulletseed",
+    "tm:calmmind",
+    "tm:charm",
+    "tm:cut",
+    "tm:dreameater",
+    "tm:electroweb",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:falseswipe",
+    "tm:flash",
+    "tm:gigadrain",
+    "tm:gigaimpact",
+    "tm:grassknot",
+    "tm:grassyglide",
+    "tm:grassyterrain",
+    "tm:healbell",
+    "tm:helpinghand",
+    "tm:honeclaws",
+    "tm:hyperbeam",
+    "tm:irondefense",
+    "tm:knockoff",
+    "tm:laserfocus",
+    "tm:leafblade",
+    "tm:leafstorm",
+    "tm:lightscreen",
+    "tm:lowkick",
+    "tm:lunge",
+    "tm:magicalleaf",
+    "tm:magiccoat",
+    "tm:naturepower",
+    "tm:payback",
+    "tm:poisonjab",
+    "tm:pollenpuff",
+    "tm:pounce",
+    "tm:protect",
+    "tm:raindance",
+    "tm:reflect",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:safeguard",
+    "tm:screech",
+    "tm:seedbomb",
+    "tm:shadowclaw",
+    "tm:signalbeam",
+    "tm:skittersmack",
+    "tm:sleeptalk",
+    "tm:snore",
+    "tm:solarbeam",
+    "tm:steelwing",
+    "tm:stringshot",
+    "tm:strugglebug",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swordsdance",
+    "tm:synthesis",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:throatchop",
+    "tm:trailblaze",
+    "tm:tripleaxel",
+    "tm:worryseed",
+    "tm:xscissor",
+    "tutor:bugbite",
+    "tutor:calmmind",
+    "tutor:electroweb",
+    "tutor:energyball",
+    "tutor:falseswipe",
+    "tutor:gigadrain",
+    "tutor:gigaimpact",
+    "tutor:grassyglide",
+    "tutor:healbell",
+    "tutor:helpinghand",
+    "tutor:hyperbeam",
+    "tutor:irondefense",
+    "tutor:knockoff",
+    "tutor:laserfocus",
+    "tutor:lowkick",
+    "tutor:magicalleaf",
+    "tutor:magiccoat",
+    "tutor:poisonjab",
+    "tutor:rest",
+    "tutor:seedbomb",
+    "tutor:shadowclaw",
+    "tutor:signalbeam",
+    "tutor:skittersmack",
+    "tutor:sleeptalk",
+    "tutor:snore",
+    "tutor:stringshot",
+    "tutor:synthesis",
+    "tutor:throatchop",
+    "tutor:tripleaxel",
+    "tutor:worryseed",
+    "tutor:xscissor"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 5.0,
+        "levels": "40-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [
+          "day"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_forest"
+          ],
+          "exclude": [
+            "#cobblemon:is_spooky"
+          ]
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0542_leavanny.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/wavimons/leavanny.png",
+      "out/sprites/cobblemon/leavanny.png"
+    ],
+    "shiny": [
+      "out/sprites/wavimons/leavanny_shiny.png",
+      "out/sprites/cobblemon/leavanny_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/leavanny.json"
+  ]
+}

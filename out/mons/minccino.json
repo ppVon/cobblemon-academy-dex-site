@@ -1,0 +1,226 @@
+{
+  "id": "minccino",
+  "dexnum": 572,
+  "name": "Minccino",
+  "primaryType": "normal",
+  "secondaryType": "",
+  "maleRatio": 0.25,
+  "labels": [
+    "gen5"
+  ],
+  "abilities": [
+    "cutecharm",
+    "technician",
+    "h:skilllink"
+  ],
+  "eggGroups": [
+    "field"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 50,
+    "defence": 40,
+    "special_attack": 40,
+    "special_defence": 40,
+    "speed": 75
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "experienceGroup": "fast",
+  "catchRate": 255,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:silk_scarf",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:chesto_berry",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:pound",
+    "1:growl",
+    "1:doubleslap",
+    "1:babydolleyes",
+    "4:helpinghand",
+    "8:echoedvoice",
+    "12:sing",
+    "16:charm",
+    "20:swift",
+    "24:encore",
+    "28:afteryou",
+    "32:tailslap",
+    "36:tickle",
+    "40:slam",
+    "44:hypervoice",
+    "48:lastresort",
+    "egg:aquatail",
+    "egg:captivate",
+    "egg:flail",
+    "egg:knockoff",
+    "egg:tailwhip",
+    "egg:tidyup",
+    "egg:wakeupslap",
+    "tm:afteryou",
+    "tm:alluringvoice",
+    "tm:aquatail",
+    "tm:babydolleyes",
+    "tm:batonpass",
+    "tm:bulletseed",
+    "tm:calmmind",
+    "tm:captivate",
+    "tm:charm",
+    "tm:chillingwater",
+    "tm:covet",
+    "tm:dazzlinggleam",
+    "tm:dig",
+    "tm:echoedvoice",
+    "tm:encore",
+    "tm:endeavor",
+    "tm:endure",
+    "tm:facade",
+    "tm:faketears",
+    "tm:fling",
+    "tm:grassknot",
+    "tm:gunkshot",
+    "tm:helpinghand",
+    "tm:hypervoice",
+    "tm:irontail",
+    "tm:knockoff",
+    "tm:lastresort",
+    "tm:mudslap",
+    "tm:playrough",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:safeguard",
+    "tm:seedbomb",
+    "tm:shockwave",
+    "tm:sleeptalk",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:superfang",
+    "tm:swift",
+    "tm:tailslap",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:thief",
+    "tm:thunderbolt",
+    "tm:thunderwave",
+    "tm:trailblaze",
+    "tm:tripleaxel",
+    "tm:uproar",
+    "tm:uturn",
+    "tm:workup",
+    "tutor:afteryou",
+    "tutor:aquatail",
+    "tutor:babydolleyes",
+    "tutor:calmmind",
+    "tutor:covet",
+    "tutor:dazzlinggleam",
+    "tutor:endeavor",
+    "tutor:gunkshot",
+    "tutor:helpinghand",
+    "tutor:hypervoice",
+    "tutor:irontail",
+    "tutor:knockoff",
+    "tutor:lastresort",
+    "tutor:mudslap",
+    "tutor:playrough",
+    "tutor:rest",
+    "tutor:seedbomb",
+    "tutor:shockwave",
+    "tutor:sleeptalk",
+    "tutor:superfang",
+    "tutor:swift",
+    "tutor:thunderbolt",
+    "tutor:tripleaxel",
+    "tutor:uproar"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "minccino_cinccino",
+      "variant": "item_interact",
+      "result": "cinccino",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "tailslap"
+      ],
+      "requirements": [],
+      "requiredContext": "cobblemon:shiny_stone"
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 5.2,
+        "levels": "3-21",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/rare_is_starlight_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "rare",
+        "weight": 7.1,
+        "levels": "15-20",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:birch_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/minccino.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/minccino.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/minccino_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/minccino.json"
+  ]
+}

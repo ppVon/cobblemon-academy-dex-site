@@ -1,0 +1,176 @@
+{
+  "id": "blitzle",
+  "dexnum": 522,
+  "name": "Blitzle",
+  "primaryType": "electric",
+  "secondaryType": "",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen5"
+  ],
+  "abilities": [
+    "lightningrod",
+    "motordrive",
+    "h:sapsipper"
+  ],
+  "eggGroups": [
+    "field"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 60,
+    "defence": 32,
+    "special_attack": 50,
+    "special_defence": 32,
+    "speed": 76
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 190,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:quickattack",
+    "4:tailwhip",
+    "8:charge",
+    "11:shockwave",
+    "15:thunderwave",
+    "18:flamecharge",
+    "22:pursuit",
+    "25:spark",
+    "29:stomp",
+    "32:discharge",
+    "36:agility",
+    "39:wildcharge",
+    "43:thrash",
+    "egg:doubleedge",
+    "egg:doublekick",
+    "egg:endure",
+    "egg:feint",
+    "egg:mefirst",
+    "egg:rage",
+    "egg:sandattack",
+    "egg:screech",
+    "egg:shockwave",
+    "egg:snatch",
+    "egg:takedown",
+    "tm:attract",
+    "tm:chargebeam",
+    "tm:confide",
+    "tm:doubleteam",
+    "tm:facade",
+    "tm:flamecharge",
+    "tm:flash",
+    "tm:frustration",
+    "tm:hiddenpower",
+    "tm:lightscreen",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:return",
+    "tm:round",
+    "tm:secretpower",
+    "tm:sleeptalk",
+    "tm:substitute",
+    "tm:swagger",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderwave",
+    "tm:toxic",
+    "tm:voltswitch",
+    "tm:wildcharge",
+    "tutor:bounce",
+    "tutor:lowkick",
+    "tutor:magnetrise",
+    "tutor:shockwave",
+    "tutor:signalbeam",
+    "tutor:sleeptalk",
+    "tutor:snatch",
+    "tutor:snore"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "blitzle_zebstrika",
+      "variant": "level_up",
+      "result": "zebstrika",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 27
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.5,
+        "levels": "5-12",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_savannah"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/522_blitzle.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 15.0,
+        "levels": "5-12",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_savannah"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/522_blitzle.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/blitzle.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/blitzle_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/blitzle.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation5\\blitzle.json"
+  ]
+}

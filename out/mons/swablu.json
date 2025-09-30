@@ -1,0 +1,259 @@
+{
+  "id": "swablu",
+  "dexnum": 333,
+  "name": "Swablu",
+  "primaryType": "normal",
+  "secondaryType": "flying",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen3"
+  ],
+  "abilities": [
+    "naturalcure",
+    "h:cloudnine"
+  ],
+  "eggGroups": [
+    "flying",
+    "dragon"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 40,
+    "defence": 60,
+    "special_attack": 40,
+    "special_defence": 75,
+    "speed": 50
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 1,
+    "speed": 0
+  },
+  "experienceGroup": "erratic",
+  "catchRate": 255,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:white_wool",
+        "percentage": null,
+        "quantityRange": "0-1",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:chicken",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:peck",
+    "1:growl",
+    "1:astonish",
+    "4:disarmingvoice",
+    "8:mist",
+    "12:furyattack",
+    "16:round",
+    "20:naturalgift",
+    "24:safeguard",
+    "28:sing",
+    "32:cottonguard",
+    "36:takedown",
+    "40:moonblast",
+    "44:perishsong",
+    "egg:astonish",
+    "egg:defog",
+    "egg:dragonbreath",
+    "egg:dragonrush",
+    "egg:featherdance",
+    "egg:haze",
+    "egg:mirrormove",
+    "egg:pursuit",
+    "egg:rage",
+    "egg:refresh",
+    "egg:roost",
+    "egg:tailwind",
+    "tm:acrobatics",
+    "tm:aerialace",
+    "tm:agility",
+    "tm:bodyslam",
+    "tm:bravebird",
+    "tm:dazzlinggleam",
+    "tm:defog",
+    "tm:disarmingvoice",
+    "tm:dragoncheer",
+    "tm:dragonpulse",
+    "tm:dreameater",
+    "tm:dualwingbeat",
+    "tm:echoedvoice",
+    "tm:endeavor",
+    "tm:endure",
+    "tm:facade",
+    "tm:featherdance",
+    "tm:fly",
+    "tm:haze",
+    "tm:healbell",
+    "tm:heatwave",
+    "tm:helpinghand",
+    "tm:hurricane",
+    "tm:hypervoice",
+    "tm:icebeam",
+    "tm:naturalgift",
+    "tm:ominouswind",
+    "tm:playrough",
+    "tm:pluck",
+    "tm:powerswap",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:roost",
+    "tm:round",
+    "tm:safeguard",
+    "tm:skyattack",
+    "tm:sleeptalk",
+    "tm:solarbeam",
+    "tm:steelwing",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swift",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:thief",
+    "tm:trailblaze",
+    "tm:twister",
+    "tutor:aerialace",
+    "tutor:dazzlinggleam",
+    "tutor:defog",
+    "tutor:dragonpulse",
+    "tutor:dualwingbeat",
+    "tutor:endeavor",
+    "tutor:healbell",
+    "tutor:heatwave",
+    "tutor:helpinghand",
+    "tutor:hypervoice",
+    "tutor:icebeam",
+    "tutor:ominouswind",
+    "tutor:playrough",
+    "tutor:rest",
+    "tutor:roost",
+    "tutor:skyattack",
+    "tutor:sleeptalk",
+    "tutor:swift",
+    "tutor:tailwind",
+    "tutor:twister"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "swablu_altaria",
+      "variant": "level_up",
+      "result": "altaria",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "dragonbreath",
+        "dragonpulse"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 35
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural",
+          "treetop"
+        ],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "7-32",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0333_swablu.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 20.0,
+        "levels": "15-34",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_mountain"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0333_swablu.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural",
+          "treetop"
+        ],
+        "rarity": "common",
+        "weight": 9.0,
+        "levels": "7-32",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0333_swablu.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/swablu.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/swablu_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation3/swablu.json"
+  ]
+}

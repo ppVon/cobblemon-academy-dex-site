@@ -1,0 +1,202 @@
+{
+  "id": "slitherwing",
+  "dexnum": 988,
+  "name": "Slither Wing",
+  "primaryType": "bug",
+  "secondaryType": "fighting",
+  "maleRatio": -1,
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "abilities": [
+    "protosynthesis"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 135,
+    "defence": 79,
+    "special_attack": 85,
+    "special_defence": 105,
+    "speed": 81
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 3,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 30,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "percentage": null,
+        "quantityRange": "1-3",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:blaze_powder",
+        "percentage": null,
+        "quantityRange": "0-2",
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:bugbite",
+    "1:ember",
+    "1:gust",
+    "1:sunnyday",
+    "7:poisonpowder",
+    "7:stunspore",
+    "14:flamecharge",
+    "21:stomp",
+    "28:lowsweep",
+    "35:morningsun",
+    "42:lunge",
+    "49:superpower",
+    "56:bulkup",
+    "63:dualwingbeat",
+    "70:firstimpression",
+    "77:whirlwind",
+    "84:leechlife",
+    "91:thrash",
+    "tm:acrobatics",
+    "tm:aerialace",
+    "tm:bodypress",
+    "tm:bodyslam",
+    "tm:brickbreak",
+    "tm:bugbuzz",
+    "tm:bulkup",
+    "tm:closecombat",
+    "tm:earthquake",
+    "tm:endure",
+    "tm:facade",
+    "tm:flamecharge",
+    "tm:flareblitz",
+    "tm:gigadrain",
+    "tm:gigaimpact",
+    "tm:heatwave",
+    "tm:heavyslam",
+    "tm:hurricane",
+    "tm:hyperbeam",
+    "tm:leechlife",
+    "tm:lowkick",
+    "tm:lowsweep",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:reversal",
+    "tm:sandstorm",
+    "tm:sleeptalk",
+    "tm:stompingtantrum",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:trailblaze",
+    "tm:uturn",
+    "tm:wildcharge",
+    "tm:willowisp",
+    "tm:zenheadbutt",
+    "tutor:lowsweep",
+    "tutor:lunge",
+    "tutor:morningsun",
+    "tutor:superpower"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.32,
+        "levels": "24-41",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_forest/ultra-rare_starlight_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.15,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_arid",
+            "#cobblemon:is_jungle",
+            "#cobblemon:is_badlands"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/slitherwing.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.9,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_nether_crimson",
+            "minecraft:crimson_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/slitherwing.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/slitherwing.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/slitherwing_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation9/slitherwing.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation9\\slitherwing.json"
+  ]
+}

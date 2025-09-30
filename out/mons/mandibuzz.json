@@ -1,0 +1,206 @@
+{
+  "id": "mandibuzz",
+  "dexnum": 630,
+  "name": "Mandibuzz",
+  "primaryType": "dark",
+  "secondaryType": "flying",
+  "maleRatio": 0,
+  "labels": [
+    "gen5"
+  ],
+  "abilities": [
+    "bigpecks",
+    "overcoat",
+    "h:weakarmor"
+  ],
+  "eggGroups": [
+    "flying"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 65,
+    "defence": 105,
+    "special_attack": 55,
+    "special_defence": 95,
+    "speed": 80
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 60,
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "percentage": null,
+        "quantityRange": "0-2",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:rotten_flesh",
+        "percentage": null,
+        "quantityRange": "0-2",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:chicken",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:sharp_beak",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:bluk_berry",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:bonerush",
+    "1:flatter",
+    "1:furyattack",
+    "1:gust",
+    "1:leer",
+    "1:mirrormove",
+    "1:pluck",
+    "1:skyattack",
+    "1:toxic",
+    "18:tailwind",
+    "23:feintattack",
+    "24:knockoff",
+    "28:punishment",
+    "30:irondefense",
+    "36:whirlwind",
+    "42:airslash",
+    "48:darkpulse",
+    "50:embargo",
+    "57:nastyplot",
+    "64:defog",
+    "72:attract",
+    "80:bravebird",
+    "tm:aerialace",
+    "tm:airslash",
+    "tm:assurance",
+    "tm:attract",
+    "tm:bravebird",
+    "tm:confide",
+    "tm:cut",
+    "tm:darkpulse",
+    "tm:doubleteam",
+    "tm:embargo",
+    "tm:endure",
+    "tm:facade",
+    "tm:faketears",
+    "tm:fly",
+    "tm:foulplay",
+    "tm:frustration",
+    "tm:gigaimpact",
+    "tm:heatwave",
+    "tm:hiddenpower",
+    "tm:hyperbeam",
+    "tm:incinerate",
+    "tm:irondefense",
+    "tm:nastyplot",
+    "tm:payback",
+    "tm:pluck",
+    "tm:protect",
+    "tm:psychup",
+    "tm:raindance",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:return",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:roost",
+    "tm:round",
+    "tm:scaryface",
+    "tm:secretpower",
+    "tm:shadowball",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:snore",
+    "tm:steelwing",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swagger",
+    "tm:swift",
+    "tm:taunt",
+    "tm:thief",
+    "tm:torment",
+    "tm:toxic",
+    "tm:uturn",
+    "tutor:block",
+    "tutor:darkpulse",
+    "tutor:defog",
+    "tutor:dualwingbeat",
+    "tutor:feintattack",
+    "tutor:flatter",
+    "tutor:foulplay",
+    "tutor:heatwave",
+    "tutor:irondefense",
+    "tutor:knockoff",
+    "tutor:lashout",
+    "tutor:nastyplot",
+    "tutor:pluck",
+    "tutor:roost",
+    "tutor:skyattack",
+    "tutor:sleeptalk",
+    "tutor:snatch",
+    "tutor:snore",
+    "tutor:tailwind"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.1,
+        "levels": "54-65",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/common_dark_swamp.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/mandibuzz.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/mandibuzz_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/mandibuzz.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation5\\mandibuzz.json"
+  ]
+}

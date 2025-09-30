@@ -1,0 +1,155 @@
+{
+  "id": "grubbin",
+  "dexnum": 736,
+  "name": "Grubbin",
+  "primaryType": "bug",
+  "secondaryType": "",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen7"
+  ],
+  "abilities": [
+    "swarm",
+    "h:swarm"
+  ],
+  "eggGroups": [
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 47,
+    "attack": 62,
+    "defence": 45,
+    "special_attack": 55,
+    "special_defence": 45,
+    "speed": 46
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 255,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "percentage": null,
+        "quantityRange": "0-1",
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:wepear_berry",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:cell_battery",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:visegrip",
+    "1:mudslap",
+    "5:stringshot",
+    "10:bugbite",
+    "15:bite",
+    "21:spark",
+    "25:stickyweb",
+    "30:xscissor",
+    "35:crunch",
+    "40:dig",
+    "egg:discharge",
+    "egg:harden",
+    "tm:batonpass",
+    "tm:bugbite",
+    "tm:charge",
+    "tm:chargebeam",
+    "tm:crunch",
+    "tm:dig",
+    "tm:electricterrain",
+    "tm:electroweb",
+    "tm:endure",
+    "tm:facade",
+    "tm:lightscreen",
+    "tm:lunge",
+    "tm:magnetrise",
+    "tm:mudshot",
+    "tm:mudslap",
+    "tm:poisonjab",
+    "tm:pounce",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:risingvoltage",
+    "tm:screech",
+    "tm:shockwave",
+    "tm:skittersmack",
+    "tm:sleeptalk",
+    "tm:stringshot",
+    "tm:strugglebug",
+    "tm:substitute",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:thunderbolt",
+    "tm:thunderwave",
+    "tm:voltswitch",
+    "tm:wildcharge",
+    "tm:xscissor",
+    "tutor:bugbite",
+    "tutor:chargebeam",
+    "tutor:electroweb",
+    "tutor:magnetrise",
+    "tutor:mudslap",
+    "tutor:poisonjab",
+    "tutor:rest",
+    "tutor:risingvoltage",
+    "tutor:shockwave",
+    "tutor:skittersmack",
+    "tutor:sleeptalk",
+    "tutor:stringshot",
+    "tutor:thunderbolt",
+    "tutor:wildcharge",
+    "tutor:xscissor"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "grubbin_charjabug",
+      "variant": "level_up",
+      "result": "charjabug",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "charge"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 20
+        }
+      ]
+    }
+  ],
+  "spawns": [],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/grubbin.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/grubbin_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/grubbin.json"
+  ]
+}

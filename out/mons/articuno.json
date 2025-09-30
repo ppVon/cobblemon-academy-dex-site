@@ -1,0 +1,233 @@
+{
+  "id": "articuno",
+  "dexnum": 144,
+  "name": "Articuno",
+  "primaryType": "ice",
+  "secondaryType": "flying",
+  "maleRatio": -1,
+  "labels": [
+    "gen1",
+    "legendary",
+    "kantonian_form"
+  ],
+  "abilities": [
+    "pressure",
+    "h:snowcloak"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 85,
+    "defence": 100,
+    "special_attack": 95,
+    "special_defence": 125,
+    "speed": 85
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 3,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "percentage": null,
+        "quantityRange": "2-4",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:chicken",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:never_melt_ice",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:gust",
+    "1:mist",
+    "5:powdersnow",
+    "10:reflect",
+    "15:iceshard",
+    "20:agility",
+    "25:ancientpower",
+    "30:tailwind",
+    "35:freezedry",
+    "40:roost",
+    "45:icebeam",
+    "50:snowscape",
+    "55:hurricane",
+    "60:mindreader",
+    "65:blizzard",
+    "70:sheercold",
+    "tm:aerialace",
+    "tm:agility",
+    "tm:aircutter",
+    "tm:airslash",
+    "tm:ancientpower",
+    "tm:auroraveil",
+    "tm:avalanche",
+    "tm:blizzard",
+    "tm:bravebird",
+    "tm:defog",
+    "tm:doubleedge",
+    "tm:dualwingbeat",
+    "tm:endure",
+    "tm:facade",
+    "tm:featherdance",
+    "tm:fly",
+    "tm:frostbreath",
+    "tm:gigaimpact",
+    "tm:hail",
+    "tm:haze",
+    "tm:helpinghand",
+    "tm:hurricane",
+    "tm:hyperbeam",
+    "tm:icebeam",
+    "tm:icespinner",
+    "tm:iciclespear",
+    "tm:icywind",
+    "tm:laserfocus",
+    "tm:lightscreen",
+    "tm:ominouswind",
+    "tm:pluck",
+    "tm:protect",
+    "tm:raindance",
+    "tm:reflect",
+    "tm:rest",
+    "tm:roar",
+    "tm:rocksmash",
+    "tm:roost",
+    "tm:sandstorm",
+    "tm:signalbeam",
+    "tm:skyattack",
+    "tm:skydrop",
+    "tm:sleeptalk",
+    "tm:snowscape",
+    "tm:steelwing",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swift",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:tripleaxel",
+    "tm:twister",
+    "tm:uturn",
+    "tm:waterpulse",
+    "tm:weatherball",
+    "tutor:aerialace",
+    "tutor:aircutter",
+    "tutor:ancientpower",
+    "tutor:defog",
+    "tutor:dualwingbeat",
+    "tutor:gigaimpact",
+    "tutor:helpinghand",
+    "tutor:hyperbeam",
+    "tutor:icebeam",
+    "tutor:icywind",
+    "tutor:laserfocus",
+    "tutor:ominouswind",
+    "tutor:rest",
+    "tutor:rocksmash",
+    "tutor:roost",
+    "tutor:signalbeam",
+    "tutor:skyattack",
+    "tutor:sleeptalk",
+    "tutor:swift",
+    "tutor:tailwind",
+    "tutor:tripleaxel",
+    "tutor:twister",
+    "tutor:waterpulse"
+  ],
+  "forms": [
+    "Galar"
+  ],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "tidal_bell",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:frozen_ocean",
+            "minecraft:frozen_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:snowy_plains",
+            "minecraft:snowy_slopes",
+            "minecraft:snowy_taiga"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-articuno.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "tidal_bell",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_cold",
+            "#cobblemon:is_freezing",
+            "#cobblemon:is_snowy_forest",
+            "#cobblemon:is_glacial",
+            "#cobblemon:is_frozen_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-articuno.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/genomons/articuno.png",
+      "out/sprites/cobblemon/articuno.png"
+    ],
+    "shiny": [
+      "out/sprites/genomons/articuno_shiny.png",
+      "out/sprites/cobblemon/articuno_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation1/articuno.json"
+  ]
+}

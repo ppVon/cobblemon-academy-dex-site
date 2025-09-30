@@ -1,0 +1,186 @@
+{
+  "id": "stunfisk",
+  "dexnum": 618,
+  "name": "Stunfisk",
+  "primaryType": "ground",
+  "secondaryType": "electric",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen5",
+    "unova_regional"
+  ],
+  "abilities": [
+    "static",
+    "limber",
+    "h:sandveil"
+  ],
+  "eggGroups": [
+    "water_1",
+    "amorphous"
+  ],
+  "baseStats": {
+    "hp": 109,
+    "attack": 66,
+    "defence": 84,
+    "special_attack": 81,
+    "special_defence": 99,
+    "speed": 32
+  },
+  "evYield": {
+    "hp": 2,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 75,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:mudslap",
+    "1:mudsport",
+    "1:tackle",
+    "1:watergun",
+    "5:bide",
+    "9:thundershock",
+    "13:mudshot",
+    "17:camouflage",
+    "20:charge",
+    "21:mudbomb",
+    "25:discharge",
+    "25:suckerpunch",
+    "30:electricterrain",
+    "30:endure",
+    "35:bounce",
+    "40:muddywater",
+    "45:thunderbolt",
+    "50:revenge",
+    "55:flail",
+    "61:fissure",
+    "egg:astonish",
+    "egg:curse",
+    "egg:earthpower",
+    "egg:eerieimpulse",
+    "egg:mefirst",
+    "egg:painsplit",
+    "egg:reflecttype",
+    "egg:shockwave",
+    "egg:sleeptalk",
+    "egg:spark",
+    "egg:spite",
+    "egg:yawn",
+    "tm:attract",
+    "tm:bounce",
+    "tm:bulldoze",
+    "tm:confide",
+    "tm:dig",
+    "tm:doubleteam",
+    "tm:earthpower",
+    "tm:earthquake",
+    "tm:eerieimpulse",
+    "tm:electricterrain",
+    "tm:electroweb",
+    "tm:endure",
+    "tm:facade",
+    "tm:flash",
+    "tm:foulplay",
+    "tm:frustration",
+    "tm:hiddenpower",
+    "tm:infestation",
+    "tm:muddywater",
+    "tm:mudshot",
+    "tm:payback",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:return",
+    "tm:revenge",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:sandstorm",
+    "tm:scald",
+    "tm:secretpower",
+    "tm:sleeptalk",
+    "tm:sludgebomb",
+    "tm:sludgewave",
+    "tm:snore",
+    "tm:stealthrock",
+    "tm:stompingtantrum",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:surf",
+    "tm:swagger",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderwave",
+    "tm:toxic",
+    "tm:uproar",
+    "tutor:aquatail",
+    "tutor:bounce",
+    "tutor:curse",
+    "tutor:earthpower",
+    "tutor:electroweb",
+    "tutor:endeavor",
+    "tutor:foulplay",
+    "tutor:lashout",
+    "tutor:magnetrise",
+    "tutor:mudslap",
+    "tutor:painsplit",
+    "tutor:shockwave",
+    "tutor:sleeptalk",
+    "tutor:snore",
+    "tutor:spite",
+    "tutor:stealthrock",
+    "tutor:stompingtantrum",
+    "tutor:uproar",
+    "tutor:waterpulse",
+    "tutor:yawn"
+  ],
+  "forms": [
+    "Galar"
+  ],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 8.0,
+        "levels": "23-47",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0618_stunfisk.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/stunfisk.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/stunfisk_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/stunfisk.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation5\\stunfisk.json"
+  ]
+}

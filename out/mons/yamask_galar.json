@@ -1,0 +1,177 @@
+{
+  "id": "yamask_galar",
+  "dexnum": 562,
+  "name": "Yamask Galar",
+  "primaryType": "ground",
+  "secondaryType": "ghost",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen8",
+    "galar_regional"
+  ],
+  "abilities": [
+    "wanderingspirit"
+  ],
+  "eggGroups": [
+    "mineral",
+    "amorphous"
+  ],
+  "baseStats": {
+    "hp": 38,
+    "attack": 55,
+    "defence": 85,
+    "special_attack": 30,
+    "special_defence": 65,
+    "speed": 30
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 1,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 190,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:astonish",
+    "1:protect",
+    "4:haze",
+    "8:nightshade",
+    "12:disable",
+    "16:brutalswing",
+    "20:craftyshield",
+    "24:hex",
+    "28:meanlook",
+    "32:slam",
+    "36:curse",
+    "40:shadowball",
+    "44:earthquake",
+    "48:guardsplit",
+    "48:powersplit",
+    "52:destinybond",
+    "egg:memento",
+    "tm:allyswitch",
+    "tm:attract",
+    "tm:brutalswing",
+    "tm:calmmind",
+    "tm:darkpulse",
+    "tm:earthpower",
+    "tm:earthquake",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:faketears",
+    "tm:hex",
+    "tm:imprison",
+    "tm:irondefense",
+    "tm:nastyplot",
+    "tm:payback",
+    "tm:protect",
+    "tm:psychic",
+    "tm:raindance",
+    "tm:rest",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:safeguard",
+    "tm:sandstorm",
+    "tm:shadowball",
+    "tm:skillswap",
+    "tm:sleeptalk",
+    "tm:snore",
+    "tm:substitute",
+    "tm:thief",
+    "tm:toxicspikes",
+    "tm:trick",
+    "tm:trickroom",
+    "tm:willowisp",
+    "tm:wonderroom",
+    "tm:zenheadbutt",
+    "tutor:poltergeist"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "yamask_runerigus",
+      "variant": "level_up",
+      "result": "runerigus",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "damage_taken",
+          "amount": 49
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 1.68,
+        "levels": "5-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_desert"
+          ],
+          "exclude": [
+            "#cobblemon:is_deep_dark"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0562_yamask.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural",
+          "desert_pyramid"
+        ],
+        "rarity": "common",
+        "weight": 90.0,
+        "levels": "5-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0562_yamask.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/yamask_galarian.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/yamask_galarian_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/yamask.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation5\\yamask.json"
+  ]
+}

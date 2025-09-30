@@ -1,0 +1,404 @@
+{
+  "id": "silvally_steel",
+  "dexnum": 773,
+  "name": "Silvally Steel",
+  "primaryType": "steel",
+  "secondaryType": "",
+  "maleRatio": -1,
+  "labels": [
+    "gen7",
+    "legendary"
+  ],
+  "abilities": [
+    "rkssystem"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 95,
+    "defence": 95,
+    "special_attack": 95,
+    "special_defence": 95,
+    "speed": 95
+  },
+  "evYield": {
+    "hp": 3,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:aerialace",
+    "1:bite",
+    "1:explosion",
+    "1:firefang",
+    "1:healblock",
+    "1:icefang",
+    "1:imprison",
+    "1:ironhead",
+    "1:multiattack",
+    "1:poisonfang",
+    "1:scaryface",
+    "1:tackle",
+    "1:thunderfang",
+    "5:rage",
+    "10:pursuit",
+    "15:doublehit",
+    "20:metalsound",
+    "25:crushclaw",
+    "30:airslash",
+    "35:triattack",
+    "40:xscissor",
+    "45:crunch",
+    "50:takedown",
+    "55:doubleedge",
+    "60:partingshot",
+    "65:punishment",
+    "70:razorwind",
+    "tm:aerialace",
+    "tm:airslash",
+    "tm:confide",
+    "tm:crunch",
+    "tm:doubleteam",
+    "tm:dragonclaw",
+    "tm:endure",
+    "tm:explosion",
+    "tm:facade",
+    "tm:firefang",
+    "tm:flamecharge",
+    "tm:flamethrower",
+    "tm:flashcannon",
+    "tm:frustration",
+    "tm:gigaimpact",
+    "tm:hail",
+    "tm:heatwave",
+    "tm:hiddenpower",
+    "tm:hyperbeam",
+    "tm:hypervoice",
+    "tm:icebeam",
+    "tm:icefang",
+    "tm:icywind",
+    "tm:imprison",
+    "tm:irondefense",
+    "tm:ironhead",
+    "tm:outrage",
+    "tm:payback",
+    "tm:protect",
+    "tm:psychicfangs",
+    "tm:raindance",
+    "tm:rest",
+    "tm:return",
+    "tm:reversal",
+    "tm:roar",
+    "tm:rockslide",
+    "tm:round",
+    "tm:sandstorm",
+    "tm:scaryface",
+    "tm:selfdestruct",
+    "tm:shadowball",
+    "tm:shadowclaw",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:snore",
+    "tm:steelwing",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:surf",
+    "tm:swagger",
+    "tm:swift",
+    "tm:swordsdance",
+    "tm:thunderbolt",
+    "tm:thunderfang",
+    "tm:thunderwave",
+    "tm:toxic",
+    "tm:triattack",
+    "tm:uturn",
+    "tm:workup",
+    "tm:xscissor",
+    "tm:zenheadbutt",
+    "tutor:defog",
+    "tutor:dracometeor",
+    "tutor:grasspledge",
+    "tutor:heatwave",
+    "tutor:hypervoice",
+    "tutor:icywind",
+    "tutor:irondefense",
+    "tutor:ironhead",
+    "tutor:laserfocus",
+    "tutor:lastresort",
+    "tutor:magiccoat",
+    "tutor:multiattack",
+    "tutor:outrage",
+    "tutor:partingshot",
+    "tutor:punishment",
+    "tutor:scaryface",
+    "tutor:signalbeam",
+    "tutor:snore",
+    "tutor:steelbeam",
+    "tutor:tailwind",
+    "tutor:terrainpulse",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "Silvally_normal",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=normal",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:normal_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_fire",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=fire",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:fire_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_water",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=water",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemonwater:_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_grass",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=grass",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:grass_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_electric",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=electric",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:electric_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_ice",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=ice",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:ice_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_fighting",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=fighting",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:fighting_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_fairy",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=fairy",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:fairy_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_poison",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=poison",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:poison_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_ground",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=ground",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:ground_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_flying",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=flying",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:flying_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_psychic",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=psychic",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:psychic_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_bug",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=bug",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:bug_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_rock",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=rock",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:rock_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_ghost",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=ghost",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:ghost_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_dragon",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=dragon",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:dragon_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_dark",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=dark",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:dark_gem"
+        }
+      ]
+    },
+    {
+      "id": "Silvally_steel",
+      "variant": "level_up",
+      "result": "Silvally rks_memory=steel",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:steel_gem"
+        }
+      ]
+    }
+  ],
+  "spawns": [],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/silvally_steel.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/silvally_steel_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/silvally.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation7\\silvally.json"
+  ]
+}

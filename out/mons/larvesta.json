@@ -1,0 +1,283 @@
+{
+  "id": "larvesta",
+  "dexnum": 636,
+  "name": "Larvesta",
+  "primaryType": "bug",
+  "secondaryType": "fire",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen5"
+  ],
+  "abilities": [
+    "flamebody",
+    "h:swarm"
+  ],
+  "eggGroups": [
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 85,
+    "defence": 55,
+    "special_attack": 50,
+    "special_defence": 55,
+    "speed": 60
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 45,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "percentage": null,
+        "quantityRange": "0-1",
+        "source": "species",
+        "biomes": [
+          "#cobblemon:nether/is_crimson",
+          "#cobblemon:nether/is_forest"
+        ]
+      },
+      {
+        "item": "minecraft:blaze_powder",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species",
+        "biomes": [
+          "#cobblemon:nether/is_crimson",
+          "#cobblemon:nether/is_forest"
+        ]
+      },
+      {
+        "item": "cobblemon:silver_powder",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species",
+        "biomes": [
+          "#cobblemon:nether/is_crimson",
+          "#cobblemon:nether/is_forest"
+        ]
+      },
+      {
+        "item": "cobblemon:charti_berry",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species",
+        "biomes": [
+          "#cobblemon:nether/is_crimson",
+          "#cobblemon:nether/is_forest"
+        ]
+      }
+    ]
+  },
+  "moves": [
+    "1:ember",
+    "1:stringshot",
+    "1:absorb",
+    "6:flamecharge",
+    "12:strugglebug",
+    "18:flamewheel",
+    "24:bugbite",
+    "30:screech",
+    "36:leechlife",
+    "42:bugbuzz",
+    "48:takedown",
+    "54:amnesia",
+    "60:doubleedge",
+    "66:flareblitz",
+    "egg:absorb",
+    "egg:foresight",
+    "egg:harden",
+    "egg:morningsun",
+    "egg:thrash",
+    "tm:acrobatics",
+    "tm:amnesia",
+    "tm:bodyslam",
+    "tm:bugbite",
+    "tm:bugbuzz",
+    "tm:calmmind",
+    "tm:doubleedge",
+    "tm:endure",
+    "tm:facade",
+    "tm:fireblast",
+    "tm:firespin",
+    "tm:flamecharge",
+    "tm:flamethrower",
+    "tm:flareblitz",
+    "tm:gigadrain",
+    "tm:heatwave",
+    "tm:incinerate",
+    "tm:leechlife",
+    "tm:lightscreen",
+    "tm:lunge",
+    "tm:magnetrise",
+    "tm:overheat",
+    "tm:pounce",
+    "tm:protect",
+    "tm:psychic",
+    "tm:rest",
+    "tm:safeguard",
+    "tm:screech",
+    "tm:signalbeam",
+    "tm:skittersmack",
+    "tm:sleeptalk",
+    "tm:solarbeam",
+    "tm:stringshot",
+    "tm:strugglebug",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:trailblaze",
+    "tm:uturn",
+    "tm:wildcharge",
+    "tm:willowisp",
+    "tm:zenheadbutt",
+    "tutor:bugbite",
+    "tutor:calmmind",
+    "tutor:flamethrower",
+    "tutor:gigadrain",
+    "tutor:heatwave",
+    "tutor:leechlife",
+    "tutor:magnetrise",
+    "tutor:psychic",
+    "tutor:rest",
+    "tutor:signalbeam",
+    "tutor:skittersmack",
+    "tutor:sleeptalk",
+    "tutor:stringshot",
+    "tutor:wildcharge",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "larvesta_volcarona",
+      "variant": "level_up",
+      "result": "volcarona",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "quiverdance"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 59
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural",
+          "desert_pyramid"
+        ],
+        "rarity": "uncommon",
+        "weight": 84.0,
+        "levels": "11-36",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_desert"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0636_larvesta.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural",
+          "jungle_pyramid"
+        ],
+        "rarity": "uncommon",
+        "weight": 84.0,
+        "levels": "11-36",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_jungle"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0636_larvesta.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural",
+          "treetop"
+        ],
+        "rarity": "uncommon",
+        "weight": 8.4,
+        "levels": "11-36",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:nether/is_crimson",
+            "#cobblemon:nether/is_forest"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0636_larvesta.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 9.0,
+        "levels": "11-36",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#aether:is_aether"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0636_larvesta.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/larvesta.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/larvesta_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/larvesta.json"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "poipole",
+  "dexnum": 803,
+  "name": "Poipole",
+  "primaryType": "poison",
+  "secondaryType": "",
+  "maleRatio": -1,
+  "labels": [
+    "gen7",
+    "ultra_beast"
+  ],
+  "abilities": [
+    "beastboost",
+    "h:beastboost"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 67,
+    "attack": 73,
+    "defence": 67,
+    "special_attack": 73,
+    "special_defence": 67,
+    "speed": 73
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "experienceGroup": "slow",
+  "catchRate": 45,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:echo_shard",
+        "percentage": null,
+        "quantityRange": "1-2",
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:dragonpulse",
+    "1:peck",
+    "1:growl",
+    "1:helpinghand",
+    "1:acid",
+    "7:furyattack",
+    "14:fellstinger",
+    "21:charm",
+    "28:venoshock",
+    "35:venomdrench",
+    "42:nastyplot",
+    "49:poisonjab",
+    "56:gastroacid",
+    "63:toxic",
+    "tm:charm",
+    "tm:covet",
+    "tm:dragonpulse",
+    "tm:echoedvoice",
+    "tm:endure",
+    "tm:facade",
+    "tm:gastroacid",
+    "tm:gunkshot",
+    "tm:helpinghand",
+    "tm:irontail",
+    "tm:nastyplot",
+    "tm:pinmissile",
+    "tm:poisonjab",
+    "tm:protect",
+    "tm:rest",
+    "tm:signalbeam",
+    "tm:sleeptalk",
+    "tm:sludgebomb",
+    "tm:sludgewave",
+    "tm:snatch",
+    "tm:substitute",
+    "tm:terablast",
+    "tm:toxic",
+    "tm:toxicspikes",
+    "tm:uproar",
+    "tm:venomdrench",
+    "tm:venoshock",
+    "tutor:covet",
+    "tutor:dragonpulse",
+    "tutor:gastroacid",
+    "tutor:gunkshot",
+    "tutor:helpinghand",
+    "tutor:irontail",
+    "tutor:poisonjab",
+    "tutor:rest",
+    "tutor:signalbeam",
+    "tutor:sleeptalk",
+    "tutor:sludgebomb",
+    "tutor:snatch",
+    "tutor:spikes",
+    "tutor:uproar"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "poipole_naganadel",
+      "variant": "level_up",
+      "result": "naganadel",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "aircutter"
+      ],
+      "requirements": [
+        {
+          "variant": "has_move",
+          "move": "dragonpulse"
+        }
+      ]
+    }
+  ],
+  "spawns": [],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/poipole.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/poipole_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/poipole.json"
+  ]
+}

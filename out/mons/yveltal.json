@@ -1,0 +1,210 @@
+{
+  "id": "yveltal",
+  "dexnum": 717,
+  "name": "Yveltal",
+  "primaryType": "dark",
+  "secondaryType": "flying",
+  "maleRatio": -1,
+  "labels": [
+    "gen6",
+    "legendary",
+    "restricted"
+  ],
+  "abilities": [
+    "darkaura",
+    "h:darkaura"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 126,
+    "attack": 131,
+    "defence": 95,
+    "special_attack": 131,
+    "special_defence": 98,
+    "speed": 99
+  },
+  "evYield": {
+    "hp": 3,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 45,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:razorwind",
+    "1:gust",
+    "1:doubleteam",
+    "5:taunt",
+    "10:snarl",
+    "15:disable",
+    "20:suckerpunch",
+    "25:tailwind",
+    "30:roost",
+    "35:airslash",
+    "40:darkpulse",
+    "45:psychic",
+    "50:oblivionwing",
+    "55:phantomforce",
+    "60:foulplay",
+    "65:dragonrush",
+    "70:hurricane",
+    "75:focusblast",
+    "80:skyattack",
+    "85:hyperbeam",
+    "tm:acrobatics",
+    "tm:aerialace",
+    "tm:airslash",
+    "tm:block",
+    "tm:bodyslam",
+    "tm:cut",
+    "tm:darkpulse",
+    "tm:defog",
+    "tm:doubleteam",
+    "tm:dragonclaw",
+    "tm:dreameater",
+    "tm:dualwingbeat",
+    "tm:embargo",
+    "tm:endure",
+    "tm:facade",
+    "tm:fly",
+    "tm:focusblast",
+    "tm:foulplay",
+    "tm:gigaimpact",
+    "tm:heatwave",
+    "tm:honeclaws",
+    "tm:hurricane",
+    "tm:hyperbeam",
+    "tm:hypervoice",
+    "tm:knockoff",
+    "tm:laserfocus",
+    "tm:lashout",
+    "tm:payback",
+    "tm:phantomforce",
+    "tm:protect",
+    "tm:psychic",
+    "tm:raindance",
+    "tm:rest",
+    "tm:rockslide",
+    "tm:roost",
+    "tm:shadowball",
+    "tm:shadowclaw",
+    "tm:skyattack",
+    "tm:skydrop",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:steelwing",
+    "tm:substitute",
+    "tm:suckerpunch",
+    "tm:sunnyday",
+    "tm:swift",
+    "tm:tailwind",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:thief",
+    "tm:torment",
+    "tm:uturn",
+    "tm:zenheadbutt",
+    "tutor:aerialace",
+    "tutor:block",
+    "tutor:darkpulse",
+    "tutor:defog",
+    "tutor:dualwingbeat",
+    "tutor:foulplay",
+    "tutor:gigaimpact",
+    "tutor:heatwave",
+    "tutor:hyperbeam",
+    "tutor:hypervoice",
+    "tutor:knockoff",
+    "tutor:laserfocus",
+    "tutor:lashout",
+    "tutor:psychic",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:roost",
+    "tutor:shadowball",
+    "tutor:shadowclaw",
+    "tutor:skyattack",
+    "tutor:sleeptalk",
+    "tutor:snarl",
+    "tutor:suckerpunch",
+    "tutor:swift",
+    "tutor:tailwind",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "50",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "cocoon_of_destruction",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:dark_forest",
+            "minecraft:swamp"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-yveltal.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "50",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "cocoon_of_destruction",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_spooky",
+            "#cobblemon:is_tundra"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-yveltal.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon_reanimodel/yveltal.png",
+      "out/sprites/cobblemon/yveltal.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon_reanimodel/yveltal_shiny.png",
+      "out/sprites/cobblemon/yveltal_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation6/yveltal.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\yveltal.json",
+    "datapacks\\MysticMons_v3.2.1\\data\\cobblemon\\species\\generation6\\yveltal.json"
+  ]
+}

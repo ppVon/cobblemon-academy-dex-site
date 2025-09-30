@@ -1,0 +1,305 @@
+{
+  "id": "fraxure",
+  "dexnum": 611,
+  "name": "Fraxure",
+  "primaryType": "dragon",
+  "secondaryType": "",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen5"
+  ],
+  "abilities": [
+    "rivalry",
+    "moldbreaker",
+    "h:unnerve"
+  ],
+  "eggGroups": [
+    "monster",
+    "dragon"
+  ],
+  "baseStats": {
+    "hp": 66,
+    "attack": 117,
+    "defence": 70,
+    "special_attack": 40,
+    "special_defence": 50,
+    "speed": 67
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 2,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 60,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:dragon_fang",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:haban_berry",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:bite",
+    "1:dragonrage",
+    "1:falseswipe",
+    "1:leer",
+    "1:scratch",
+    "9:assurance",
+    "12:taunt",
+    "15:slash",
+    "18:dragonclaw",
+    "21:scaryface",
+    "24:crunch",
+    "27:dragondance",
+    "30:breakingswipe",
+    "30:dualchop",
+    "33:focusenergy",
+    "33:laserfocus",
+    "36:dragonpulse",
+    "41:swordsdance",
+    "46:outrage",
+    "51:guillotine",
+    "56:gigaimpact",
+    "tm:aerialace",
+    "tm:assurance",
+    "tm:attract",
+    "tm:breakingswipe",
+    "tm:brickbreak",
+    "tm:bulldoze",
+    "tm:confide",
+    "tm:crunch",
+    "tm:cut",
+    "tm:dig",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:dracometeor",
+    "tm:dragoncheer",
+    "tm:dragonclaw",
+    "tm:dragondance",
+    "tm:dragonpulse",
+    "tm:dragontail",
+    "tm:endeavor",
+    "tm:endure",
+    "tm:facade",
+    "tm:falseswipe",
+    "tm:fling",
+    "tm:focusenergy",
+    "tm:frustration",
+    "tm:gigaimpact",
+    "tm:hiddenpower",
+    "tm:honeclaws",
+    "tm:incinerate",
+    "tm:ironhead",
+    "tm:irontail",
+    "tm:lowkick",
+    "tm:outrage",
+    "tm:payback",
+    "tm:poisonjab",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:return",
+    "tm:reversal",
+    "tm:roar",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:scaleshot",
+    "tm:scaryface",
+    "tm:secretpower",
+    "tm:shadowclaw",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:snore",
+    "tm:stompingtantrum",
+    "tm:strength",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:superpower",
+    "tm:surf",
+    "tm:swagger",
+    "tm:swift",
+    "tm:swordsdance",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:toxic",
+    "tm:trailblaze",
+    "tm:xscissor",
+    "tm:aquatail",
+    "tm:dracometeor",
+    "tm:dragonpulse",
+    "tm:dualchop",
+    "tm:endeavor",
+    "tm:irontail",
+    "tm:lowkick",
+    "tm:outrage",
+    "tm:scaleshot",
+    "tm:shockwave",
+    "tm:sleeptalk",
+    "tm:snore",
+    "tm:stompingtantrum",
+    "tm:superpower"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "fraxure_haxorus",
+      "variant": "level_up",
+      "result": "haxorus",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 48
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 1.1,
+        "levels": "20-31",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural",
+          "wild"
+        ],
+        "rarity": "rare",
+        "weight": 1,
+        "levels": "24-47",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_mountain",
+            "#minecraft:is_taiga",
+            "terralith:alpine_highlands"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/fraxure.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.9,
+        "levels": "24-47",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": [
+            "#cobblemon:is_deep_dark",
+            "#cobblemon:is_mountain"
+          ]
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/fraxure.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 2,
+        "levels": "36-48",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "betterend:dragon_graveyards"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/fraxure.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "rare",
+        "weight": 2,
+        "levels": "20-31",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_mountain",
+            "#cobblemon:is_highlands"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/fraxure.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/fraxure.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/fraxure_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/fraxure.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation5\\fraxure.json"
+  ]
+}

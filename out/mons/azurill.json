@@ -1,0 +1,212 @@
+{
+  "id": "azurill",
+  "dexnum": 298,
+  "name": "Azurill",
+  "primaryType": "normal",
+  "secondaryType": "fairy",
+  "maleRatio": 0.25,
+  "labels": [
+    "gen3",
+    "baby"
+  ],
+  "abilities": [
+    "thickfat",
+    "hugepower",
+    "h:sapsipper"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 20,
+    "defence": 40,
+    "special_attack": 20,
+    "special_defence": 40,
+    "speed": 20
+  },
+  "evYield": {
+    "hp": 1,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "fast",
+  "catchRate": 150,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:kebia_berry",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:splash",
+    "1:tailwhip",
+    "1:bubble",
+    "1:watergun",
+    "1:watersport",
+    "3:helpinghand",
+    "6:bubblebeam",
+    "9:charm",
+    "12:slam",
+    "15:bounce",
+    "egg:aquajet",
+    "egg:bellydrum",
+    "egg:camouflage",
+    "egg:copycat",
+    "egg:perishsong",
+    "egg:present",
+    "egg:refresh",
+    "egg:sing",
+    "egg:soak",
+    "egg:supersonic",
+    "egg:tickle",
+    "egg:watersport",
+    "tm:alluringvoice",
+    "tm:blizzard",
+    "tm:bodyslam",
+    "tm:bounce",
+    "tm:brutalswing",
+    "tm:charm",
+    "tm:covet",
+    "tm:drainingkiss",
+    "tm:encore",
+    "tm:endure",
+    "tm:facade",
+    "tm:faketears",
+    "tm:hail",
+    "tm:headbutt",
+    "tm:helpinghand",
+    "tm:hypervoice",
+    "tm:icebeam",
+    "tm:icywind",
+    "tm:irontail",
+    "tm:lightscreen",
+    "tm:mudshot",
+    "tm:mudslap",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:rollout",
+    "tm:sleeptalk",
+    "tm:substitute",
+    "tm:surf",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:waterfall",
+    "tm:workup",
+    "tutor:bounce",
+    "tutor:covet",
+    "tutor:helpinghand",
+    "tutor:hypervoice",
+    "tutor:icebeam",
+    "tutor:icywind",
+    "tutor:irontail",
+    "tutor:mudslap",
+    "tutor:rest",
+    "tutor:rollout",
+    "tutor:sleeptalk"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "azurill_marill",
+      "variant": "level_up",
+      "result": "marill",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "friendship",
+          "amount": 160
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 4.9,
+        "levels": "6-15",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/uncommon_crystallized_desert.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 2.5,
+        "levels": "5-16",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:warm_shore"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/warm_shore/uncommon_warm_shore.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 3.8,
+        "levels": "1-15",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_river"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/azurill.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/azurill.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/azurill_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation3/azurill.json"
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "id": "furfrou_la_reine",
+  "dexnum": 676,
+  "name": "Furfrou La-Reine",
+  "primaryType": "normal",
+  "secondaryType": "",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen6"
+  ],
+  "abilities": [
+    "furcoat",
+    "h:furcoat"
+  ],
+  "eggGroups": [
+    "field"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defence": 60,
+    "special_attack": 65,
+    "special_defence": 90,
+    "speed": 102
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 160,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "percentage": null,
+        "quantityRange": "0-2",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:white_wool",
+        "percentage": null,
+        "quantityRange": "1-2",
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:silk_scarf",
+        "percentage": 5.0,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:tackle",
+    "1:growl",
+    "5:sandattack",
+    "9:babydolleyes",
+    "12:headbutt",
+    "15:tailwhip",
+    "22:bite",
+    "27:odorsleuth",
+    "33:retaliate",
+    "35:takedown",
+    "38:charm",
+    "42:suckerpunch",
+    "48:cottonguard",
+    "egg:captivate",
+    "egg:mimic",
+    "egg:refresh",
+    "egg:roleplay",
+    "egg:workup",
+    "tm:babydolleyes",
+    "tm:captivate",
+    "tm:chargebeam",
+    "tm:charm",
+    "tm:darkpulse",
+    "tm:dig",
+    "tm:echoedvoice",
+    "tm:endeavor",
+    "tm:endure",
+    "tm:facade",
+    "tm:flash",
+    "tm:gigaimpact",
+    "tm:grassknot",
+    "tm:headbutt",
+    "tm:helpinghand",
+    "tm:hypervoice",
+    "tm:irontail",
+    "tm:lastresort",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:roar",
+    "tm:rocksmash",
+    "tm:roleplay",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:substitute",
+    "tm:suckerpunch",
+    "tm:sunnyday",
+    "tm:surf",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:thunderwave",
+    "tm:uproar",
+    "tm:uturn",
+    "tm:wildcharge",
+    "tm:workup",
+    "tm:zenheadbutt",
+    "tutor:babydolleyes",
+    "tutor:chargebeam",
+    "tutor:darkpulse",
+    "tutor:endeavor",
+    "tutor:gigaimpact",
+    "tutor:helpinghand",
+    "tutor:hypervoice",
+    "tutor:irontail",
+    "tutor:lastresort",
+    "tutor:rest",
+    "tutor:rocksmash",
+    "tutor:roleplay",
+    "tutor:sleeptalk",
+    "tutor:snarl",
+    "tutor:suckerpunch",
+    "tutor:uproar",
+    "tutor:wildcharge",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "furfrou_debutante",
+      "variant": "item_interact",
+      "result": "furfrou poodle_trim=debutante",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "minecraft:yellow_dye"
+        }
+      ],
+      "requiredContext": "minecraft:shears"
+    },
+    {
+      "id": "furfrou_pharaoh",
+      "variant": "item_interact",
+      "result": "furfrou poodle_trim=pharaoh",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "minecraft:blue_dye"
+        }
+      ],
+      "requiredContext": "minecraft:shears"
+    },
+    {
+      "id": "furfrou_kabuki",
+      "variant": "item_interact",
+      "result": "furfrou poodle_trim=kabuki",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "minecraft:red_dye"
+        }
+      ],
+      "requiredContext": "minecraft:shears"
+    },
+    {
+      "id": "furfrou_star",
+      "variant": "item_interact",
+      "result": "furfrou poodle_trim=star",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "minecraft:cyan_dye"
+        }
+      ],
+      "requiredContext": "minecraft:shears"
+    },
+    {
+      "id": "furfrou_natural",
+      "variant": "item_interact",
+      "result": "furfrou poodle_trim=natural",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "minecraft:white_dye"
+        }
+      ],
+      "requiredContext": "minecraft:shears"
+    },
+    {
+      "id": "furfrou_dandy",
+      "variant": "item_interact",
+      "result": "furfrou poodle_trim=dandy",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "minecraft:lime_dye"
+        }
+      ],
+      "requiredContext": "minecraft:shears"
+    },
+    {
+      "id": "furfrou_diamond",
+      "variant": "item_interact",
+      "result": "furfrou poodle_trim=diamond",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "minecraft:orange_dye"
+        }
+      ],
+      "requiredContext": "minecraft:shears"
+    },
+    {
+      "id": "furfrou_heart",
+      "variant": "item_interact",
+      "result": "furfrou poodle_trim=heart",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "minecraft:pink_dye"
+        }
+      ],
+      "requiredContext": "minecraft:shears"
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 5.0,
+        "levels": "30-65",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_plains"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0676_furfrou.json"
+      }
+    ],
+    [
+      {
+        "presets": [],
+        "rarity": "uncommon",
+        "weight": 3.8,
+        "levels": "15-32",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_plains"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/furfrou.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {},
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation6/furfrou.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\custom\\furfrou.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation6\\furfrou.json"
+  ]
+}

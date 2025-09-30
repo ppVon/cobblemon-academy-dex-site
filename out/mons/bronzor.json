@@ -1,0 +1,305 @@
+{
+  "id": "bronzor",
+  "dexnum": 436,
+  "name": "Bronzor",
+  "primaryType": "steel",
+  "secondaryType": "psychic",
+  "maleRatio": -1,
+  "labels": [
+    "gen4"
+  ],
+  "abilities": [
+    "levitate",
+    "heatproof",
+    "h:heavymetal"
+  ],
+  "eggGroups": [
+    "mineral"
+  ],
+  "baseStats": {
+    "hp": 57,
+    "attack": 24,
+    "defence": 86,
+    "special_attack": 24,
+    "special_defence": 86,
+    "speed": 23
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 1,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 255,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:raw_iron",
+        "percentage": null,
+        "quantityRange": "0-1",
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:mental_herb",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:light_clay",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:occa_berry",
+        "percentage": 2.5,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:tackle",
+    "1:confusion",
+    "4:confuseray",
+    "8:payback",
+    "12:imprison",
+    "16:gyroball",
+    "20:hypnosis",
+    "24:safeguard",
+    "28:extrasensory",
+    "32:heavyslam",
+    "36:irondefense",
+    "40:metalsound",
+    "44:futuresight",
+    "egg:feintattack",
+    "egg:gravity",
+    "egg:healblock",
+    "egg:psywave",
+    "egg:recycle",
+    "tm:allyswitch",
+    "tm:ancientpower",
+    "tm:bodyslam",
+    "tm:bulldoze",
+    "tm:calmmind",
+    "tm:chargebeam",
+    "tm:confuseray",
+    "tm:dreameater",
+    "tm:earthquake",
+    "tm:endure",
+    "tm:expandingforce",
+    "tm:facade",
+    "tm:flash",
+    "tm:flashcannon",
+    "tm:futuresight",
+    "tm:grassknot",
+    "tm:gravity",
+    "tm:guardswap",
+    "tm:gyroball",
+    "tm:heavyslam",
+    "tm:helpinghand",
+    "tm:hex",
+    "tm:icespinner",
+    "tm:imprison",
+    "tm:irondefense",
+    "tm:ironhead",
+    "tm:lightscreen",
+    "tm:metalsound",
+    "tm:payback",
+    "tm:powergem",
+    "tm:powerswap",
+    "tm:protect",
+    "tm:psychic",
+    "tm:psychicterrain",
+    "tm:psychup",
+    "tm:psyshock",
+    "tm:raindance",
+    "tm:recycle",
+    "tm:reflect",
+    "tm:rest",
+    "tm:rockblast",
+    "tm:rockpolish",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:rollout",
+    "tm:safeguard",
+    "tm:sandstorm",
+    "tm:shadowball",
+    "tm:signalbeam",
+    "tm:skillswap",
+    "tm:sleeptalk",
+    "tm:solarbeam",
+    "tm:speedswap",
+    "tm:stealthrock",
+    "tm:steelbeam",
+    "tm:steelroller",
+    "tm:stompingtantrum",
+    "tm:storedpower",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:takedown",
+    "tm:telekinesis",
+    "tm:terablast",
+    "tm:trick",
+    "tm:trickroom",
+    "tm:wonderroom",
+    "tm:zenheadbutt",
+    "tutor:allyswitch",
+    "tutor:ancientpower",
+    "tutor:block",
+    "tutor:bulldoze",
+    "tutor:calmmind",
+    "tutor:chargebeam",
+    "tutor:expandingforce",
+    "tutor:flashcannon",
+    "tutor:gravity",
+    "tutor:helpinghand",
+    "tutor:irondefense",
+    "tutor:ironhead",
+    "tutor:psychic",
+    "tutor:recycle",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:rollout",
+    "tutor:shadowball",
+    "tutor:signalbeam",
+    "tutor:skillswap",
+    "tutor:sleeptalk",
+    "tutor:stealthrock",
+    "tutor:steelbeam",
+    "tutor:steelroller",
+    "tutor:stompingtantrum",
+    "tutor:telekinesis",
+    "tutor:trick",
+    "tutor:wonderroom",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "bronzor_bronzong",
+      "variant": "level_up",
+      "result": "bronzong",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "block"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 33
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 8.2,
+        "levels": "20-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 3,
+        "levels": "20-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_spooky"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bronzor.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "underground"
+        ],
+        "rarity": "rare",
+        "weight": 3,
+        "levels": "20-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_cave"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bronzor.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 3,
+        "levels": "20-30",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [
+          "night"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_mountain"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bronzor.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/bronzor.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/bronzor_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation4/bronzor.json"
+  ]
+}

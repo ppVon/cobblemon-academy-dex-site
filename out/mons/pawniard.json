@@ -1,0 +1,271 @@
+{
+  "id": "pawniard",
+  "dexnum": 624,
+  "name": "Pawniard",
+  "primaryType": "dark",
+  "secondaryType": "steel",
+  "maleRatio": 0.5,
+  "labels": [
+    "gen5"
+  ],
+  "abilities": [
+    "defiant",
+    "innerfocus",
+    "h:pressure"
+  ],
+  "eggGroups": [
+    "human_like"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 85,
+    "defence": 70,
+    "special_attack": 40,
+    "special_defence": 40,
+    "speed": 60
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 120,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:leer",
+    "1:scratch",
+    "5:furycutter",
+    "10:metalclaw",
+    "15:torment",
+    "17:feintattack",
+    "20:scaryface",
+    "25:assurance",
+    "30:metalsound",
+    "35:slash",
+    "40:nightslash",
+    "41:embargo",
+    "45:irondefense",
+    "50:laserfocus",
+    "50:retaliate",
+    "55:ironhead",
+    "60:swordsdance",
+    "65:guillotine",
+    "egg:headbutt",
+    "egg:meanlook",
+    "egg:psychocut",
+    "egg:pursuit",
+    "egg:quickguard",
+    "egg:revenge",
+    "egg:stealthrock",
+    "egg:suckerpunch",
+    "tm:aerialace",
+    "tm:airslash",
+    "tm:assurance",
+    "tm:attract",
+    "tm:beatup",
+    "tm:brickbreak",
+    "tm:confide",
+    "tm:cut",
+    "tm:darkpulse",
+    "tm:dig",
+    "tm:doubleteam",
+    "tm:embargo",
+    "tm:endure",
+    "tm:facade",
+    "tm:falseswipe",
+    "tm:flashcannon",
+    "tm:fling",
+    "tm:foulplay",
+    "tm:frustration",
+    "tm:grassknot",
+    "tm:hiddenpower",
+    "tm:honeclaws",
+    "tm:irondefense",
+    "tm:ironhead",
+    "tm:lowkick",
+    "tm:lowsweep",
+    "tm:metalclaw",
+    "tm:payback",
+    "tm:poisonjab",
+    "tm:poweruppunch",
+    "tm:protect",
+    "tm:psychocut",
+    "tm:raindance",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:return",
+    "tm:revenge",
+    "tm:rockpolish",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:sandstorm",
+    "tm:scaryface",
+    "tm:screech",
+    "tm:secretpower",
+    "tm:shadowclaw",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:snore",
+    "tm:stealthrock",
+    "tm:steelbeam",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:swagger",
+    "tm:swordsdance",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:thief",
+    "tm:thunderwave",
+    "tm:torment",
+    "tm:toxic",
+    "tm:xscissor",
+    "tutor:darkpulse",
+    "tutor:dualchop",
+    "tutor:foulplay",
+    "tutor:furycutter",
+    "tutor:irondefense",
+    "tutor:ironhead",
+    "tutor:knockoff",
+    "tutor:lashout",
+    "tutor:lowkick",
+    "tutor:magnetrise",
+    "tutor:psychocut",
+    "tutor:roleplay",
+    "tutor:sleeptalk",
+    "tutor:snatch",
+    "tutor:snore",
+    "tutor:spite",
+    "tutor:stealthrock",
+    "tutor:steelbeam",
+    "tutor:suckerpunch"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "pawniard_bisharp",
+      "variant": "level_up",
+      "result": "bisharp",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 52
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 9.6942,
+        "levels": "10-38",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:bamboo_jungle"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/pawniard.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 3,
+        "levels": "5-29",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_plateau"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/pawniard.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 3,
+        "levels": "5-23",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_mountain"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/pawniard.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 300,
+        "levels": "5-23",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_mountain"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/pawniard.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/pawniard.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/pawniard_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/pawniard.json",
+    "datapacks\\MysticMons_v3.2.1\\data\\cobblemon\\species\\generation5\\pawniard.json"
+  ]
+}

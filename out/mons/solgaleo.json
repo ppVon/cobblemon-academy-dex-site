@@ -1,0 +1,194 @@
+{
+  "id": "solgaleo",
+  "dexnum": 791,
+  "name": "Solgaleo",
+  "primaryType": "psychic",
+  "secondaryType": "steel",
+  "maleRatio": -1,
+  "labels": [
+    "gen7",
+    "legendary"
+  ],
+  "abilities": [
+    "fullmetalbody"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 137,
+    "attack": 137,
+    "defence": 107,
+    "special_attack": 113,
+    "special_defence": 89,
+    "speed": 97
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 3,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 45,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:cosmicpower",
+    "1:metalclaw",
+    "1:nobleroar",
+    "1:sunsteelstrike",
+    "1:teleport",
+    "1:wakeupslap",
+    "7:ironhead",
+    "14:metalsound",
+    "21:zenheadbutt",
+    "28:flashcannon",
+    "35:morningsun",
+    "42:crunch",
+    "49:metalburst",
+    "56:wildcharge",
+    "63:solarbeam",
+    "70:flareblitz",
+    "77:wideguard",
+    "84:gigaimpact",
+    "tm:agility",
+    "tm:bulldoze",
+    "tm:calmmind",
+    "tm:closecombat",
+    "tm:confide",
+    "tm:cosmicpower",
+    "tm:crunch",
+    "tm:doubleteam",
+    "tm:earthquake",
+    "tm:endure",
+    "tm:facade",
+    "tm:fireblast",
+    "tm:firespin",
+    "tm:flamecharge",
+    "tm:flamethrower",
+    "tm:flareblitz",
+    "tm:flashcannon",
+    "tm:focusblast",
+    "tm:frustration",
+    "tm:futuresight",
+    "tm:gigaimpact",
+    "tm:gyroball",
+    "tm:heatcrash",
+    "tm:heavyslam",
+    "tm:helpinghand",
+    "tm:hiddenpower",
+    "tm:hyperbeam",
+    "tm:hypervoice",
+    "tm:irondefense",
+    "tm:ironhead",
+    "tm:irontail",
+    "tm:lightscreen",
+    "tm:mysticalfire",
+    "tm:outrage",
+    "tm:protect",
+    "tm:psychic",
+    "tm:psychicfangs",
+    "tm:psychup",
+    "tm:psyshock",
+    "tm:reflect",
+    "tm:rest",
+    "tm:return",
+    "tm:roar",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:safeguard",
+    "tm:scaryface",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:snore",
+    "tm:solarbeam",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:superpower",
+    "tm:swagger",
+    "tm:swift",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderwave",
+    "tm:toxic",
+    "tm:trickroom",
+    "tm:wildcharge",
+    "tm:workup",
+    "tm:zenheadbutt",
+    "tutor:cosmicpower",
+    "tutor:crunch",
+    "tutor:endeavor",
+    "tutor:expandingforce",
+    "tutor:firespin",
+    "tutor:hypervoice",
+    "tutor:irondefense",
+    "tutor:ironhead",
+    "tutor:irontail",
+    "tutor:knockoff",
+    "tutor:lastresort",
+    "tutor:meteorbeam",
+    "tutor:morningsun",
+    "tutor:nobleroar",
+    "tutor:outrage",
+    "tutor:shockwave",
+    "tutor:snore",
+    "tutor:steelbeam",
+    "tutor:steelroller",
+    "tutor:sunsteelstrike",
+    "tutor:superpower",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "70-80",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "sun_flute",
+        "times": [
+          "day"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_plateau",
+            "minecraft:desert",
+            "wythers:badlands_desert"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-solgaleo.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon_reanimodel/solgaleo.png",
+      "out/sprites/cobblemon/solgaleo.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon_reanimodel/solgaleo_shiny.png",
+      "out/sprites/cobblemon/solgaleo_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation7/solgaleo.json",
+    "datapacks\\MysticMons_v3.2.1\\data\\cobblemon\\species\\generation7\\solgaleo.json"
+  ]
+}

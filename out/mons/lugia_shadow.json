@@ -1,0 +1,367 @@
+{
+  "id": "lugia_shadow",
+  "dexnum": 249,
+  "name": "Lugia Shadow",
+  "primaryType": "water",
+  "secondaryType": "dragon",
+  "maleRatio": -1,
+  "labels": [
+    "gen2",
+    "legendary"
+  ],
+  "abilities": [
+    "levitate",
+    "angerpoint",
+    "h:primordialsea"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 106,
+    "attack": 90,
+    "defence": 130,
+    "special_attack": 90,
+    "special_defence": 154,
+    "speed": 110
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 3,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 1,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "percentage": null,
+        "quantityRange": "2-4",
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:ancientpower",
+    "1:aquaring",
+    "1:dragonrush",
+    "1:gust",
+    "1:weatherball",
+    "1:whirlwind",
+    "9:mist",
+    "18:safeguard",
+    "27:calmmind",
+    "36:extrasensory",
+    "43:swift",
+    "45:recover",
+    "45:scald",
+    "45:thunderbolt",
+    "50:punishment",
+    "54:aeroblast",
+    "63:raindance",
+    "72:hydropump",
+    "81:futuresight",
+    "85:naturalgift",
+    "90:skyattack",
+    "tm:acrobatics",
+    "tm:aerialace",
+    "tm:aircutter",
+    "tm:airslash",
+    "tm:avalanche",
+    "tm:blizzard",
+    "tm:bodyslam",
+    "tm:bravebird",
+    "tm:brine",
+    "tm:bulldoze",
+    "tm:calmmind",
+    "tm:chargebeam",
+    "tm:chillingwater",
+    "tm:confide",
+    "tm:curse",
+    "tm:defog",
+    "tm:dive",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:dragonpulse",
+    "tm:dragontail",
+    "tm:dreameater",
+    "tm:dualwingbeat",
+    "tm:earthpower",
+    "tm:earthquake",
+    "tm:echoedvoice",
+    "tm:endure",
+    "tm:facade",
+    "tm:flash",
+    "tm:fly",
+    "tm:frustration",
+    "tm:futuresight",
+    "tm:gigadrain",
+    "tm:gigaimpact",
+    "tm:hail",
+    "tm:helpinghand",
+    "tm:hiddenpower",
+    "tm:hurricane",
+    "tm:hydropump",
+    "tm:hyperbeam",
+    "tm:hypervoice",
+    "tm:icebeam",
+    "tm:icywind",
+    "tm:imprison",
+    "tm:ironhead",
+    "tm:irontail",
+    "tm:lightscreen",
+    "tm:liquidation",
+    "tm:naturalgift",
+    "tm:protect",
+    "tm:psychic",
+    "tm:psychicnoise",
+    "tm:psychup",
+    "tm:psyshock",
+    "tm:raindance",
+    "tm:reflect",
+    "tm:rest",
+    "tm:return",
+    "tm:roar",
+    "tm:rocksmash",
+    "tm:roost",
+    "tm:round",
+    "tm:safeguard",
+    "tm:sandstorm",
+    "tm:scaleshot",
+    "tm:scaryface",
+    "tm:secretpower",
+    "tm:shadowball",
+    "tm:shockwave",
+    "tm:skillswap",
+    "tm:skydrop",
+    "tm:sleeptalk",
+    "tm:snore",
+    "tm:steelwing",
+    "tm:strength",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:surf",
+    "tm:swagger",
+    "tm:swift",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:telekinesis",
+    "tm:terablast",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderwave",
+    "tm:toxic",
+    "tm:trick",
+    "tm:waterfall",
+    "tm:waterpulse",
+    "tm:weatherball",
+    "tm:whirlpool",
+    "tm:wonderroom",
+    "tm:zenheadbutt",
+    "tutor:aircutter",
+    "tutor:ancientpower",
+    "tutor:aquatail",
+    "tutor:blizzard",
+    "tutor:bodyslam",
+    "tutor:curse",
+    "tutor:defog",
+    "tutor:detect",
+    "tutor:dive",
+    "tutor:doubleedge",
+    "tutor:doubleteam",
+    "tutor:dragonbreath",
+    "tutor:dragonpulse",
+    "tutor:dragonrush",
+    "tutor:dreameater",
+    "tutor:dualwingbeat",
+    "tutor:earthpower",
+    "tutor:earthquake",
+    "tutor:endure",
+    "tutor:featherdance",
+    "tutor:fly",
+    "tutor:frustration",
+    "tutor:futuresight",
+    "tutor:gigadrain",
+    "tutor:gust",
+    "tutor:headbutt",
+    "tutor:hiddenpower",
+    "tutor:hurricane",
+    "tutor:hydropump",
+    "tutor:hyperbeam",
+    "tutor:hypervoice",
+    "tutor:icebeam",
+    "tutor:icywind",
+    "tutor:ironhead",
+    "tutor:irontail",
+    "tutor:laserfocus",
+    "tutor:mimic",
+    "tutor:mudslap",
+    "tutor:nightmare",
+    "tutor:ominouswind",
+    "tutor:protect",
+    "tutor:psychic",
+    "tutor:psychoboost",
+    "tutor:psychup",
+    "tutor:punishment",
+    "tutor:rest",
+    "tutor:return",
+    "tutor:roar",
+    "tutor:rocksmash",
+    "tutor:roost",
+    "tutor:safeguard",
+    "tutor:sandstorm",
+    "tutor:scaleshot",
+    "tutor:shadowball",
+    "tutor:shockwave",
+    "tutor:signalbeam",
+    "tutor:skillswap",
+    "tutor:skyattack",
+    "tutor:sleeptalk",
+    "tutor:snore",
+    "tutor:steelwing",
+    "tutor:strength",
+    "tutor:substitute",
+    "tutor:sunnyday",
+    "tutor:surf",
+    "tutor:swagger",
+    "tutor:swift",
+    "tutor:tailwind",
+    "tutor:telekinesis",
+    "tutor:thunder",
+    "tutor:thunderwave",
+    "tutor:toxic",
+    "tutor:trick",
+    "tutor:twister",
+    "tutor:waterfall",
+    "tutor:waterpulse",
+    "tutor:weatherball",
+    "tutor:whirlpool",
+    "tutor:whirlwind",
+    "tutor:wonderroom",
+    "tutor:zapcannon",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "freshwater",
+          "underwater"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "40-70",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "tidal_bell",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_deep_ocean",
+            "minecraft:deep_ocean",
+            "minecraft:ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "freshwater",
+          "underwater"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "40-70",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "tidal_bell",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_ocean",
+            "#cobblemon:is_ocean",
+            "#cobblemon:is_cold_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "freshwater",
+          "underwater"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "40-70",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "silver_wing",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_ocean",
+            "minecraft:deep_ocean",
+            "minecraft:ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "freshwater",
+          "underwater"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "40-70",
+        "contexts": [
+          "submerged"
+        ],
+        "keyItem": "silver_wing",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_deep_ocean",
+            "#cobblemon:is_ocean",
+            "#cobblemon:is_cold_ocean"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/lugia_shadow.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/lugia_shadow_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation2/lugia.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation2\\lugia.json"
+  ]
+}

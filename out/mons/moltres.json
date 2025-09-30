@@ -1,0 +1,225 @@
+{
+  "id": "moltres",
+  "dexnum": 146,
+  "name": "Moltres",
+  "primaryType": "fire",
+  "secondaryType": "flying",
+  "maleRatio": -1,
+  "labels": [
+    "gen1",
+    "legendary",
+    "kantonian_form"
+  ],
+  "abilities": [
+    "pressure",
+    "h:flamebody"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 100,
+    "defence": 90,
+    "special_attack": 125,
+    "special_defence": 85,
+    "speed": 90
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 3,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "percentage": null,
+        "quantityRange": "2-4",
+        "source": "species"
+      },
+      {
+        "item": "minecraft:cooked_chicken",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:charcoal_stick",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:gust",
+    "1:leer",
+    "5:ember",
+    "10:safeguard",
+    "15:wingattack",
+    "20:agility",
+    "25:ancientpower",
+    "30:incinerate",
+    "35:airslash",
+    "40:roost",
+    "45:heatwave",
+    "50:sunnyday",
+    "55:hurricane",
+    "60:endure",
+    "65:burnup",
+    "70:skyattack",
+    "tm:acrobatics",
+    "tm:aerialace",
+    "tm:agility",
+    "tm:aircutter",
+    "tm:airslash",
+    "tm:ancientpower",
+    "tm:bravebird",
+    "tm:burningjealousy",
+    "tm:defog",
+    "tm:doubleedge",
+    "tm:dualwingbeat",
+    "tm:endure",
+    "tm:facade",
+    "tm:fireblast",
+    "tm:firespin",
+    "tm:flamecharge",
+    "tm:flamethrower",
+    "tm:flareblitz",
+    "tm:fly",
+    "tm:gigaimpact",
+    "tm:heatwave",
+    "tm:helpinghand",
+    "tm:hurricane",
+    "tm:hyperbeam",
+    "tm:incinerate",
+    "tm:laserfocus",
+    "tm:mysticalfire",
+    "tm:ominouswind",
+    "tm:overheat",
+    "tm:pluck",
+    "tm:protect",
+    "tm:raindance",
+    "tm:rest",
+    "tm:roar",
+    "tm:rocksmash",
+    "tm:roost",
+    "tm:safeguard",
+    "tm:sandstorm",
+    "tm:scorchingsands",
+    "tm:skyattack",
+    "tm:skydrop",
+    "tm:sleeptalk",
+    "tm:solarbeam",
+    "tm:steelwing",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swift",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:temperflare",
+    "tm:terablast",
+    "tm:twister",
+    "tm:uturn",
+    "tm:weatherball",
+    "tm:willowisp",
+    "tutor:aerialace",
+    "tutor:aircutter",
+    "tutor:ancientpower",
+    "tutor:burningjealousy",
+    "tutor:defog",
+    "tutor:dualwingbeat",
+    "tutor:flamethrower",
+    "tutor:gigaimpact",
+    "tutor:heatwave",
+    "tutor:helpinghand",
+    "tutor:hyperbeam",
+    "tutor:laserfocus",
+    "tutor:mysticalfire",
+    "tutor:ominouswind",
+    "tutor:rest",
+    "tutor:rocksmash",
+    "tutor:roost",
+    "tutor:scorchingsands",
+    "tutor:skyattack",
+    "tutor:sleeptalk",
+    "tutor:swift",
+    "tutor:tailwind",
+    "tutor:twister"
+  ],
+  "forms": [
+    "Galar"
+  ],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "tidal_bell",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:badlands",
+            "minecraft:windswept_hills"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-moltres.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "tidal_bell",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_volcanic",
+            "#cobblemon:is_thermal",
+            "#cobblemon:is_sky"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-moltres.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/genomons/moltres.png",
+      "out/sprites/cobblemon/moltres.png"
+    ],
+    "shiny": [
+      "out/sprites/genomons/moltres_shiny.png",
+      "out/sprites/cobblemon/moltres_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation1/moltres.json"
+  ]
+}

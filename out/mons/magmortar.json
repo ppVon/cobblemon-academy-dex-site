@@ -1,0 +1,283 @@
+{
+  "id": "magmortar",
+  "dexnum": 467,
+  "name": "Magmortar",
+  "primaryType": "fire",
+  "secondaryType": "",
+  "maleRatio": 0.75,
+  "labels": [
+    "gen4"
+  ],
+  "abilities": [
+    "flamebody",
+    "h:vitalspirit"
+  ],
+  "eggGroups": [
+    "human_like"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 95,
+    "defence": 67,
+    "special_attack": 125,
+    "special_defence": 95,
+    "speed": 83
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 3,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "medium_fast",
+  "catchRate": 30,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:blaze_powder",
+        "percentage": 25.0,
+        "quantityRange": null,
+        "source": "species",
+        "biomes": [
+          "#cobblemon:nether/is_basalt",
+          "#cobblemon:nether/is_wasteland"
+        ]
+      },
+      {
+        "item": "cobblemon:magmarizer",
+        "percentage": 10.0,
+        "quantityRange": null,
+        "source": "species",
+        "biomes": [
+          "#cobblemon:nether/is_basalt",
+          "#cobblemon:nether/is_wasteland"
+        ]
+      },
+      {
+        "item": "cobblemon:rawst_berry",
+        "percentage": 10.0,
+        "quantityRange": null,
+        "source": "species",
+        "biomes": [
+          "#cobblemon:nether/is_basalt",
+          "#cobblemon:nether/is_wasteland"
+        ]
+      }
+    ]
+  },
+  "moves": [
+    "1:smog",
+    "1:leer",
+    "1:ember",
+    "1:smokescreen",
+    "1:feintattack",
+    "1:flameburst",
+    "12:clearsmog",
+    "16:flamewheel",
+    "20:confuseray",
+    "24:scaryface",
+    "28:firepunch",
+    "34:lavaplume",
+    "40:lowkick",
+    "46:flamethrower",
+    "52:sunnyday",
+    "58:fireblast",
+    "64:hyperbeam",
+    "egg:barrier",
+    "egg:belch",
+    "egg:bellydrum",
+    "egg:crosschop",
+    "egg:dynamicpunch",
+    "egg:flameburst",
+    "egg:focuspunch",
+    "egg:followme",
+    "egg:karatechop",
+    "egg:machpunch",
+    "tm:acidspray",
+    "tm:bodyslam",
+    "tm:brickbreak",
+    "tm:bulldoze",
+    "tm:burningjealousy",
+    "tm:confuseray",
+    "tm:covet",
+    "tm:curse",
+    "tm:doubleedge",
+    "tm:dualchop",
+    "tm:earthquake",
+    "tm:endure",
+    "tm:facade",
+    "tm:fireblast",
+    "tm:firepunch",
+    "tm:firespin",
+    "tm:flamecharge",
+    "tm:flamethrower",
+    "tm:flareblitz",
+    "tm:fling",
+    "tm:focusblast",
+    "tm:focusenergy",
+    "tm:focuspunch",
+    "tm:gigaimpact",
+    "tm:headbutt",
+    "tm:heatcrash",
+    "tm:heatwave",
+    "tm:helpinghand",
+    "tm:hyperbeam",
+    "tm:hypervoice",
+    "tm:incinerate",
+    "tm:irontail",
+    "tm:knockoff",
+    "tm:lowkick",
+    "tm:lowsweep",
+    "tm:megakick",
+    "tm:megapunch",
+    "tm:metronome",
+    "tm:mysticalfire",
+    "tm:overheat",
+    "tm:poisonjab",
+    "tm:powerswap",
+    "tm:poweruppunch",
+    "tm:protect",
+    "tm:psychic",
+    "tm:rest",
+    "tm:roar",
+    "tm:rockclimb",
+    "tm:rockslide",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:scaryface",
+    "tm:scorchingsands",
+    "tm:screech",
+    "tm:sleeptalk",
+    "tm:solarbeam",
+    "tm:stompingtantrum",
+    "tm:strength",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:temperflare",
+    "tm:terablast",
+    "tm:thief",
+    "tm:thunderbolt",
+    "tm:thunderpunch",
+    "tm:torment",
+    "tm:uproar",
+    "tm:weatherball",
+    "tm:willowisp",
+    "tutor:bulldoze",
+    "tutor:burningjealousy",
+    "tutor:covet",
+    "tutor:dualchop",
+    "tutor:firepunch",
+    "tutor:flamethrower",
+    "tutor:focusenergy",
+    "tutor:focuspunch",
+    "tutor:gigaimpact",
+    "tutor:heatwave",
+    "tutor:helpinghand",
+    "tutor:hyperbeam",
+    "tutor:hypervoice",
+    "tutor:irontail",
+    "tutor:knockoff",
+    "tutor:lowkick",
+    "tutor:mysticalfire",
+    "tutor:poisonjab",
+    "tutor:psychic",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:rocksmash",
+    "tutor:scorchingsands",
+    "tutor:sleeptalk",
+    "tutor:stompingtantrum",
+    "tutor:thunderbolt",
+    "tutor:thunderpunch",
+    "tutor:uproar"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.05,
+        "levels": "45-54",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_hills"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0467_magmortar.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.05,
+        "levels": "45-54",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_volcanic"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0467_magmortar.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.05,
+        "levels": "45-54",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:nether/is_basalt",
+            "#cobblemon:nether/is_wasteland"
+          ],
+          "exclude": []
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0467_magmortar.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/magmortar.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/magmortar_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation4/magmortar.json"
+  ]
+}

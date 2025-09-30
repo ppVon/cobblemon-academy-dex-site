@@ -1,0 +1,597 @@
+{
+  "id": "arceus_psychic",
+  "dexnum": 493,
+  "name": "Arceus Psychic",
+  "primaryType": "psychic",
+  "secondaryType": "",
+  "maleRatio": -1,
+  "labels": [
+    "gen4",
+    "mythical"
+  ],
+  "abilities": [
+    "multitype",
+    "h:multitype"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 120,
+    "attack": 120,
+    "defence": 120,
+    "special_attack": 120,
+    "special_defence": 120,
+    "speed": 120
+  },
+  "evYield": {
+    "hp": 3,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:seismictoss",
+    "1:cosmicpower",
+    "1:naturalgift",
+    "1:punishment",
+    "1:refresh",
+    "10:gravity",
+    "20:earthpower",
+    "30:hypervoice",
+    "40:extremespeed",
+    "50:healingwish",
+    "60:futuresight",
+    "70:recover",
+    "80:hyperbeam",
+    "90:perishsong",
+    "100:judgment",
+    "tm:acidspray",
+    "tm:agility",
+    "tm:airslash",
+    "tm:ancientpower",
+    "tm:aquatail",
+    "tm:aurasphere",
+    "tm:avalanche",
+    "tm:blizzard",
+    "tm:bodypress",
+    "tm:bodyslam",
+    "tm:brickbreak",
+    "tm:brine",
+    "tm:bugbuzz",
+    "tm:bulkup",
+    "tm:bulldoze",
+    "tm:bulletseed",
+    "tm:calmmind",
+    "tm:chargebeam",
+    "tm:chillingwater",
+    "tm:confuseray",
+    "tm:cosmicpower",
+    "tm:cut",
+    "tm:darkpulse",
+    "tm:dazzlinggleam",
+    "tm:defog",
+    "tm:dive",
+    "tm:doubleedge",
+    "tm:dracometeor",
+    "tm:dragonclaw",
+    "tm:dragondance",
+    "tm:dragonpulse",
+    "tm:dragontail",
+    "tm:dreameater",
+    "tm:earthpower",
+    "tm:earthquake",
+    "tm:echoedvoice",
+    "tm:electricterrain",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:fireblast",
+    "tm:flamethrower",
+    "tm:flareblitz",
+    "tm:flash",
+    "tm:flashcannon",
+    "tm:fly",
+    "tm:focusblast",
+    "tm:foulplay",
+    "tm:furycutter",
+    "tm:futuresight",
+    "tm:gigadrain",
+    "tm:gigaimpact",
+    "tm:grassknot",
+    "tm:grassyterrain",
+    "tm:gravity",
+    "tm:gunkshot",
+    "tm:hail",
+    "tm:headbutt",
+    "tm:heatwave",
+    "tm:heavyslam",
+    "tm:hex",
+    "tm:honeclaws",
+    "tm:hurricane",
+    "tm:hydropump",
+    "tm:hyperbeam",
+    "tm:hypervoice",
+    "tm:icebeam",
+    "tm:icywind",
+    "tm:imprison",
+    "tm:incinerate",
+    "tm:irondefense",
+    "tm:ironhead",
+    "tm:irontail",
+    "tm:laserfocus",
+    "tm:lastresort",
+    "tm:lightscreen",
+    "tm:liquidation",
+    "tm:magicalleaf",
+    "tm:magiccoat",
+    "tm:meteorbeam",
+    "tm:mistyterrain",
+    "tm:naturalgift",
+    "tm:ominouswind",
+    "tm:outrage",
+    "tm:overheat",
+    "tm:payback",
+    "tm:phantomforce",
+    "tm:poisonjab",
+    "tm:powergem",
+    "tm:protect",
+    "tm:psychic",
+    "tm:psychicterrain",
+    "tm:psychup",
+    "tm:psyshock",
+    "tm:quash",
+    "tm:raindance",
+    "tm:recycle",
+    "tm:reflect",
+    "tm:rest",
+    "tm:retaliate",
+    "tm:roar",
+    "tm:rockclimb",
+    "tm:rockslide",
+    "tm:rocksmash",
+    "tm:rocktomb",
+    "tm:safeguard",
+    "tm:sandstorm",
+    "tm:scaryface",
+    "tm:scorchingsands",
+    "tm:shadowball",
+    "tm:shadowclaw",
+    "tm:shockwave",
+    "tm:signalbeam",
+    "tm:silverwind",
+    "tm:sleeptalk",
+    "tm:sludgebomb",
+    "tm:snarl",
+    "tm:solarbeam",
+    "tm:stealthrock",
+    "tm:steelbeam",
+    "tm:stompingtantrum",
+    "tm:stoneedge",
+    "tm:storedpower",
+    "tm:strength",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:supercellslam",
+    "tm:surf",
+    "tm:swift",
+    "tm:swordsdance",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:telekinesis",
+    "tm:terablast",
+    "tm:terrainpulse",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderwave",
+    "tm:trailblaze",
+    "tm:trick",
+    "tm:trickroom",
+    "tm:twister",
+    "tm:waterfall",
+    "tm:waterpulse",
+    "tm:wildcharge",
+    "tm:willowisp",
+    "tm:workup",
+    "tm:xscissor",
+    "tm:zenheadbutt",
+    "tutor:ancientpower",
+    "tutor:aquatail",
+    "tutor:bulkup",
+    "tutor:bulldoze",
+    "tutor:calmmind",
+    "tutor:chargebeam",
+    "tutor:darkpulse",
+    "tutor:dazzlinggleam",
+    "tutor:defog",
+    "tutor:dive",
+    "tutor:dracometeor",
+    "tutor:dragonpulse",
+    "tutor:earthpower",
+    "tutor:energyball",
+    "tutor:flamethrower",
+    "tutor:flashcannon",
+    "tutor:foulplay",
+    "tutor:furycutter",
+    "tutor:gigadrain",
+    "tutor:gigaimpact",
+    "tutor:gravity",
+    "tutor:gunkshot",
+    "tutor:heatwave",
+    "tutor:hyperbeam",
+    "tutor:hypervoice",
+    "tutor:icebeam",
+    "tutor:icywind",
+    "tutor:irondefense",
+    "tutor:ironhead",
+    "tutor:irontail",
+    "tutor:laserfocus",
+    "tutor:lastresort",
+    "tutor:liquidation",
+    "tutor:magicalleaf",
+    "tutor:magiccoat",
+    "tutor:meteorbeam",
+    "tutor:ominouswind",
+    "tutor:outrage",
+    "tutor:poisonjab",
+    "tutor:psychic",
+    "tutor:recycle",
+    "tutor:rest",
+    "tutor:rockslide",
+    "tutor:rocksmash",
+    "tutor:scorchingsands",
+    "tutor:shadowball",
+    "tutor:shadowclaw",
+    "tutor:shockwave",
+    "tutor:signalbeam",
+    "tutor:sleeptalk",
+    "tutor:sludgebomb",
+    "tutor:snarl",
+    "tutor:stealthrock",
+    "tutor:steelbeam",
+    "tutor:stompingtantrum",
+    "tutor:stoneedge",
+    "tutor:swift",
+    "tutor:tailwind",
+    "tutor:telekinesis",
+    "tutor:terrainpulse",
+    "tutor:thunderbolt",
+    "tutor:trick",
+    "tutor:twister",
+    "tutor:waterpulse",
+    "tutor:wildcharge",
+    "tutor:xscissor",
+    "tutor:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [
+    {
+      "id": "arceus_psychic",
+      "variant": "level_up",
+      "result": "arceus multitype=normal",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:normal_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_fire",
+      "variant": "level_up",
+      "result": "arceus multitype=fire",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:fire_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_water",
+      "variant": "level_up",
+      "result": "arceus multitype=water",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:water_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_grass",
+      "variant": "level_up",
+      "result": "arceus multitype=grass",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:grass_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_electric",
+      "variant": "level_up",
+      "result": "arceus multitype=electric",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:electric_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_ice",
+      "variant": "level_up",
+      "result": "arceus multitype=ice",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:ice_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_fighting",
+      "variant": "level_up",
+      "result": "arceus multitype=fighting",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:fighting_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_fairy",
+      "variant": "level_up",
+      "result": "arceus multitype=fairy",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:fairy_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_poison",
+      "variant": "level_up",
+      "result": "arceus multitype=poison",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:poison_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_ground",
+      "variant": "level_up",
+      "result": "arceus multitype=ground",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:ground_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_flying",
+      "variant": "level_up",
+      "result": "arceus multitype=flying",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:flying_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_bug",
+      "variant": "level_up",
+      "result": "arceus multitype=bug",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:bug_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_rock",
+      "variant": "level_up",
+      "result": "arceus multitype=rock",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:rock_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_ghost",
+      "variant": "level_up",
+      "result": "arceus multitype=ghost",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:ghost_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_dragon",
+      "variant": "level_up",
+      "result": "arceus multitype=dragon",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:dragon_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_dark",
+      "variant": "level_up",
+      "result": "arceus multitype=dark",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:dark_gem"
+        }
+      ]
+    },
+    {
+      "id": "arceus_steel",
+      "variant": "level_up",
+      "result": "arceus multitype=steel",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:steel_gem"
+        }
+      ]
+    }
+  ],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.6,
+        "levels": "42-59",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/ultra-rare_crystallized_desert.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.03,
+        "levels": "80",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:the_end",
+            "minecraft:end_barrens",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-arceus.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 0.03,
+        "levels": "80",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:dark_forest",
+            "#byg:is_magical",
+            "#wythers:is_dark_forest",
+            "byg:skyris_vale",
+            "terralith:amethyst_canyon",
+            "terralith:amethyst_rainforest",
+            "terralith:mirage_isles",
+            "terralith:moonlight_grove",
+            "terralith:moonlight_valley",
+            "wythers:lantern_river",
+            "wythers:mushroom_island",
+            "wythers:snowy_thermal_taiga",
+            "#cobblemon:is_end"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-arceus.json"
+      }
+    ]
+  ],
+  "implemented": true,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/arceus_psychic.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/arceus_psychic_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation4/arceus.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation4\\arceus.json"
+  ]
+}

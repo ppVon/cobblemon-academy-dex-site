@@ -1,0 +1,115 @@
+{
+  "id": "tinglu",
+  "dexnum": 1003,
+  "name": "Ting-Lu",
+  "primaryType": "dark",
+  "secondaryType": "ground",
+  "maleRatio": -1,
+  "labels": [
+    "gen9",
+    "legendary"
+  ],
+  "abilities": [
+    "vesselofruin"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 155,
+    "attack": 110,
+    "defence": 125,
+    "special_attack": 55,
+    "special_defence": 80,
+    "speed": 45
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 3,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 6,
+  "drops": {
+    "amount": 0,
+    "entries": []
+  },
+  "moves": [
+    "1:meanlook",
+    "1:sandtomb",
+    "1:spite",
+    "5:spikes",
+    "10:payback",
+    "15:stomp",
+    "20:bulldoze",
+    "25:whirlwind",
+    "30:taunt",
+    "35:thrash",
+    "40:darkpulse",
+    "45:stompingtantrum",
+    "50:ruination",
+    "55:throatchop",
+    "60:rockslide",
+    "65:memento",
+    "70:earthquake",
+    "75:fissure",
+    "tm:bodypress",
+    "tm:bodyslam",
+    "tm:bulldoze",
+    "tm:darkpulse",
+    "tm:dig",
+    "tm:doubleedge",
+    "tm:earthpower",
+    "tm:earthquake",
+    "tm:endure",
+    "tm:facade",
+    "tm:gigaimpact",
+    "tm:heavyslam",
+    "tm:hex",
+    "tm:hyperbeam",
+    "tm:lashout",
+    "tm:mudshot",
+    "tm:mudslap",
+    "tm:protect",
+    "tm:rest",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:sandstorm",
+    "tm:sandtomb",
+    "tm:scaryface",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:spikes",
+    "tm:spite",
+    "tm:stealthrock",
+    "tm:stompingtantrum",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:throatchop",
+    "tm:zenheadbutt"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/ting_lu.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/ting_lu_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation9/tinglu.json",
+    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation9\\tinglu.json"
+  ]
+}

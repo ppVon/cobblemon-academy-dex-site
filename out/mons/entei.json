@@ -1,0 +1,220 @@
+{
+  "id": "entei",
+  "dexnum": 244,
+  "name": "Entei",
+  "primaryType": "fire",
+  "secondaryType": "",
+  "maleRatio": -1,
+  "labels": [
+    "gen2",
+    "legendary"
+  ],
+  "abilities": [
+    "pressure",
+    "h:innerfocus"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 115,
+    "attack": 115,
+    "defence": 85,
+    "special_attack": 90,
+    "special_defence": 75,
+    "speed": 100
+  },
+  "evYield": {
+    "hp": 1,
+    "attack": 2,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:charcoal_stick",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      },
+      {
+        "item": "cobblemon:sacred_ash",
+        "percentage": null,
+        "quantityRange": null,
+        "source": "species"
+      }
+    ]
+  },
+  "moves": [
+    "1:leer",
+    "1:ember",
+    "1:firespin",
+    "1:stomp",
+    "1:sacredfire",
+    "1:extremespeed",
+    "1:smokescreen",
+    "6:flamewheel",
+    "12:bite",
+    "18:calmmind",
+    "24:roar",
+    "30:firefang",
+    "36:scaryface",
+    "42:crunch",
+    "48:extrasensory",
+    "54:lavaplume",
+    "60:swagger",
+    "66:sunnyday",
+    "72:fireblast",
+    "78:eruption",
+    "tm:agility",
+    "tm:bodyslam",
+    "tm:bulldoze",
+    "tm:calmmind",
+    "tm:crunch",
+    "tm:cut",
+    "tm:dig",
+    "tm:doubleedge",
+    "tm:endure",
+    "tm:facade",
+    "tm:fireblast",
+    "tm:firefang",
+    "tm:firespin",
+    "tm:flamecharge",
+    "tm:flamethrower",
+    "tm:flareblitz",
+    "tm:flash",
+    "tm:gigaimpact",
+    "tm:headbutt",
+    "tm:heatwave",
+    "tm:helpinghand",
+    "tm:hyperbeam",
+    "tm:incinerate",
+    "tm:ironhead",
+    "tm:irontail",
+    "tm:laserfocus",
+    "tm:overheat",
+    "tm:protect",
+    "tm:quash",
+    "tm:raindance",
+    "tm:rest",
+    "tm:reversal",
+    "tm:roar",
+    "tm:rockclimb",
+    "tm:rocksmash",
+    "tm:sandstorm",
+    "tm:scaryface",
+    "tm:scorchingsands",
+    "tm:shadowball",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:solarbeam",
+    "tm:stompingtantrum",
+    "tm:stoneedge",
+    "tm:strength",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:swagger",
+    "tm:swift",
+    "tm:takedown",
+    "tm:terablast",
+    "tm:trailblaze",
+    "tm:weatherball",
+    "tm:willowisp",
+    "tutor:bulldoze",
+    "tutor:calmmind",
+    "tutor:firefang",
+    "tutor:flamethrower",
+    "tutor:gigaimpact",
+    "tutor:heatwave",
+    "tutor:helpinghand",
+    "tutor:hyperbeam",
+    "tutor:ironhead",
+    "tutor:irontail",
+    "tutor:laserfocus",
+    "tutor:rest",
+    "tutor:rocksmash",
+    "tutor:scorchingsands",
+    "tutor:shadowball",
+    "tutor:sleeptalk",
+    "tutor:snarl",
+    "tutor:stompingtantrum",
+    "tutor:stoneedge",
+    "tutor:swift"
+  ],
+  "forms": [],
+  "types": [],
+  "evolutions": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "clear_bell",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:nether_wastes",
+            "minecraft:savanna",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_forest"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-entei.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "keyItem": "clear_bell",
+        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_volcanic",
+            "#cobblemon:is_thermal",
+            "#cobblemon:is_badlands"
+          ],
+          "exclude": []
+        },
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-entei.json"
+      }
+    ]
+  ],
+  "implemented": false,
+  "images": {
+    "normal": [
+      "out/sprites/genomons/entei.png",
+      "out/sprites/cobblemon/entei.png"
+    ],
+    "shiny": [
+      "out/sprites/genomons/entei_shiny.png",
+      "out/sprites/cobblemon/entei_shiny.png"
+    ]
+  },
+  "speciesSources": [
+    "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation2/entei.json"
+  ]
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      (() => {
+        const KEY = "theme";
+        const pref = localStorage.getItem(KEY);
+        // default to dark if user hasn't chosen
+        const useDark = pref ? pref === "dark" : true;
+        if (useDark) document.documentElement.classList.add("dark");
+      })();
+    </script>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cobblemon Academy Mini-Dex</title>
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./theme.css" />
+  </head>
+  <body class="min-h-full bg-slate-50 text-slate-900">
+    <div id="app" class="mx-auto max-w-7xl p-4 md:p-8 space-y-6">
+      <header class="flex items-center justify-between">
+        <h1 class="text-2xl font-bold tracking-tight">Cobblemon Mini-Dex</h1>
+        <nav class="text-sm flex gap-4 text-indigo-700">
+          <a href="#/dex" class="hover:underline">Dex</a>
+          <a href="#/drops" class="hover:underline">Drops</a>
+        </nav>
+      </header>
+
+      <div v-if="loading" class="text-slate-600">
+        Loading data… Place this with <code>dex.json</code>,
+        <code>presets.json</code>, <code>biomes.json</code>,
+        <code>sprites.json</code>.
+      </div>
+      <div v-if="error" class="text-red-600">{{ error }}</div>
+
+      <component
+        v-if="!loading && !error"
+        :is="currentView"
+        :dex="dex"
+        :presets="presets"
+        :biomes="biomes"
+        :sprites="sprites"
+        :dropsIndex="dropsIndex"
+        :drop-items="dropItems"
+        :route="route"
+      />
+    </div>
+
+    <!-- Main app as ES module -->
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
