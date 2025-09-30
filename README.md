@@ -1,7 +1,6 @@
 # Modpack Pokédex (Cobblemon)
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-My_Modpack-orange?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/cobblemon-academy)
-
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
 [![Static Site](https://img.shields.io/badge/site-static-green.svg)](#)
 [![Built with http-server](https://img.shields.io/badge/devserver-http--server-orange.svg)](https://www.npmjs.com/package/http-server)
