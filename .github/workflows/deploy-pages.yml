@@ -1,0 +1,24 @@
+name: Deploy Cloudflare Pages (current-deployed)
+
+on:
+    push:
+        branches: [current-deployed]
+    workflow_dispatch:
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: read
+
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Publish to Cloudflare Pages via Wrangler
+              uses: cloudflare/wrangler-action@v3
+              with:
+                  apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+                  accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+                  # --branch controls preview vs production based on your Pages "Production branch" setting
+                  command: pages deploy ./site --project-name ${{ secrets.CF_PAGES_PROJECT_NAME }} --branch current-deployed
