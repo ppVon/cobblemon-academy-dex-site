@@ -166,21 +166,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "uncommon",
-        "weight": 0.6,
-        "levels": "24-41",
+        "rarity": "rare",
+        "weight": 4.0,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:scarlet_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/uncommon_scarlet_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
       }
     ],
     [
@@ -195,16 +192,18 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cave",
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0839_coalossal.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0839_coalossal.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "minecraft:coal_ore"
+          ]
+        }
       }
     ],
     [
@@ -219,14 +218,11 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cave",
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0839_coalossal.json"
       }

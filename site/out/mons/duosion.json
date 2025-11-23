@@ -195,23 +195,40 @@
         "presets": [
           "natural"
         ],
+        "rarity": "uncommon",
+        "weight": 1.0,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/uncommon_starlight_permafrost_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
         "rarity": "rare",
         "weight": 1.0,
         "levels": "32-45",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_magical"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0578_duosion.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0578_duosion.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

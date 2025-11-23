@@ -121,20 +121,39 @@
           "natural"
         ],
         "rarity": "uncommon",
+        "weight": 0.6,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/uncommon_scarlet_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
         "weight": 11.0,
         "levels": "15-28",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:bamboo_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0918_spidops.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0918_spidops.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -148,13 +167,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:bamboo_jungle"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0918_spidops.json"
       }

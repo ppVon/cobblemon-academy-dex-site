@@ -193,37 +193,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_lush"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0698_amaura.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "rare",
-        "weight": 3.4,
-        "levels": "11-36",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "eternal_starlight:starlight_permafrost_forest"
-          ],
-          "exclude": []
-        },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0698_amaura.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ]
   ],

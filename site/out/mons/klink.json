@@ -147,8 +147,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -157,7 +155,21 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0599_klink.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0599_klink.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:redstone_ores",
+            "#c:redstone_ores"
+          ],
+          "resolved": [
+            "#c:redstone_ores",
+            "#minecraft:redstone_ores"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
@@ -172,13 +184,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0599_klink.json"
       }
@@ -194,15 +203,20 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0599_klink.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0599_klink.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "create:cogwheel",
+            "create:large_cogwheel",
+            "create:gearbox",
+            "create:vertical_gearbox"
+          ]
+        }
       }
     ],
     [
@@ -210,21 +224,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
-        "weight": 5.0,
-        "levels": "5-30",
+        "rarity": "uncommon",
+        "weight": 3.1,
+        "levels": "16-31",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:crystallized_desert"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/common_crystallized_desert.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/uncommon_crystallized_desert.json"
       }
     ]
   ],

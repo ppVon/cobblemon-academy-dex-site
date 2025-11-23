@@ -165,28 +165,25 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_river"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0119_seaking.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0119_seaking.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 1.0,
         "levels": "33-45",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#aether:is_aether",
@@ -199,10 +196,12 @@
             "#cobblemon:is_mountain",
             "#cobblemon:is_taiga",
             "#cobblemon:is_temperate"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0119_seaking.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0119_seaking.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -216,28 +215,27 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_river"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0119_seaking.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0119_seaking.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 1.0,
         "levels": "33-45",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#aether:is_aether",
@@ -250,10 +248,14 @@
             "#cobblemon:is_mountain",
             "#cobblemon:is_taiga",
             "#cobblemon:is_temperate"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0119_seaking.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0119_seaking.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -261,21 +263,18 @@
         "presets": [
           "water"
         ],
-        "rarity": "common",
-        "weight": 1.1,
-        "levels": "33-45",
+        "rarity": "uncommon",
+        "weight": 4.0,
+        "levels": "18-34",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#eternal_starlight:is_safari_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/common_is_safari_ocean.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/uncommon_is_safari_ocean.json"
       }
     ]
   ],

@@ -174,8 +174,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -184,7 +182,19 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0703_carbink.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0703_carbink.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:diamond_ores"
+          ],
+          "resolved": [
+            "#minecraft:diamond_ores"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
@@ -198,35 +208,47 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:nether/is_quartz"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0703_carbink.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 10.0,
         "levels": "25-50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "the_bumblezone:crystal_canyon"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0703_carbink.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 4.4,
+        "levels": "16-29",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/uncommon_crystallized_desert.json"
       }
     ],
     [
@@ -240,13 +262,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:torreya_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/torreya_forest/common_torreya_forest.json"
       }

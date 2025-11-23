@@ -151,17 +151,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -176,17 +175,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_tropical_island"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -201,37 +199,43 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_sky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 6.0,
         "levels": "16-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json",
+        "structures": [
+          "cobblemon:shipwreck_coves/lush_shipwreck_cove"
+        ],
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        },
+        "yLevel": {
+          "minY": -41,
+          "maxY": 9
+        }
       }
     ],
     [
@@ -246,16 +250,36 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "aether:skyroot_forest",
             "aether:skyroot_woodland"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0441_chatot.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 9.1,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
       }
     ]
   ],

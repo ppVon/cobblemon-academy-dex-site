@@ -171,21 +171,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "uncommon",
-        "weight": 1.6,
-        "levels": "31-52",
+        "rarity": "rare",
+        "weight": 2.4,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:scarlet_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/uncommon_scarlet_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/rare_scarlet_forest.json"
       }
     ],
     [
@@ -199,15 +196,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/arcanine_hisuian.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/arcanine_hisuian.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -221,15 +218,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_volcanic"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/arcanine_hisuian.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/arcanine_hisuian.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -243,13 +240,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_nether"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/arcanine_hisuian.json"
       }

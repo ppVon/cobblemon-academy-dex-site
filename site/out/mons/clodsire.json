@@ -176,15 +176,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:has_block/mud"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -198,15 +199,15 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:has_block/mud"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -220,15 +221,15 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_savanna"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -242,75 +243,81 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_savanna"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:water"
+          ],
+          "resolved": [
+            "#minecraft:water"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 1.0,
         "levels": "20-43",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:has_block/mud"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 1.6,
         "levels": "20-43",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_arid"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 1.0,
         "levels": "20-43",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_arid"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -324,15 +331,17 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:has_block/mud"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -346,75 +355,99 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_savanna"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 1.0,
         "levels": "20-43",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:has_block/mud"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 1.6,
         "levels": "20-43",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_arid"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 1.0,
         "levels": "20-43",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_arid"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0980_clodsire.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 9.3,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/rare_dark_swamp.json"
       }
     ]
   ],

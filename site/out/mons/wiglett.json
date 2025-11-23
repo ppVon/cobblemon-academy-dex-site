@@ -129,8 +129,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_beach"
@@ -139,7 +137,11 @@
             "#cobblemon:is_freezing"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0960_wiglett.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0960_wiglett.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -153,16 +155,16 @@
         "contexts": [
           "seafloor"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_lukewarm_ocean",
             "#cobblemon:is_warm_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0960_wiglett.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0960_wiglett.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

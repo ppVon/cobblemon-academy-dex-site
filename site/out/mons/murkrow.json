@@ -202,15 +202,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_spooky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0198_murkrow.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0198_murkrow.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -224,18 +225,17 @@
         "levels": "16-41",
         "contexts": [
           "grounded"
-        ],
-        "keyItem": "",
-        "times": [
-          "night"
         ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0198_murkrow.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0198_murkrow.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -250,17 +250,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "night"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_taiga"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0198_murkrow.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0198_murkrow.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -275,17 +274,35 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "night"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_sky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0198_murkrow.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0198_murkrow.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 2.7,
+        "levels": "4-19",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/common_is_starlight_forest.json"
       }
     ]
   ],

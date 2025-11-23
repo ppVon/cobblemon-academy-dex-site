@@ -209,13 +209,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:scarlet_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/ultra-rare_scarlet_forest.json"
       }
@@ -226,13 +223,11 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:the_end",
@@ -240,8 +235,7 @@
             "minecraft:end_highlands",
             "minecraft:end_midlands",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-hoopa.json"
       }

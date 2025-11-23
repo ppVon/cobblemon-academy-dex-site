@@ -110,13 +110,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:starlight_dense_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_dense_forest/ultra-rare_starlight_dense_forest.json"
       }
@@ -132,15 +129,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/brutebonnet.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/brutebonnet.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

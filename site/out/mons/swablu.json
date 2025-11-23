@@ -187,15 +187,37 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0333_swablu.json"
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0333_swablu.json",
+        "sky": {
+          "canSeeSky": true
+        },
+        "yLevel": {
+          "minY": 150
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 1.4,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/uncommon_is_starlight_forest.json"
       }
     ],
     [
@@ -209,15 +231,18 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0333_swablu.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0333_swablu.json",
+        "sky": {
+          "canSeeSky": true
+        },
+        "yLevel": {
+          "minY": 100
+        }
       }
     ],
     [
@@ -232,15 +257,18 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0333_swablu.json"
+        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0333_swablu.json",
+        "sky": {
+          "canSeeSky": true
+        },
+        "yLevel": {
+          "minY": 150
+        }
       }
     ]
   ],

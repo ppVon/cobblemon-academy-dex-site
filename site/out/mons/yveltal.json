@@ -149,22 +149,20 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "cocoon_of_destruction",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:dark_forest",
             "minecraft:swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-yveltal.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-yveltal.json",
+        "keyItem": "myths_and_legends:cocoon_of_destruction"
       }
     ],
     [
@@ -172,22 +170,20 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "cocoon_of_destruction",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_spooky",
             "#cobblemon:is_tundra"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-yveltal.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-yveltal.json",
+        "keyItem": "myths_and_legends:cocoon_of_destruction"
       }
     ]
   ],

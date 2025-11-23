@@ -136,68 +136,87 @@
   "spawns": [
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.1,
+        "levels": "4-19",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/common_crystallized_desert.json"
+      }
+    ],
+    [
+      {
         "rarity": "uncommon",
         "weight": 7,
         "levels": "10-30",
         "contexts": [
           "grounded"
-        ],
-        "keyItem": "",
-        "times": [
-          "day"
         ],
         "biomeTags": {
           "include": [
             "minecraft:desert"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0694_helioptile.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0694_helioptile.json",
+        "sky": {
+          "canSeeSky": true
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 7,
         "levels": "10-30",
         "contexts": [
           "grounded"
-        ],
-        "keyItem": "",
-        "times": [
-          "day"
         ],
         "biomeTags": {
           "include": [
             "minecraft:savanna"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0694_helioptile.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0694_helioptile.json",
+        "sky": {
+          "canSeeSky": true
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 7,
         "levels": "10-30",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "minecraft:badlands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0694_helioptile.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0694_helioptile.json",
+        "sky": {
+          "canSeeSky": true
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ]
   ],

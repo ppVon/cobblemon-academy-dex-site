@@ -231,55 +231,56 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_beach"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0080_slowbro.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0080_slowbro.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 0.15,
         "levels": "37-49",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_beach"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0080_slowbro.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0080_slowbro.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 0.15,
         "levels": "37-49",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_beach"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0080_slowbro.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0080_slowbro.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ]
   ],

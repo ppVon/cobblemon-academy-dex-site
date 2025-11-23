@@ -216,16 +216,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_hills",
             "#cobblemon:is_temperate"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0660_diggersby.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0660_diggersby.json",
+        "yLevel": {
+          "minY": 32
+        }
       }
     ],
     [
@@ -239,15 +239,31 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:starlight_dense_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_dense_forest/common_starlight_dense_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 0.8,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/uncommon_starlight_permafrost_forest.json"
       }
     ]
   ],

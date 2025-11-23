@@ -146,16 +146,13 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#aether:is_aether",
             "#cobblemon:is_jungle",
             "#cobblemon:is_magical",
             "#cobblemon:is_mushroom"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0756_shiinotic.json"
       }
@@ -171,15 +168,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_lush"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0756_shiinotic.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0756_shiinotic.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
@@ -193,13 +191,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:nether/is_fungus"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0756_shiinotic.json"
       }
@@ -215,8 +210,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -225,7 +218,37 @@
             "#cobblemon:is_lush"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0756_shiinotic.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0756_shiinotic.json",
+        "structures": [
+          "cobblemon:shipwreck_coves/lush_shipwreck_cove"
+        ],
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        },
+        "yLevel": {
+          "minY": -41,
+          "maxY": 9
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 9.6,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/rare_is_starlight_forest.json"
       }
     ],
     [
@@ -239,13 +262,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:torreya_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/torreya_forest/common_torreya_forest.json"
       }

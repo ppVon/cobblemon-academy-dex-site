@@ -186,15 +186,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0357_tropius.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0357_tropius.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -208,15 +209,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#aether:is_aether"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0357_tropius.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0357_tropius.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -224,21 +226,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "uncommon",
-        "weight": 3.1,
-        "levels": "24-41",
+        "rarity": "rare",
+        "weight": 7.0,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#eternal_starlight:is_starlight_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:scarlet_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/uncommon_is_starlight_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/rare_scarlet_forest.json"
       }
     ]
   ],

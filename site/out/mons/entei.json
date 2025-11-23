@@ -156,14 +156,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "clear_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:badlands",
@@ -172,10 +170,10 @@
             "minecraft:savanna",
             "minecraft:windswept_hills",
             "minecraft:windswept_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-entei.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-entei.json",
+        "keyItem": "myths_and_legends:clear_bell_entei"
       }
     ],
     [
@@ -183,23 +181,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "clear_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_volcanic",
             "#cobblemon:is_thermal",
             "#cobblemon:is_badlands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-entei.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-entei.json",
+        "keyItem": "myths_and_legends:clear_bell_entei"
       }
     ]
   ],

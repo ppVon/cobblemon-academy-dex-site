@@ -210,15 +210,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_grassland"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0108_lickitung.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0108_lickitung.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -227,20 +228,17 @@
           "natural"
         ],
         "rarity": "uncommon",
-        "weight": 3.3,
-        "levels": "14-38",
+        "weight": 1.1,
+        "levels": "18-34",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#eternal_starlight:is_safari_surface"
-          ],
-          "exclude": []
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/uncommon_is_starlight_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/uncommon_starlight_permafrost_forest.json"
       }
     ]
   ],

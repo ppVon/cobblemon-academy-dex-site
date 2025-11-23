@@ -220,24 +220,22 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "45-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "red_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_volcanic",
             "minecraft:badlands",
             "minecraft:desert",
             "minecraft:eroded_badlands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-groudon.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-groudon.json",
+        "keyItem": "myths_and_legends:red_orb"
       }
     ],
     [
@@ -245,24 +243,22 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "45-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "red_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_volcanic",
             "#cobblemon:is_desert",
             "#cobblemon:is_arid",
             "#cobblemon:is_thermal"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-groudon.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-groudon.json",
+        "keyItem": "myths_and_legends:red_orb"
       }
     ]
   ],

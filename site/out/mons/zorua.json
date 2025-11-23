@@ -193,10 +193,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "night"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest"
@@ -205,7 +201,11 @@
             "#cobblemon:is_freezing"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0570_zorua.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0570_zorua.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -213,21 +213,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "uncommon",
-        "weight": 6.6,
-        "levels": "8-33",
+        "rarity": "rare",
+        "weight": 7.6,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:dark_swamp"
-          ],
-          "exclude": []
+            "#eternal_starlight:is_starlight_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/uncommon_dark_swamp.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/rare_is_starlight_forest.json"
       }
     ]
   ],

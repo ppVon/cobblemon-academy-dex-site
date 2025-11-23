@@ -201,8 +201,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -211,7 +209,11 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0095_onix.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0095_onix.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
@@ -225,13 +227,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:nether/is_basalt"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0095_onix.json"
       }
@@ -247,8 +246,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld",
@@ -258,7 +255,11 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0095_onix.json"
+        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0095_onix.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
@@ -272,15 +273,31 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:nether/is_basalt"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0095_onix.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 1.7,
+        "levels": "21-44",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/uncommon_crystallized_desert.json"
       }
     ]
   ],

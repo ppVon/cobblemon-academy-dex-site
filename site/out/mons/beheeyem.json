@@ -213,13 +213,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_end"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0606_beheeyem.json"
       }
@@ -235,37 +232,56 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "night"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0606_beheeyem.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0606_beheeyem.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "minecraft:wheat"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 0.6,
         "levels": "42-49",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "the_bumblezone:howling_constructs"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0606_beheeyem.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 2.7,
+        "levels": "19-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/uncommon_crystallized_desert.json"
       }
     ]
   ],

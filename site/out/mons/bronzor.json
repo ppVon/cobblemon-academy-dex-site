@@ -204,21 +204,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "rare",
-        "weight": 8.2,
-        "levels": "20-30",
+        "rarity": "common",
+        "weight": 4.3,
+        "levels": "5-22",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:starlight_permafrost_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:crystallized_desert"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/common_crystallized_desert.json"
       }
     ],
     [
@@ -232,15 +229,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_spooky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bronzor.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bronzor.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -254,15 +251,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cave"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bronzor.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bronzor.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
@@ -276,15 +273,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "night"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bronzor.json"
       }

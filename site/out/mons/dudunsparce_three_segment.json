@@ -219,13 +219,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0982_dudunsparce.json"
       }
@@ -241,8 +238,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld",
@@ -253,7 +248,11 @@
             "#cobblemon:is_mountain"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0982_dudunsparce.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0982_dudunsparce.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ]
   ],

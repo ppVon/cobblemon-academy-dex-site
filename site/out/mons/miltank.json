@@ -202,15 +202,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_grassland"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0241_miltank.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0241_miltank.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -220,19 +221,16 @@
         ],
         "rarity": "uncommon",
         "weight": 2.3,
-        "levels": "24-49",
+        "levels": "18-34",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#eternal_starlight:is_starlight_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:scarlet_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/common_is_starlight_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/uncommon_scarlet_forest.json"
       }
     ]
   ],

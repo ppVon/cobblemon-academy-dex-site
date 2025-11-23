@@ -190,8 +190,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain"
@@ -200,7 +198,15 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0304_aron.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0304_aron.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:iron_ores"
+          ],
+          "resolved": [
+            "#minecraft:iron_ores"
+          ]
+        }
       }
     ],
     [
@@ -214,8 +220,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -224,7 +228,38 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0304_aron.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0304_aron.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:iron_ores"
+          ],
+          "resolved": [
+            "#minecraft:iron_ores"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 7.3,
+        "levels": "11-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/ultra-rare_crystallized_desert.json"
       }
     ]
   ],

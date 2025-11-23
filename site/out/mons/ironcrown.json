@@ -121,20 +121,16 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "ultra-rare",
         "weight": 1.0,
         "levels": "60-88",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:lush_caves"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/ironcrown.json"
       }

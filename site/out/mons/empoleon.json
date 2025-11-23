@@ -237,15 +237,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_frozen_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -259,28 +260,25 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_frozen_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "ultra-rare",
         "weight": 0.4,
         "levels": "36-53",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cold_ocean",
@@ -288,10 +286,12 @@
             "#minecraft:frozen_river",
             "#cobblemon:is_glacial",
             "#cobblemon:is_tundra"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -305,28 +305,27 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_frozen_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "ultra-rare",
         "weight": 0.4,
         "levels": "36-53",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cold_ocean",
@@ -334,32 +333,14 @@
             "#minecraft:frozen_river",
             "#cobblemon:is_glacial",
             "#cobblemon:is_tundra"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "rare",
-        "weight": 0.31,
-        "levels": "36-51",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "eternal_starlight:starlight_permafrost_forest"
-          ],
-          "exclude": []
-        },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0395_empoleon.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ]
   ],

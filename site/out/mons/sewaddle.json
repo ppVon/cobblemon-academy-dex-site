@@ -168,15 +168,30 @@
         "presets": [
           "natural"
         ],
+        "rarity": "common",
+        "weight": 2.2,
+        "levels": "4-18",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/common_scarlet_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
         "rarity": "uncommon",
         "weight": 9.0,
         "levels": "5-30",
         "contexts": [
           "grounded"
-        ],
-        "keyItem": "",
-        "times": [
-          "day"
         ],
         "biomeTags": {
           "include": [
@@ -186,7 +201,10 @@
             "#cobblemon:is_spooky"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0540_sewaddle.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0540_sewaddle.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

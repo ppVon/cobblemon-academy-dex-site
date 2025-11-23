@@ -579,7 +579,7 @@
         "out/sprites/cobblemon/bellibolt_shiny.png"
       ]
     },
-    "bisharp_override": {
+    "bisharp": {
       "normal": [
         "out/sprites/cobblemon/bisharp.png"
       ],
@@ -789,7 +789,7 @@
         "out/sprites/cobblemon/froslass_shiny.png"
       ]
     },
-    "pink_furfrou": {
+    "purple_furfrou": {
       "normal": [
         "out/sprites/cobblemon/furfrou.png"
       ],
@@ -797,7 +797,7 @@
         "out/sprites/cobblemon/furfrou_shiny.png"
       ]
     },
-    "cyan_furfrou_dandy": {
+    "yellow_furfrou_dandy": {
       "normal": [
         "out/sprites/cobblemon/furfrou_dandy.png"
       ],
@@ -805,7 +805,7 @@
         "out/sprites/cobblemon/furfrou_dandy_shiny.png"
       ]
     },
-    "red_furfrou_debutante": {
+    "pink_furfrou_debutante": {
       "normal": [
         "out/sprites/cobblemon/furfrou_debutante.png"
       ],
@@ -821,7 +821,7 @@
         "out/sprites/cobblemon/furfrou_diamond_shiny.png"
       ]
     },
-    "red_furfrou_heart": {
+    "pink_furfrou_heart": {
       "normal": [
         "out/sprites/cobblemon/furfrou_heart.png"
       ],
@@ -829,7 +829,7 @@
         "out/sprites/cobblemon/furfrou_heart_shiny.png"
       ]
     },
-    "pink_furfrou_kabuki": {
+    "red_furfrou_kabuki": {
       "normal": [
         "out/sprites/cobblemon/furfrou_kabuki.png"
       ],
@@ -837,7 +837,7 @@
         "out/sprites/cobblemon/furfrou_kabuki_shiny.png"
       ]
     },
-    "limegreen_furfrou_la_reine": {
+    "orange_furfrou_la_reine": {
       "normal": [
         "out/sprites/cobblemon/furfrou_la_reine.png"
       ],
@@ -845,7 +845,7 @@
         "out/sprites/cobblemon/furfrou_la_reine_shiny.png"
       ]
     },
-    "furfrou_matron": {
+    "pink_furfrou_matron": {
       "normal": [
         "out/sprites/cobblemon/furfrou_matron.png"
       ],
@@ -853,7 +853,7 @@
         "out/sprites/cobblemon/furfrou_matron_shiny.png"
       ]
     },
-    "limegreen_furfrou_pharaoh": {
+    "blue_furfrou_pharaoh": {
       "normal": [
         "out/sprites/cobblemon/furfrou_pharaoh.png"
       ],
@@ -861,7 +861,7 @@
         "out/sprites/cobblemon/furfrou_pharaoh_shiny.png"
       ]
     },
-    "blue_furfrou_star": {
+    "orange_furfrou_star": {
       "normal": [
         "out/sprites/cobblemon/furfrou_star.png"
       ],
@@ -1413,7 +1413,7 @@
         "out/sprites/cobblemon/palpitoad_shiny.png"
       ]
     },
-    "pawniard": {
+    "pawniard_override": {
       "normal": [
         "out/sprites/cobblemon/pawniard.png"
       ],
@@ -1587,7 +1587,7 @@
         "out/sprites/cobblemon/shaymin_shiny.png"
       ]
     },
-    "shayminsky": {
+    "shaymin_sky": {
       "normal": [
         "out/sprites/cobblemon/shaymin_sky.png"
       ],

@@ -160,21 +160,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "uncommon",
-        "weight": 1.3,
-        "levels": "24-39",
+        "rarity": "rare",
+        "weight": 1.2,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#eternal_starlight:is_starlight_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:scarlet_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/uncommon_is_starlight_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/rare_scarlet_forest.json"
       }
     ]
   ],

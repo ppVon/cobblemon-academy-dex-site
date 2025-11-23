@@ -169,7 +169,27 @@
   "forms": [],
   "types": [],
   "evolutions": [],
-  "spawns": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 6.8,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
+      }
+    ]
+  ],
   "implemented": false,
   "images": {
     "normal": [

@@ -157,23 +157,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "clear_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:plains",
             "minecraft:savanna",
             "minecraft:savanna_plateau"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-raikou.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-raikou.json",
+        "keyItem": "myths_and_legends:clear_bell_raikou"
       }
     ],
     [
@@ -181,23 +179,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "clear_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plains",
             "#cobblemon:is_grassland",
             "#cobblemon:is_arid"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-raikou.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-raikou.json",
+        "keyItem": "myths_and_legends:clear_bell_raikou"
       }
     ]
   ],

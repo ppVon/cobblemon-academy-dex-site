@@ -150,24 +150,43 @@
         "presets": [
           "natural"
         ],
+        "rarity": "uncommon",
+        "weight": 3.2,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/uncommon_starlight_permafrost_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
         "rarity": "rare",
         "weight": 5.5,
         "levels": "36-40",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_tundra",
             "minecraft:snowy_plains",
             "#cobblemon:is_snowy_forest",
             "minecraft:ice_spikes"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/vanillish.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/vanillish.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

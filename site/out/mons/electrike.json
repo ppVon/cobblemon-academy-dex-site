@@ -167,15 +167,31 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plains"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0309_electrike.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 2.1,
+        "levels": "6-23",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/common_crystallized_desert.json"
       }
     ],
     [
@@ -189,13 +205,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plains"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0309_electrike.json"
       }

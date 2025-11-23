@@ -174,18 +174,37 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:frozen_peaks",
             "minecraft:ice_spikes",
             "#cobblemon:is_freezing",
             "#cobblemon:is_cold"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0555_darmanitan_galarian.json"
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0555_darmanitan_galarian.json",
+        "sky": {
+          "canSeeSky": true
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 6.5,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
       }
     ],
     [
@@ -199,15 +218,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:frozen_peaks"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0555_darmanitan.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0555_darmanitan.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

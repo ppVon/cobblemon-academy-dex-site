@@ -167,24 +167,22 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "68-72",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "scarlet_book",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:badlands",
             "minecraft:eroded_badlands",
             "minecraft:savanna",
             "minecraft:savanna_plateau"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-koraidon.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-koraidon.json",
+        "keyItem": "myths_and_legends:scarlet_book"
       }
     ],
     [
@@ -192,23 +190,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "68-.72",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "scarlet_book",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_savanna",
             "#cobblemon:is_plateau",
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-koraidon.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-koraidon.json",
+        "keyItem": "myths_and_legends:scarlet_book"
       }
     ]
   ],

@@ -256,23 +256,21 @@
           "freshwater",
           "underwater"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40-70",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "tidal_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_deep_ocean",
             "minecraft:deep_ocean",
             "minecraft:ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json",
+        "keyItem": "myths_and_legends:tidal_bell"
       }
     ],
     [
@@ -281,23 +279,21 @@
           "freshwater",
           "underwater"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40-70",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "tidal_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_deep_ocean",
             "#cobblemon:is_ocean",
             "#cobblemon:is_cold_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json",
+        "keyItem": "myths_and_legends:tidal_bell"
       }
     ],
     [
@@ -306,23 +302,21 @@
           "freshwater",
           "underwater"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40-70",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "silver_wing",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_deep_ocean",
             "minecraft:deep_ocean",
             "minecraft:ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json",
+        "keyItem": "myths_and_legends:silver_wing"
       }
     ],
     [
@@ -331,23 +325,21 @@
           "freshwater",
           "underwater"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40-70",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "silver_wing",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_deep_ocean",
             "#cobblemon:is_ocean",
             "#cobblemon:is_cold_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-lugia.json",
+        "keyItem": "myths_and_legends:silver_wing"
       }
     ]
   ],

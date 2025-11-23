@@ -13097,12 +13097,6 @@
       "item": "minecraft:diamond_sword",
       "mons": [
         {
-          "id": "zacian",
-          "name": "Zacian",
-          "percentage": null,
-          "quantityRange": null
-        },
-        {
           "id": "zacian_crowned",
           "name": "Zacian Crowned",
           "percentage": null,

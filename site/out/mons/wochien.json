@@ -101,7 +101,29 @@
   "forms": [],
   "types": [],
   "evolutions": [],
-  "spawns": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "summons",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "minecraft:old_growth_spruce_taiga",
+            "regions_unexplored:redwoods"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/legendaries/wochien.json",
+        "keyItem": "academy:tablets_of_ruin"
+      }
+    ]
+  ],
   "implemented": false,
   "images": {
     "normal": [

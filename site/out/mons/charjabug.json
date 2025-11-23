@@ -116,64 +116,59 @@
           "natural"
         ],
         "rarity": "uncommon",
-        "weight": 6.1,
-        "levels": "13-31",
+        "weight": 2.8,
+        "levels": "19-32",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:dark_swamp"
-          ],
-          "exclude": []
+            "eternal_starlight:crystallized_desert"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/uncommon_dark_swamp.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/uncommon_crystallized_desert.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 4,
         "levels": "13-31",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_badlands",
             "#cobblemon:is_jungle",
             "#minecraft:is_taiga"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/charjabug.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/charjabug.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 4,
         "levels": "13-31",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_badlands",
             "#cobblemon:is_jungle",
             "#minecraft:is_taiga"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/vikavolt.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/vikavolt.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

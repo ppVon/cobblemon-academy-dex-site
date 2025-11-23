@@ -139,7 +139,27 @@
       ]
     }
   ],
-  "spawns": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 1.9,
+        "levels": "4-19",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/common_dark_swamp.json"
+      }
+    ]
+  ],
   "implemented": false,
   "images": {
     "normal": [

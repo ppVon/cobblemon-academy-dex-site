@@ -556,13 +556,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:starlight_dense_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_dense_forest/ultra-rare_starlight_dense_forest.json"
       }
@@ -573,20 +570,17 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "30-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_jungle",
             "minecraft:bamboo_jungle",
             "minecraft:jungle"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-mew.json"
       }
@@ -597,20 +591,17 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "30-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_jungle",
             "#cobblemon:is_lush",
             "#cobblemon:is_bamboo"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-mew.json"
       }

@@ -153,19 +153,18 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_jungle",
             "#cobblemon:is_savanna",
             "#cobblemon:is_tropical_island"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0931_squawkabilly.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0931_squawkabilly.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -181,10 +180,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -194,7 +189,14 @@
             "#cobblemon:is_sandy"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0931_squawkabilly.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0931_squawkabilly.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ],
     [
@@ -209,10 +211,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -222,7 +220,17 @@
             "#cobblemon:is_sandy"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0931_squawkabilly.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0931_squawkabilly.json",
+        "structures": [
+          "#minecraft:village"
+        ],
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ],
     [
@@ -237,17 +245,35 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_sky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0931_squawkabilly.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0931_squawkabilly.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 1.6,
+        "levels": "18-31",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/uncommon_crystallized_desert.json"
       }
     ]
   ],

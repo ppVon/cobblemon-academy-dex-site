@@ -182,13 +182,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:crystallized_desert"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/ultra-rare_crystallized_desert.json"
       }
@@ -199,20 +196,20 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cave"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-diancie.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-diancie.json",
+        "yLevel": {
+          "maxY": -61
+        }
       }
     ],
     [
@@ -221,13 +218,11 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:dripstone_caves",
@@ -243,10 +238,12 @@
             "terralith:cave/infested_caves",
             "terralith:cave/thermal_caves",
             "terralith:cave/underground_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-diancie.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-diancie.json",
+        "yLevel": {
+          "maxY": -61
+        }
       }
     ]
   ],

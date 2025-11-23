@@ -202,21 +202,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
-        "weight": 2.4,
-        "levels": "5-30",
+        "rarity": "uncommon",
+        "weight": 3.2,
+        "levels": "18-34",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:starlight_permafrost_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/common_starlight_permafrost_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/uncommon_starlight_permafrost_forest.json"
       }
     ],
     [
@@ -230,13 +227,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_glacial"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/sandshrew.json"
       }

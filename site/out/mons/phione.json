@@ -141,20 +141,17 @@
           "water"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.6,
+        "weight": 0.3,
         "levels": "24-41",
         "contexts": [
           "surface"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:starlit_sea"
-          ],
-          "exclude": []
+            "#eternal_starlight:is_safari_ocean"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlit_sea/ultra-rare_starlit_sea.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/ultra-rare_is_safari_ocean.json"
       }
     ]
   ],

@@ -166,15 +166,49 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0100_voltorb.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0100_voltorb.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#cobblemon:apricorns"
+          ],
+          "resolved": [
+            "cobblemon:black_apricorn",
+            "cobblemon:blue_apricorn",
+            "cobblemon:green_apricorn",
+            "cobblemon:pink_apricorn",
+            "cobblemon:red_apricorn",
+            "cobblemon:white_apricorn",
+            "cobblemon:yellow_apricorn"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.2,
+        "levels": "4-18",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/common_scarlet_forest.json"
       }
     ]
   ],

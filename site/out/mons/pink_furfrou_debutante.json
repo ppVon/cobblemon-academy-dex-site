@@ -140,10 +140,10 @@
   "implemented": false,
   "images": {
     "normal": [
-      "out/sprites/cobblemon/furfrou.png"
+      "out/sprites/cobblemon/furfrou_debutante.png"
     ],
     "shiny": [
-      "out/sprites/cobblemon/furfrou_shiny.png"
+      "out/sprites/cobblemon/furfrou_debutante_shiny.png"
     ]
   },
   "speciesSources": []

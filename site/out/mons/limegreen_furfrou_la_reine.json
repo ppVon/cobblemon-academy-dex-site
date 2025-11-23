@@ -138,13 +138,6 @@
   "evolutions": [],
   "spawns": [],
   "implemented": false,
-  "images": {
-    "normal": [
-      "out/sprites/cobblemon/furfrou_la_reine.png"
-    ],
-    "shiny": [
-      "out/sprites/cobblemon/furfrou_la_reine_shiny.png"
-    ]
-  },
+  "images": {},
   "speciesSources": []
 }

@@ -138,13 +138,6 @@
   "evolutions": [],
   "spawns": [],
   "implemented": false,
-  "images": {
-    "normal": [
-      "out/sprites/cobblemon/furfrou_heart.png"
-    ],
-    "shiny": [
-      "out/sprites/cobblemon/furfrou_heart_shiny.png"
-    ]
-  },
+  "images": {},
   "speciesSources": []
 }

@@ -138,13 +138,6 @@
   "evolutions": [],
   "spawns": [],
   "implemented": false,
-  "images": {
-    "normal": [
-      "out/sprites/cobblemon/furfrou_debutante.png"
-    ],
-    "shiny": [
-      "out/sprites/cobblemon/furfrou_debutante_shiny.png"
-    ]
-  },
+  "images": {},
   "speciesSources": []
 }

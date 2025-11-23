@@ -197,8 +197,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -207,7 +205,10 @@
             "#minecraft:woodland_mansion"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/koffing.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/koffing.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

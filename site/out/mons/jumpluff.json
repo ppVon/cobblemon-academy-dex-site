@@ -152,24 +152,43 @@
   "spawns": [
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 9.6,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/rare_scarlet_forest.json"
+      }
+    ],
+    [
+      {
         "rarity": "common",
         "weight": 0.1,
         "levels": "27-46",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plains"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0189_jumpluff.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0189_jumpluff.json",
+        "sky": {
+          "canSeeSky": true
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ]
   ],

@@ -202,15 +202,20 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0074_geodude.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0074_geodude.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:iron_ores"
+          ],
+          "resolved": [
+            "#minecraft:iron_ores"
+          ]
+        }
       }
     ],
     [
@@ -224,15 +229,20 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0074_geodude.json"
+        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0074_geodude.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:iron_ores"
+          ],
+          "resolved": [
+            "#minecraft:iron_ores"
+          ]
+        }
       }
     ],
     [
@@ -241,18 +251,15 @@
           "natural"
         ],
         "rarity": "common",
-        "weight": 4.1,
-        "levels": "5-30",
+        "weight": 1.7,
+        "levels": "3-21",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:crystallized_desert"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/common_crystallized_desert.json"
       }

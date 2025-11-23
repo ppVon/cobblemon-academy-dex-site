@@ -188,23 +188,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "clear_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:meadow",
             "minecraft:sunflower_plains",
             "minecraft:flower_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-hooh.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-hooh.json",
+        "keyItem": "myths_and_legends:clear_bell"
       }
     ],
     [
@@ -212,23 +210,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "clear_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_sky",
             "minecraft:sunflower_plains",
             "#cobblemon:is_summer"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-hooh.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-hooh.json",
+        "keyItem": "myths_and_legends:clear_bell"
       }
     ],
     [
@@ -236,23 +232,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "rainbow_wing",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:meadow",
             "minecraft:sunflower_plains",
             "minecraft:flower_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-hooh.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-hooh.json",
+        "keyItem": "myths_and_legends:rainbow_wing"
       }
     ],
     [
@@ -260,23 +254,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "rainbow_wing",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_sky",
             "#minecraft:sunflower_plains",
             "#cobblemon:is_summer"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-hooh.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-hooh.json",
+        "keyItem": "myths_and_legends:rainbow_wing"
       }
     ]
   ],

@@ -508,13 +508,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:crystallized_desert"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/ultra-rare_crystallized_desert.json"
       }
@@ -525,13 +522,11 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "80",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:the_end",
@@ -539,8 +534,7 @@
             "minecraft:end_highlands",
             "minecraft:end_midlands",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-arceus.json"
       }
@@ -551,13 +545,11 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "80",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:dark_forest",
@@ -573,8 +565,7 @@
             "wythers:mushroom_island",
             "wythers:snowy_thermal_taiga",
             "#cobblemon:is_end"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-arceus.json"
       }

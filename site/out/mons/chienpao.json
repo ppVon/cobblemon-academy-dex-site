@@ -112,7 +112,28 @@
   "forms": [],
   "types": [],
   "evolutions": [],
-  "spawns": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "summons",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_freezing"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/legendaries/chienpao.json",
+        "keyItem": "academy:sword_of_ruin"
+      }
+    ]
+  ],
   "implemented": false,
   "images": {
     "normal": [

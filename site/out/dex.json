@@ -5,7 +5,7 @@
     "dexnum": 63,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "aerodactyl",
@@ -21,7 +21,7 @@
     "dexnum": 65,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "arbok",
@@ -29,7 +29,7 @@
     "dexnum": 24,
     "primaryType": "poison",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "arcanine",
@@ -53,7 +53,7 @@
     "dexnum": 15,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "bellsprout",
@@ -85,7 +85,7 @@
     "dexnum": 12,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "caterpie",
@@ -93,7 +93,7 @@
     "dexnum": 10,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "chansey",
@@ -133,7 +133,7 @@
     "dexnum": 36,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "clefairy",
@@ -141,7 +141,7 @@
     "dexnum": 35,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "cloyster",
@@ -149,7 +149,7 @@
     "dexnum": 91,
     "primaryType": "water",
     "secondaryType": "ice",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "cubone",
@@ -157,7 +157,7 @@
     "dexnum": 104,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "dewgong",
@@ -165,7 +165,7 @@
     "dexnum": 87,
     "primaryType": "water",
     "secondaryType": "ice",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "diglett",
@@ -173,7 +173,7 @@
     "dexnum": 50,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "ditto",
@@ -189,7 +189,7 @@
     "dexnum": 85,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "doduo",
@@ -197,7 +197,7 @@
     "dexnum": 84,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "dragonair",
@@ -213,7 +213,7 @@
     "dexnum": 149,
     "primaryType": "dragon",
     "secondaryType": "flying",
-    "spawnCount": 7
+    "spawnCount": 8
   },
   {
     "id": "dratini",
@@ -221,7 +221,7 @@
     "dexnum": 147,
     "primaryType": "dragon",
     "secondaryType": "",
-    "spawnCount": 8
+    "spawnCount": 7
   },
   {
     "id": "drowzee",
@@ -229,7 +229,7 @@
     "dexnum": 96,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "dugtrio",
@@ -237,7 +237,7 @@
     "dexnum": 51,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "eevee",
@@ -253,7 +253,7 @@
     "dexnum": 23,
     "primaryType": "poison",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "electabuzz",
@@ -261,7 +261,7 @@
     "dexnum": 125,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "electrode",
@@ -277,7 +277,7 @@
     "dexnum": 102,
     "primaryType": "grass",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "exeggutor",
@@ -285,7 +285,7 @@
     "dexnum": 103,
     "primaryType": "grass",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "farfetchd",
@@ -293,7 +293,7 @@
     "dexnum": 83,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 1
   },
   {
     "id": "fearow",
@@ -301,7 +301,7 @@
     "dexnum": 22,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "flareon",
@@ -317,7 +317,7 @@
     "dexnum": 92,
     "primaryType": "ghost",
     "secondaryType": "poison",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "gengar",
@@ -325,7 +325,7 @@
     "dexnum": 94,
     "primaryType": "ghost",
     "secondaryType": "poison",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "geodude",
@@ -333,7 +333,7 @@
     "dexnum": 74,
     "primaryType": "rock",
     "secondaryType": "ground",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "gloom",
@@ -341,7 +341,7 @@
     "dexnum": 44,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "golbat",
@@ -349,7 +349,7 @@
     "dexnum": 42,
     "primaryType": "poison",
     "secondaryType": "flying",
-    "spawnCount": 14
+    "spawnCount": 15
   },
   {
     "id": "goldeen",
@@ -365,7 +365,7 @@
     "dexnum": 55,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "golem",
@@ -373,7 +373,7 @@
     "dexnum": 76,
     "primaryType": "rock",
     "secondaryType": "ground",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "graveler",
@@ -381,7 +381,7 @@
     "dexnum": 75,
     "primaryType": "rock",
     "secondaryType": "ground",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "grimer",
@@ -405,7 +405,7 @@
     "dexnum": 130,
     "primaryType": "water",
     "secondaryType": "flying",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "haunter",
@@ -413,7 +413,7 @@
     "dexnum": 93,
     "primaryType": "ghost",
     "secondaryType": "poison",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "hitmonchan",
@@ -421,7 +421,7 @@
     "dexnum": 107,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "hitmonlee",
@@ -429,7 +429,7 @@
     "dexnum": 106,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "horsea",
@@ -445,7 +445,7 @@
     "dexnum": 97,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "ivysaur",
@@ -461,7 +461,7 @@
     "dexnum": 39,
     "primaryType": "normal",
     "secondaryType": "fairy",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "jolteon",
@@ -469,7 +469,7 @@
     "dexnum": 135,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "jynx",
@@ -477,7 +477,7 @@
     "dexnum": 124,
     "primaryType": "ice",
     "secondaryType": "psychic",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "kabuto",
@@ -501,7 +501,7 @@
     "dexnum": 64,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "kakuna",
@@ -509,7 +509,7 @@
     "dexnum": 14,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "kangaskhan",
@@ -565,7 +565,7 @@
     "dexnum": 68,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "machoke",
@@ -573,7 +573,7 @@
     "dexnum": 67,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "machop",
@@ -581,7 +581,7 @@
     "dexnum": 66,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "magikarp",
@@ -597,7 +597,7 @@
     "dexnum": 126,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "magnemite",
@@ -605,7 +605,7 @@
     "dexnum": 81,
     "primaryType": "electric",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "magneton",
@@ -613,7 +613,7 @@
     "dexnum": 82,
     "primaryType": "electric",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "mankey",
@@ -621,7 +621,7 @@
     "dexnum": 56,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "marowak",
@@ -629,7 +629,7 @@
     "dexnum": 105,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "meowth",
@@ -645,7 +645,7 @@
     "dexnum": 11,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "mew",
@@ -677,7 +677,7 @@
     "dexnum": 122,
     "primaryType": "psychic",
     "secondaryType": "fairy",
-    "spawnCount": 7
+    "spawnCount": 8
   },
   {
     "id": "muk",
@@ -693,7 +693,7 @@
     "dexnum": 34,
     "primaryType": "poison",
     "secondaryType": "ground",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "nidoqueen",
@@ -701,7 +701,7 @@
     "dexnum": 31,
     "primaryType": "poison",
     "secondaryType": "ground",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "nidoranf",
@@ -725,7 +725,7 @@
     "dexnum": 30,
     "primaryType": "poison",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "nidorino",
@@ -733,7 +733,7 @@
     "dexnum": 33,
     "primaryType": "poison",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "ninetales",
@@ -741,7 +741,7 @@
     "dexnum": 38,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "oddish",
@@ -773,7 +773,7 @@
     "dexnum": 95,
     "primaryType": "rock",
     "secondaryType": "ground",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "paras",
@@ -781,7 +781,7 @@
     "dexnum": 46,
     "primaryType": "bug",
     "secondaryType": "grass",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "parasect",
@@ -789,7 +789,7 @@
     "dexnum": 47,
     "primaryType": "bug",
     "secondaryType": "grass",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "persian",
@@ -797,7 +797,7 @@
     "dexnum": 53,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "pidgeot",
@@ -805,7 +805,7 @@
     "dexnum": 18,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pidgeotto",
@@ -813,7 +813,7 @@
     "dexnum": 17,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pidgey",
@@ -837,7 +837,7 @@
     "dexnum": 127,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "poliwag",
@@ -845,7 +845,7 @@
     "dexnum": 60,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 14
+    "spawnCount": 15
   },
   {
     "id": "poliwhirl",
@@ -853,7 +853,7 @@
     "dexnum": 61,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 14
+    "spawnCount": 15
   },
   {
     "id": "poliwrath",
@@ -861,7 +861,7 @@
     "dexnum": 62,
     "primaryType": "water",
     "secondaryType": "fighting",
-    "spawnCount": 14
+    "spawnCount": 15
   },
   {
     "id": "ponyta",
@@ -869,7 +869,7 @@
     "dexnum": 77,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "porygon",
@@ -885,7 +885,7 @@
     "dexnum": 57,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "psyduck",
@@ -893,7 +893,7 @@
     "dexnum": 54,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "raichu",
@@ -901,7 +901,7 @@
     "dexnum": 26,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "rapidash",
@@ -909,7 +909,7 @@
     "dexnum": 78,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "raticate",
@@ -933,7 +933,7 @@
     "dexnum": 112,
     "primaryType": "ground",
     "secondaryType": "rock",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "rhyhorn",
@@ -941,7 +941,7 @@
     "dexnum": 111,
     "primaryType": "ground",
     "secondaryType": "rock",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sandshrew",
@@ -949,7 +949,7 @@
     "dexnum": 27,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "sandslash",
@@ -957,7 +957,7 @@
     "dexnum": 28,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "scyther",
@@ -965,7 +965,7 @@
     "dexnum": 123,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "seadra",
@@ -989,7 +989,7 @@
     "dexnum": 86,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "shellder",
@@ -1021,7 +1021,7 @@
     "dexnum": 143,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "spearow",
@@ -1061,7 +1061,7 @@
     "dexnum": 114,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "tauros",
@@ -1069,7 +1069,7 @@
     "dexnum": 128,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 2
   },
   {
     "id": "tentacool",
@@ -1077,7 +1077,7 @@
     "dexnum": 72,
     "primaryType": "water",
     "secondaryType": "poison",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "tentacruel",
@@ -1085,7 +1085,7 @@
     "dexnum": 73,
     "primaryType": "water",
     "secondaryType": "poison",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "vaporeon",
@@ -1101,7 +1101,7 @@
     "dexnum": 49,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "venonat",
@@ -1109,7 +1109,7 @@
     "dexnum": 48,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "venusaur",
@@ -1125,7 +1125,7 @@
     "dexnum": 71,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "vileplume",
@@ -1133,7 +1133,7 @@
     "dexnum": 45,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "voltorb",
@@ -1141,7 +1141,7 @@
     "dexnum": 100,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "vulpix",
@@ -1149,7 +1149,7 @@
     "dexnum": 37,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "wartortle",
@@ -1165,7 +1165,7 @@
     "dexnum": 13,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "weepinbell",
@@ -1173,7 +1173,7 @@
     "dexnum": 70,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "weezing",
@@ -1189,7 +1189,7 @@
     "dexnum": 40,
     "primaryType": "normal",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "zapdos",
@@ -1205,7 +1205,7 @@
     "dexnum": 41,
     "primaryType": "poison",
     "secondaryType": "flying",
-    "spawnCount": 14
+    "spawnCount": 15
   },
   {
     "id": "aipom",
@@ -1221,7 +1221,7 @@
     "dexnum": 181,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "ariados",
@@ -1229,7 +1229,7 @@
     "dexnum": 168,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "azumarill",
@@ -1237,7 +1237,7 @@
     "dexnum": 184,
     "primaryType": "water",
     "secondaryType": "fairy",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "bayleef",
@@ -1253,7 +1253,7 @@
     "dexnum": 182,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "blissey",
@@ -1285,7 +1285,7 @@
     "dexnum": 170,
     "primaryType": "water",
     "secondaryType": "electric",
-    "spawnCount": 7
+    "spawnCount": 8
   },
   {
     "id": "cleffa",
@@ -1293,7 +1293,7 @@
     "dexnum": 173,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "corsola",
@@ -1309,7 +1309,7 @@
     "dexnum": 169,
     "primaryType": "poison",
     "secondaryType": "flying",
-    "spawnCount": 14
+    "spawnCount": 15
   },
   {
     "id": "croconaw",
@@ -1333,7 +1333,7 @@
     "dexnum": 225,
     "primaryType": "ice",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "donphan",
@@ -1341,7 +1341,7 @@
     "dexnum": 232,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "dunsparce",
@@ -1349,7 +1349,7 @@
     "dexnum": 206,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "elekid",
@@ -1357,7 +1357,7 @@
     "dexnum": 239,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "entei",
@@ -1373,7 +1373,7 @@
     "dexnum": 196,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "feraligatr",
@@ -1389,7 +1389,7 @@
     "dexnum": 180,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "forretress",
@@ -1397,7 +1397,7 @@
     "dexnum": 205,
     "primaryType": "bug",
     "secondaryType": "steel",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "furret",
@@ -1405,7 +1405,7 @@
     "dexnum": 162,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "girafarig",
@@ -1413,7 +1413,7 @@
     "dexnum": 203,
     "primaryType": "normal",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "gligar",
@@ -1421,7 +1421,7 @@
     "dexnum": 207,
     "primaryType": "ground",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "granbull",
@@ -1429,7 +1429,7 @@
     "dexnum": 210,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "heracross",
@@ -1437,7 +1437,7 @@
     "dexnum": 214,
     "primaryType": "bug",
     "secondaryType": "fighting",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "hitmontop",
@@ -1445,7 +1445,7 @@
     "dexnum": 237,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "hooh",
@@ -1461,7 +1461,7 @@
     "dexnum": 163,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "hoppip",
@@ -1493,7 +1493,7 @@
     "dexnum": 174,
     "primaryType": "normal",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "jumpluff",
@@ -1501,7 +1501,7 @@
     "dexnum": 189,
     "primaryType": "grass",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "kingdra",
@@ -1509,7 +1509,7 @@
     "dexnum": 230,
     "primaryType": "water",
     "secondaryType": "dragon",
-    "spawnCount": 7
+    "spawnCount": 6
   },
   {
     "id": "lanturn",
@@ -1517,7 +1517,7 @@
     "dexnum": 171,
     "primaryType": "water",
     "secondaryType": "electric",
-    "spawnCount": 7
+    "spawnCount": 8
   },
   {
     "id": "larvitar",
@@ -1525,7 +1525,7 @@
     "dexnum": 246,
     "primaryType": "rock",
     "secondaryType": "ground",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "ledian",
@@ -1533,7 +1533,7 @@
     "dexnum": 166,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "ledyba",
@@ -1541,7 +1541,7 @@
     "dexnum": 165,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "lugia",
@@ -1557,7 +1557,7 @@
     "dexnum": 240,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "magcargo",
@@ -1565,7 +1565,7 @@
     "dexnum": 219,
     "primaryType": "fire",
     "secondaryType": "rock",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "mantine",
@@ -1573,7 +1573,7 @@
     "dexnum": 226,
     "primaryType": "water",
     "secondaryType": "flying",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "mareep",
@@ -1581,7 +1581,7 @@
     "dexnum": 179,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "marill",
@@ -1589,7 +1589,7 @@
     "dexnum": 183,
     "primaryType": "water",
     "secondaryType": "fairy",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "meganium",
@@ -1613,7 +1613,7 @@
     "dexnum": 200,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "murkrow",
@@ -1621,7 +1621,7 @@
     "dexnum": 198,
     "primaryType": "dark",
     "secondaryType": "flying",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "natu",
@@ -1629,7 +1629,7 @@
     "dexnum": 177,
     "primaryType": "psychic",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "noctowl",
@@ -1637,7 +1637,7 @@
     "dexnum": 164,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "octillery",
@@ -1645,7 +1645,7 @@
     "dexnum": 224,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "phanpy",
@@ -1653,7 +1653,7 @@
     "dexnum": 231,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pichu",
@@ -1661,7 +1661,7 @@
     "dexnum": 172,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "piloswine",
@@ -1669,7 +1669,7 @@
     "dexnum": 221,
     "primaryType": "ice",
     "secondaryType": "ground",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "pineco",
@@ -1677,7 +1677,7 @@
     "dexnum": 204,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "politoed",
@@ -1685,7 +1685,7 @@
     "dexnum": 186,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 14
+    "spawnCount": 15
   },
   {
     "id": "porygon2",
@@ -1693,7 +1693,7 @@
     "dexnum": 233,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "pupitar",
@@ -1709,7 +1709,7 @@
     "dexnum": 195,
     "primaryType": "water",
     "secondaryType": "ground",
-    "spawnCount": 14
+    "spawnCount": 15
   },
   {
     "id": "quilava",
@@ -1749,7 +1749,7 @@
     "dexnum": 212,
     "primaryType": "bug",
     "secondaryType": "steel",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sentret",
@@ -1765,7 +1765,7 @@
     "dexnum": 213,
     "primaryType": "bug",
     "secondaryType": "rock",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "skarmory",
@@ -1797,7 +1797,7 @@
     "dexnum": 218,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "smeargle",
@@ -1821,7 +1821,7 @@
     "dexnum": 215,
     "primaryType": "dark",
     "secondaryType": "ice",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "snubbull",
@@ -1829,7 +1829,7 @@
     "dexnum": 209,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "spinarak",
@@ -1837,7 +1837,7 @@
     "dexnum": 167,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "stantler",
@@ -1853,7 +1853,7 @@
     "dexnum": 208,
     "primaryType": "steel",
     "secondaryType": "ground",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "sudowoodo",
@@ -1861,7 +1861,7 @@
     "dexnum": 185,
     "primaryType": "rock",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "suicune",
@@ -1877,7 +1877,7 @@
     "dexnum": 192,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "sunkern",
@@ -1885,7 +1885,7 @@
     "dexnum": 191,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "swinub",
@@ -1893,7 +1893,7 @@
     "dexnum": 220,
     "primaryType": "ice",
     "secondaryType": "ground",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "teddiursa",
@@ -1909,7 +1909,7 @@
     "dexnum": 175,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "togetic",
@@ -1917,7 +1917,7 @@
     "dexnum": 176,
     "primaryType": "fairy",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "totodile",
@@ -1949,7 +1949,7 @@
     "dexnum": 236,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "umbreon",
@@ -1957,7 +1957,7 @@
     "dexnum": 197,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "unown",
@@ -1981,7 +1981,7 @@
     "dexnum": 202,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "wooper",
@@ -1997,7 +1997,7 @@
     "dexnum": 178,
     "primaryType": "psychic",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "yanma",
@@ -2005,7 +2005,7 @@
     "dexnum": 193,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "absol",
@@ -2013,7 +2013,7 @@
     "dexnum": 359,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "aggron",
@@ -2053,7 +2053,7 @@
     "dexnum": 304,
     "primaryType": "steel",
     "secondaryType": "rock",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "azurill",
@@ -2069,7 +2069,7 @@
     "dexnum": 371,
     "primaryType": "dragon",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "baltoy",
@@ -2077,7 +2077,7 @@
     "dexnum": 343,
     "primaryType": "ground",
     "secondaryType": "psychic",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "banette",
@@ -2085,7 +2085,7 @@
     "dexnum": 354,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "barboach",
@@ -2093,7 +2093,7 @@
     "dexnum": 339,
     "primaryType": "water",
     "secondaryType": "ground",
-    "spawnCount": 7
+    "spawnCount": 6
   },
   {
     "id": "beautifly",
@@ -2101,7 +2101,7 @@
     "dexnum": 267,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "beldum",
@@ -2125,7 +2125,7 @@
     "dexnum": 286,
     "primaryType": "grass",
     "secondaryType": "fighting",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "cacnea",
@@ -2133,7 +2133,7 @@
     "dexnum": 331,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "cacturne",
@@ -2141,7 +2141,7 @@
     "dexnum": 332,
     "primaryType": "grass",
     "secondaryType": "dark",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "camerupt",
@@ -2149,7 +2149,7 @@
     "dexnum": 323,
     "primaryType": "fire",
     "secondaryType": "ground",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "carvanha",
@@ -2165,7 +2165,7 @@
     "dexnum": 268,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "castform",
@@ -2181,7 +2181,7 @@
     "dexnum": 358,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "clamperl",
@@ -2197,7 +2197,7 @@
     "dexnum": 344,
     "primaryType": "ground",
     "secondaryType": "psychic",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "combusken",
@@ -2253,7 +2253,7 @@
     "dexnum": 356,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "duskull",
@@ -2261,7 +2261,7 @@
     "dexnum": 355,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "dustox",
@@ -2269,7 +2269,7 @@
     "dexnum": 269,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "electrike",
@@ -2277,7 +2277,7 @@
     "dexnum": 309,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "exploud",
@@ -2285,7 +2285,7 @@
     "dexnum": 295,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "feebas",
@@ -2301,7 +2301,7 @@
     "dexnum": 330,
     "primaryType": "ground",
     "secondaryType": "dragon",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "gardevoir",
@@ -2309,7 +2309,7 @@
     "dexnum": 282,
     "primaryType": "psychic",
     "secondaryType": "fairy",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "glalie",
@@ -2325,7 +2325,7 @@
     "dexnum": 368,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "groudon",
@@ -2349,7 +2349,7 @@
     "dexnum": 326,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "gulpin",
@@ -2365,7 +2365,7 @@
     "dexnum": 297,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "huntail",
@@ -2373,7 +2373,7 @@
     "dexnum": 367,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "illumise",
@@ -2381,7 +2381,7 @@
     "dexnum": 314,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "jirachi",
@@ -2397,7 +2397,7 @@
     "dexnum": 352,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "kirlia",
@@ -2405,7 +2405,7 @@
     "dexnum": 281,
     "primaryType": "psychic",
     "secondaryType": "fairy",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "kyogre",
@@ -2453,7 +2453,7 @@
     "dexnum": 264,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "lombre",
@@ -2461,7 +2461,7 @@
     "dexnum": 271,
     "primaryType": "water",
     "secondaryType": "grass",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "lotad",
@@ -2469,7 +2469,7 @@
     "dexnum": 270,
     "primaryType": "water",
     "secondaryType": "grass",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "loudred",
@@ -2477,7 +2477,7 @@
     "dexnum": 294,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "ludicolo",
@@ -2485,7 +2485,7 @@
     "dexnum": 272,
     "primaryType": "water",
     "secondaryType": "grass",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "lunatone",
@@ -2501,7 +2501,7 @@
     "dexnum": 370,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "makuhita",
@@ -2509,7 +2509,7 @@
     "dexnum": 296,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "manectric",
@@ -2517,7 +2517,7 @@
     "dexnum": 310,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "marshtomp",
@@ -2533,7 +2533,7 @@
     "dexnum": 284,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "mawile",
@@ -2549,7 +2549,7 @@
     "dexnum": 308,
     "primaryType": "fighting",
     "secondaryType": "psychic",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "meditite",
@@ -2557,7 +2557,7 @@
     "dexnum": 307,
     "primaryType": "fighting",
     "secondaryType": "psychic",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "metagross",
@@ -2581,7 +2581,7 @@
     "dexnum": 262,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "milotic",
@@ -2597,7 +2597,7 @@
     "dexnum": 312,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "mudkip",
@@ -2613,7 +2613,7 @@
     "dexnum": 290,
     "primaryType": "bug",
     "secondaryType": "ground",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "ninjask",
@@ -2621,7 +2621,7 @@
     "dexnum": 291,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "nosepass",
@@ -2637,7 +2637,7 @@
     "dexnum": 322,
     "primaryType": "fire",
     "secondaryType": "ground",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "nuzleaf",
@@ -2653,7 +2653,7 @@
     "dexnum": 279,
     "primaryType": "water",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "plusle",
@@ -2661,7 +2661,7 @@
     "dexnum": 311,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "poochyena",
@@ -2669,7 +2669,7 @@
     "dexnum": 261,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "ralts",
@@ -2677,7 +2677,7 @@
     "dexnum": 280,
     "primaryType": "psychic",
     "secondaryType": "fairy",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "rayquaza",
@@ -2717,7 +2717,7 @@
     "dexnum": 369,
     "primaryType": "water",
     "secondaryType": "rock",
-    "spawnCount": 13
+    "spawnCount": 14
   },
   {
     "id": "roselia",
@@ -2725,7 +2725,7 @@
     "dexnum": 315,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "sableye",
@@ -2733,7 +2733,7 @@
     "dexnum": 302,
     "primaryType": "dark",
     "secondaryType": "ghost",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "salamence",
@@ -2757,7 +2757,7 @@
     "dexnum": 364,
     "primaryType": "ice",
     "secondaryType": "water",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "seedot",
@@ -2765,7 +2765,7 @@
     "dexnum": 273,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "seviper",
@@ -2773,7 +2773,7 @@
     "dexnum": 336,
     "primaryType": "poison",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sharpedo",
@@ -2781,7 +2781,7 @@
     "dexnum": 319,
     "primaryType": "water",
     "secondaryType": "dark",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "shedinja",
@@ -2789,7 +2789,7 @@
     "dexnum": 292,
     "primaryType": "bug",
     "secondaryType": "ghost",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "shelgon",
@@ -2813,7 +2813,7 @@
     "dexnum": 285,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "shuppet",
@@ -2821,7 +2821,7 @@
     "dexnum": 353,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "silcoon",
@@ -2829,7 +2829,7 @@
     "dexnum": 266,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "skitty",
@@ -2861,7 +2861,7 @@
     "dexnum": 361,
     "primaryType": "ice",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "solrock",
@@ -2877,7 +2877,7 @@
     "dexnum": 363,
     "primaryType": "ice",
     "secondaryType": "water",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "spinda",
@@ -2885,7 +2885,7 @@
     "dexnum": 327,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "spoink",
@@ -2893,7 +2893,7 @@
     "dexnum": 325,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "surskit",
@@ -2901,7 +2901,7 @@
     "dexnum": 283,
     "primaryType": "bug",
     "secondaryType": "water",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "swablu",
@@ -2909,7 +2909,7 @@
     "dexnum": 333,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "swalot",
@@ -2933,7 +2933,7 @@
     "dexnum": 277,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "taillow",
@@ -2941,7 +2941,7 @@
     "dexnum": 276,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "torchic",
@@ -2957,7 +2957,7 @@
     "dexnum": 324,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "trapinch",
@@ -2965,7 +2965,7 @@
     "dexnum": 328,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "treecko",
@@ -2989,7 +2989,7 @@
     "dexnum": 329,
     "primaryType": "ground",
     "secondaryType": "dragon",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "vigoroth",
@@ -3005,7 +3005,7 @@
     "dexnum": 313,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "wailmer",
@@ -3013,7 +3013,7 @@
     "dexnum": 320,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 7
+    "spawnCount": 8
   },
   {
     "id": "wailord",
@@ -3021,7 +3021,7 @@
     "dexnum": 321,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 7
+    "spawnCount": 8
   },
   {
     "id": "walrein",
@@ -3029,7 +3029,7 @@
     "dexnum": 365,
     "primaryType": "ice",
     "secondaryType": "water",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "whiscash",
@@ -3037,7 +3037,7 @@
     "dexnum": 340,
     "primaryType": "water",
     "secondaryType": "ground",
-    "spawnCount": 10
+    "spawnCount": 9
   },
   {
     "id": "whismur",
@@ -3045,7 +3045,7 @@
     "dexnum": 293,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "wingull",
@@ -3061,7 +3061,7 @@
     "dexnum": 265,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "wynaut",
@@ -3069,7 +3069,7 @@
     "dexnum": 360,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "zangoose",
@@ -3101,7 +3101,7 @@
     "dexnum": 424,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "arceus",
@@ -3133,7 +3133,7 @@
     "dexnum": 400,
     "primaryType": "normal",
     "secondaryType": "water",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "bidoof",
@@ -3141,7 +3141,7 @@
     "dexnum": 399,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "bonsly",
@@ -3149,7 +3149,7 @@
     "dexnum": 438,
     "primaryType": "rock",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "bronzong",
@@ -3173,7 +3173,7 @@
     "dexnum": 406,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "buizel",
@@ -3181,7 +3181,7 @@
     "dexnum": 418,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "buneary",
@@ -3189,7 +3189,7 @@
     "dexnum": 427,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "burmy",
@@ -3197,7 +3197,7 @@
     "dexnum": 412,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "carnivine",
@@ -3205,7 +3205,7 @@
     "dexnum": 455,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "chatot",
@@ -3213,7 +3213,7 @@
     "dexnum": 441,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "cherrim",
@@ -3245,7 +3245,7 @@
     "dexnum": 433,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "combee",
@@ -3253,7 +3253,7 @@
     "dexnum": 415,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "cranidos",
@@ -3277,7 +3277,7 @@
     "dexnum": 453,
     "primaryType": "poison",
     "secondaryType": "fighting",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "darkrai",
@@ -3301,7 +3301,7 @@
     "dexnum": 452,
     "primaryType": "poison",
     "secondaryType": "dark",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "drifblim",
@@ -3309,7 +3309,7 @@
     "dexnum": 426,
     "primaryType": "ghost",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "drifloon",
@@ -3317,7 +3317,7 @@
     "dexnum": 425,
     "primaryType": "ghost",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "dusknoir",
@@ -3325,7 +3325,7 @@
     "dexnum": 477,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "electivire",
@@ -3333,7 +3333,7 @@
     "dexnum": 466,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "empoleon",
@@ -3341,7 +3341,7 @@
     "dexnum": 395,
     "primaryType": "water",
     "secondaryType": "steel",
-    "spawnCount": 6
+    "spawnCount": 5
   },
   {
     "id": "finneon",
@@ -3357,7 +3357,7 @@
     "dexnum": 419,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "froslass",
@@ -3365,7 +3365,7 @@
     "dexnum": 478,
     "primaryType": "ice",
     "secondaryType": "ghost",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "gabite",
@@ -3381,7 +3381,7 @@
     "dexnum": 475,
     "primaryType": "psychic",
     "secondaryType": "fighting",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "garchomp",
@@ -3397,7 +3397,7 @@
     "dexnum": 423,
     "primaryType": "water",
     "secondaryType": "ground",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "gible",
@@ -3405,7 +3405,7 @@
     "dexnum": 443,
     "primaryType": "dragon",
     "secondaryType": "ground",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "giratina",
@@ -3429,7 +3429,7 @@
     "dexnum": 431,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "gliscor",
@@ -3437,7 +3437,7 @@
     "dexnum": 472,
     "primaryType": "ground",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "grotle",
@@ -3469,7 +3469,7 @@
     "dexnum": 449,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "hippowdon",
@@ -3477,7 +3477,7 @@
     "dexnum": 450,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "honchkrow",
@@ -3485,7 +3485,7 @@
     "dexnum": 430,
     "primaryType": "dark",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "infernape",
@@ -3501,7 +3501,7 @@
     "dexnum": 401,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "kricketune",
@@ -3509,7 +3509,7 @@
     "dexnum": 402,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "leafeon",
@@ -3517,7 +3517,7 @@
     "dexnum": 470,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "lickilicky",
@@ -3525,7 +3525,7 @@
     "dexnum": 463,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "lopunny",
@@ -3533,7 +3533,7 @@
     "dexnum": 428,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "lucario",
@@ -3541,7 +3541,7 @@
     "dexnum": 448,
     "primaryType": "fighting",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "lumineon",
@@ -3549,7 +3549,7 @@
     "dexnum": 457,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "luxio",
@@ -3557,7 +3557,7 @@
     "dexnum": 404,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "luxray",
@@ -3565,7 +3565,7 @@
     "dexnum": 405,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "magmortar",
@@ -3573,7 +3573,7 @@
     "dexnum": 467,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "magnezone",
@@ -3581,7 +3581,7 @@
     "dexnum": 462,
     "primaryType": "electric",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "mamoswine",
@@ -3589,7 +3589,7 @@
     "dexnum": 473,
     "primaryType": "ice",
     "secondaryType": "ground",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "manaphy",
@@ -3621,7 +3621,7 @@
     "dexnum": 439,
     "primaryType": "psychic",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "mismagius",
@@ -3629,7 +3629,7 @@
     "dexnum": 429,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "monferno",
@@ -3645,7 +3645,7 @@
     "dexnum": 414,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "munchlax",
@@ -3653,7 +3653,7 @@
     "dexnum": 446,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pachirisu",
@@ -3661,7 +3661,7 @@
     "dexnum": 417,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "palkia",
@@ -3685,7 +3685,7 @@
     "dexnum": 393,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 5
   },
   {
     "id": "porygonz",
@@ -3693,7 +3693,7 @@
     "dexnum": 474,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "prinplup",
@@ -3701,7 +3701,7 @@
     "dexnum": 394,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 5
   },
   {
     "id": "probopass",
@@ -3709,7 +3709,7 @@
     "dexnum": 476,
     "primaryType": "rock",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "purugly",
@@ -3717,7 +3717,7 @@
     "dexnum": 432,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "rampardos",
@@ -3733,7 +3733,7 @@
     "dexnum": 486,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 1
   },
   {
     "id": "rhyperior",
@@ -3741,7 +3741,7 @@
     "dexnum": 464,
     "primaryType": "ground",
     "secondaryType": "rock",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "riolu",
@@ -3749,7 +3749,7 @@
     "dexnum": 447,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "roserade",
@@ -3757,7 +3757,7 @@
     "dexnum": 407,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "rotom",
@@ -3765,7 +3765,7 @@
     "dexnum": 479,
     "primaryType": "electric",
     "secondaryType": "ghost",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "shaymin",
@@ -3781,7 +3781,7 @@
     "dexnum": 422,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "shieldon",
@@ -3797,7 +3797,7 @@
     "dexnum": 403,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "skorupi",
@@ -3805,7 +3805,7 @@
     "dexnum": 451,
     "primaryType": "poison",
     "secondaryType": "bug",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "skuntank",
@@ -3821,7 +3821,7 @@
     "dexnum": 459,
     "primaryType": "grass",
     "secondaryType": "ice",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "spiritomb",
@@ -3829,7 +3829,7 @@
     "dexnum": 442,
     "primaryType": "ghost",
     "secondaryType": "dark",
-    "spawnCount": 7
+    "spawnCount": 8
   },
   {
     "id": "staraptor",
@@ -3837,7 +3837,7 @@
     "dexnum": 398,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "staravia",
@@ -3845,7 +3845,7 @@
     "dexnum": 397,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "starly",
@@ -3853,7 +3853,7 @@
     "dexnum": 396,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "stunky",
@@ -3861,7 +3861,7 @@
     "dexnum": 434,
     "primaryType": "poison",
     "secondaryType": "dark",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "tangrowth",
@@ -3869,7 +3869,7 @@
     "dexnum": 465,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "togekiss",
@@ -3877,7 +3877,7 @@
     "dexnum": 468,
     "primaryType": "fairy",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "torterra",
@@ -3893,7 +3893,7 @@
     "dexnum": 454,
     "primaryType": "poison",
     "secondaryType": "fighting",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "turtwig",
@@ -3917,7 +3917,7 @@
     "dexnum": 416,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "weavile",
@@ -3925,7 +3925,7 @@
     "dexnum": 461,
     "primaryType": "dark",
     "secondaryType": "ice",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "wormadam",
@@ -3933,7 +3933,7 @@
     "dexnum": 413,
     "primaryType": "bug",
     "secondaryType": "grass",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "yanmega",
@@ -3941,7 +3941,7 @@
     "dexnum": 469,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "accelgor",
@@ -3949,7 +3949,7 @@
     "dexnum": 617,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "alomomola",
@@ -3965,7 +3965,7 @@
     "dexnum": 591,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "archen",
@@ -3989,7 +3989,7 @@
     "dexnum": 531,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "axew",
@@ -4021,7 +4021,7 @@
     "dexnum": 606,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "bisharp",
@@ -4029,7 +4029,7 @@
     "dexnum": 625,
     "primaryType": "dark",
     "secondaryType": "steel",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "blitzle",
@@ -4037,7 +4037,7 @@
     "dexnum": 522,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "boldore",
@@ -4053,7 +4053,7 @@
     "dexnum": 626,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "braviary",
@@ -4061,7 +4061,7 @@
     "dexnum": 628,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "carracosta",
@@ -4077,7 +4077,7 @@
     "dexnum": 609,
     "primaryType": "ghost",
     "secondaryType": "fire",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "cinccino",
@@ -4085,7 +4085,7 @@
     "dexnum": 573,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "cobalion",
@@ -4101,7 +4101,7 @@
     "dexnum": 563,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "conkeldurr",
@@ -4109,7 +4109,7 @@
     "dexnum": 534,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "cottonee",
@@ -4117,7 +4117,7 @@
     "dexnum": 546,
     "primaryType": "grass",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "crustle",
@@ -4125,7 +4125,7 @@
     "dexnum": 558,
     "primaryType": "bug",
     "secondaryType": "rock",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "cryogonal",
@@ -4149,7 +4149,7 @@
     "dexnum": 555,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 5
   },
   {
     "id": "darumaka",
@@ -4157,7 +4157,7 @@
     "dexnum": 554,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "deerling",
@@ -4165,7 +4165,7 @@
     "dexnum": 585,
     "primaryType": "normal",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "deino",
@@ -4173,7 +4173,7 @@
     "dexnum": 633,
     "primaryType": "dark",
     "secondaryType": "dragon",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "dewott",
@@ -4181,7 +4181,7 @@
     "dexnum": 502,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 3
   },
   {
     "id": "drilbur",
@@ -4189,7 +4189,7 @@
     "dexnum": 529,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "druddigon",
@@ -4197,7 +4197,7 @@
     "dexnum": 621,
     "primaryType": "dragon",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "ducklett",
@@ -4205,7 +4205,7 @@
     "dexnum": 580,
     "primaryType": "water",
     "secondaryType": "flying",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "duosion",
@@ -4213,7 +4213,7 @@
     "dexnum": 578,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "durant",
@@ -4221,7 +4221,7 @@
     "dexnum": 632,
     "primaryType": "bug",
     "secondaryType": "steel",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "dwebble",
@@ -4229,7 +4229,7 @@
     "dexnum": 557,
     "primaryType": "bug",
     "secondaryType": "rock",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "eelektrik",
@@ -4237,7 +4237,7 @@
     "dexnum": 603,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "eelektross",
@@ -4245,7 +4245,7 @@
     "dexnum": 604,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "elgyem",
@@ -4253,7 +4253,7 @@
     "dexnum": 605,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "emboar",
@@ -4277,7 +4277,7 @@
     "dexnum": 589,
     "primaryType": "bug",
     "secondaryType": "steel",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "excadrill",
@@ -4285,7 +4285,7 @@
     "dexnum": 530,
     "primaryType": "ground",
     "secondaryType": "steel",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "ferroseed",
@@ -4293,7 +4293,7 @@
     "dexnum": 597,
     "primaryType": "grass",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "ferrothorn",
@@ -4301,7 +4301,7 @@
     "dexnum": 598,
     "primaryType": "grass",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "foongus",
@@ -4309,7 +4309,7 @@
     "dexnum": 590,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "fraxure",
@@ -4317,7 +4317,7 @@
     "dexnum": 611,
     "primaryType": "dragon",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 4
   },
   {
     "id": "frillish",
@@ -4325,7 +4325,7 @@
     "dexnum": 592,
     "primaryType": "water",
     "secondaryType": "ghost",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "galvantula",
@@ -4333,7 +4333,7 @@
     "dexnum": 596,
     "primaryType": "bug",
     "secondaryType": "electric",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "garbodor",
@@ -4341,7 +4341,7 @@
     "dexnum": 569,
     "primaryType": "poison",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "genesect",
@@ -4365,7 +4365,7 @@
     "dexnum": 622,
     "primaryType": "ground",
     "secondaryType": "ghost",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "golurk",
@@ -4373,7 +4373,7 @@
     "dexnum": 623,
     "primaryType": "ground",
     "secondaryType": "ghost",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "gothita",
@@ -4381,7 +4381,7 @@
     "dexnum": 574,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "gothitelle",
@@ -4389,7 +4389,7 @@
     "dexnum": 576,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "gothorita",
@@ -4397,7 +4397,7 @@
     "dexnum": 575,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "gurdurr",
@@ -4405,7 +4405,7 @@
     "dexnum": 533,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "haxorus",
@@ -4413,7 +4413,7 @@
     "dexnum": 612,
     "primaryType": "dragon",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 4
   },
   {
     "id": "heatmor",
@@ -4421,7 +4421,7 @@
     "dexnum": 631,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "herdier",
@@ -4429,7 +4429,7 @@
     "dexnum": 507,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "hydreigon",
@@ -4445,7 +4445,7 @@
     "dexnum": 593,
     "primaryType": "water",
     "secondaryType": "ghost",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "joltik",
@@ -4453,7 +4453,7 @@
     "dexnum": 595,
     "primaryType": "bug",
     "secondaryType": "electric",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "karrablast",
@@ -4461,7 +4461,7 @@
     "dexnum": 588,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "keldeo",
@@ -4493,7 +4493,7 @@
     "dexnum": 601,
     "primaryType": "steel",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "krokorok",
@@ -4501,7 +4501,7 @@
     "dexnum": 552,
     "primaryType": "ground",
     "secondaryType": "dark",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "krookodile",
@@ -4509,7 +4509,7 @@
     "dexnum": 553,
     "primaryType": "ground",
     "secondaryType": "dark",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "kyurem",
@@ -4525,7 +4525,7 @@
     "dexnum": 608,
     "primaryType": "ghost",
     "secondaryType": "fire",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "landorus",
@@ -4541,7 +4541,7 @@
     "dexnum": 636,
     "primaryType": "bug",
     "secondaryType": "fire",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "leavanny",
@@ -4549,7 +4549,7 @@
     "dexnum": 542,
     "primaryType": "bug",
     "secondaryType": "grass",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "liepard",
@@ -4557,7 +4557,7 @@
     "dexnum": 510,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "lilligant",
@@ -4565,7 +4565,7 @@
     "dexnum": 549,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "lillipup",
@@ -4573,7 +4573,7 @@
     "dexnum": 506,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "litwick",
@@ -4581,7 +4581,7 @@
     "dexnum": 607,
     "primaryType": "ghost",
     "secondaryType": "fire",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "mandibuzz",
@@ -4597,7 +4597,7 @@
     "dexnum": 556,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "meloetta",
@@ -4629,7 +4629,7 @@
     "dexnum": 572,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "munna",
@@ -4637,7 +4637,7 @@
     "dexnum": 517,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "musharna",
@@ -4645,7 +4645,7 @@
     "dexnum": 518,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "oshawott",
@@ -4653,7 +4653,7 @@
     "dexnum": 501,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 3
   },
   {
     "id": "palpitoad",
@@ -4661,7 +4661,7 @@
     "dexnum": 536,
     "primaryType": "water",
     "secondaryType": "ground",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "panpour",
@@ -4669,7 +4669,7 @@
     "dexnum": 515,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pansage",
@@ -4685,7 +4685,7 @@
     "dexnum": 513,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "patrat",
@@ -4693,7 +4693,7 @@
     "dexnum": 504,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "pawniard",
@@ -4701,7 +4701,7 @@
     "dexnum": 624,
     "primaryType": "dark",
     "secondaryType": "steel",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "petilil",
@@ -4709,7 +4709,7 @@
     "dexnum": 548,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "pidove",
@@ -4717,7 +4717,7 @@
     "dexnum": 519,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "pignite",
@@ -4733,7 +4733,7 @@
     "dexnum": 509,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "reshiram",
@@ -4749,7 +4749,7 @@
     "dexnum": 579,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "roggenrola",
@@ -4765,7 +4765,7 @@
     "dexnum": 627,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "samurott",
@@ -4773,7 +4773,7 @@
     "dexnum": 503,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 3
   },
   {
     "id": "sandile",
@@ -4781,7 +4781,7 @@
     "dexnum": 551,
     "primaryType": "ground",
     "secondaryType": "dark",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sawk",
@@ -4789,7 +4789,7 @@
     "dexnum": 539,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sawsbuck",
@@ -4797,7 +4797,7 @@
     "dexnum": 586,
     "primaryType": "normal",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "scolipede",
@@ -4805,7 +4805,7 @@
     "dexnum": 545,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "scrafty",
@@ -4813,7 +4813,7 @@
     "dexnum": 560,
     "primaryType": "dark",
     "secondaryType": "fighting",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "scraggy",
@@ -4821,7 +4821,7 @@
     "dexnum": 559,
     "primaryType": "dark",
     "secondaryType": "fighting",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "seismitoad",
@@ -4829,7 +4829,7 @@
     "dexnum": 537,
     "primaryType": "water",
     "secondaryType": "ground",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "serperior",
@@ -4853,7 +4853,7 @@
     "dexnum": 540,
     "primaryType": "bug",
     "secondaryType": "grass",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "shelmet",
@@ -4861,7 +4861,7 @@
     "dexnum": 616,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sigilyph",
@@ -4869,7 +4869,7 @@
     "dexnum": 561,
     "primaryType": "psychic",
     "secondaryType": "flying",
-    "spawnCount": 7
+    "spawnCount": 8
   },
   {
     "id": "simipour",
@@ -4877,7 +4877,7 @@
     "dexnum": 516,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "simisage",
@@ -4885,7 +4885,7 @@
     "dexnum": 512,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "simisear",
@@ -4893,7 +4893,7 @@
     "dexnum": 514,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "snivy",
@@ -4909,7 +4909,7 @@
     "dexnum": 577,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "stoutland",
@@ -4917,7 +4917,7 @@
     "dexnum": 508,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "stunfisk",
@@ -4925,7 +4925,7 @@
     "dexnum": 618,
     "primaryType": "ground",
     "secondaryType": "electric",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "swadloon",
@@ -4933,7 +4933,7 @@
     "dexnum": 541,
     "primaryType": "bug",
     "secondaryType": "grass",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "swanna",
@@ -4941,7 +4941,7 @@
     "dexnum": 581,
     "primaryType": "water",
     "secondaryType": "flying",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "swoobat",
@@ -4949,7 +4949,7 @@
     "dexnum": 528,
     "primaryType": "psychic",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "tepig",
@@ -4973,7 +4973,7 @@
     "dexnum": 538,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "thundurus",
@@ -4989,7 +4989,7 @@
     "dexnum": 532,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "tirtouga",
@@ -5013,7 +5013,7 @@
     "dexnum": 520,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "trubbish",
@@ -5021,7 +5021,7 @@
     "dexnum": 568,
     "primaryType": "poison",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "tympole",
@@ -5029,7 +5029,7 @@
     "dexnum": 535,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "tynamo",
@@ -5037,7 +5037,7 @@
     "dexnum": 602,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "unfezant",
@@ -5045,7 +5045,7 @@
     "dexnum": 521,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "vanillish",
@@ -5053,7 +5053,7 @@
     "dexnum": 583,
     "primaryType": "ice",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "vanillite",
@@ -5061,7 +5061,7 @@
     "dexnum": 582,
     "primaryType": "ice",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "vanilluxe",
@@ -5069,7 +5069,7 @@
     "dexnum": 584,
     "primaryType": "ice",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "venipede",
@@ -5077,7 +5077,7 @@
     "dexnum": 543,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "victini",
@@ -5101,7 +5101,7 @@
     "dexnum": 637,
     "primaryType": "bug",
     "secondaryType": "fire",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "vullaby",
@@ -5117,7 +5117,7 @@
     "dexnum": 505,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "whimsicott",
@@ -5125,7 +5125,7 @@
     "dexnum": 547,
     "primaryType": "grass",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "whirlipede",
@@ -5133,7 +5133,7 @@
     "dexnum": 544,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "woobat",
@@ -5141,7 +5141,7 @@
     "dexnum": 527,
     "primaryType": "psychic",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "yamask",
@@ -5149,7 +5149,7 @@
     "dexnum": 562,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "zebstrika",
@@ -5157,7 +5157,7 @@
     "dexnum": 523,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "zekrom",
@@ -5173,7 +5173,7 @@
     "dexnum": 571,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "zorua",
@@ -5197,7 +5197,7 @@
     "dexnum": 681,
     "primaryType": "steel",
     "secondaryType": "ghost",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "amaura",
@@ -5205,7 +5205,7 @@
     "dexnum": 698,
     "primaryType": "rock",
     "secondaryType": "ice",
-    "spawnCount": 2
+    "spawnCount": 1
   },
   {
     "id": "aromatisse",
@@ -5221,7 +5221,7 @@
     "dexnum": 699,
     "primaryType": "rock",
     "secondaryType": "ice",
-    "spawnCount": 2
+    "spawnCount": 1
   },
   {
     "id": "avalugg",
@@ -5237,7 +5237,7 @@
     "dexnum": 689,
     "primaryType": "rock",
     "secondaryType": "water",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "bergmite",
@@ -5245,7 +5245,7 @@
     "dexnum": 712,
     "primaryType": "ice",
     "secondaryType": "",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "binacle",
@@ -5253,7 +5253,7 @@
     "dexnum": 688,
     "primaryType": "rock",
     "secondaryType": "water",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "braixen",
@@ -5269,7 +5269,7 @@
     "dexnum": 659,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "carbink",
@@ -5277,7 +5277,7 @@
     "dexnum": 703,
     "primaryType": "rock",
     "secondaryType": "fairy",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "chesnaught",
@@ -5301,7 +5301,7 @@
     "dexnum": 692,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "clawitzer",
@@ -5309,7 +5309,7 @@
     "dexnum": 693,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "dedenne",
@@ -5317,7 +5317,7 @@
     "dexnum": 702,
     "primaryType": "electric",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "delphox",
@@ -5341,7 +5341,7 @@
     "dexnum": 660,
     "primaryType": "normal",
     "secondaryType": "ground",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "doublade",
@@ -5349,7 +5349,7 @@
     "dexnum": 680,
     "primaryType": "steel",
     "secondaryType": "ghost",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "dragalge",
@@ -5357,7 +5357,7 @@
     "dexnum": 691,
     "primaryType": "poison",
     "secondaryType": "dragon",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "espurr",
@@ -5381,7 +5381,7 @@
     "dexnum": 669,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "fletchinder",
@@ -5389,7 +5389,7 @@
     "dexnum": 662,
     "primaryType": "fire",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "fletchling",
@@ -5397,7 +5397,7 @@
     "dexnum": 661,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "floette",
@@ -5405,7 +5405,7 @@
     "dexnum": 670,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "florges",
@@ -5413,7 +5413,7 @@
     "dexnum": 671,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "froakie",
@@ -5437,7 +5437,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "gogoat",
@@ -5445,7 +5445,7 @@
     "dexnum": 673,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "goodra",
@@ -5461,7 +5461,7 @@
     "dexnum": 704,
     "primaryType": "dragon",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "gourgeist",
@@ -5469,7 +5469,7 @@
     "dexnum": 711,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "greninja",
@@ -5485,7 +5485,7 @@
     "dexnum": 701,
     "primaryType": "fighting",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "heliolisk",
@@ -5493,7 +5493,7 @@
     "dexnum": 695,
     "primaryType": "electric",
     "secondaryType": "normal",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "helioptile",
@@ -5501,7 +5501,7 @@
     "dexnum": 694,
     "primaryType": "electric",
     "secondaryType": "normal",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "honedge",
@@ -5541,7 +5541,7 @@
     "dexnum": 667,
     "primaryType": "fire",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "malamar",
@@ -5565,7 +5565,7 @@
     "dexnum": 714,
     "primaryType": "flying",
     "secondaryType": "dragon",
-    "spawnCount": 9
+    "spawnCount": 8
   },
   {
     "id": "noivern",
@@ -5573,7 +5573,7 @@
     "dexnum": 715,
     "primaryType": "flying",
     "secondaryType": "dragon",
-    "spawnCount": 7
+    "spawnCount": 8
   },
   {
     "id": "pancham",
@@ -5581,7 +5581,7 @@
     "dexnum": 674,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pangoro",
@@ -5589,7 +5589,7 @@
     "dexnum": 675,
     "primaryType": "fighting",
     "secondaryType": "dark",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "phantump",
@@ -5605,7 +5605,7 @@
     "dexnum": 710,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pyroar",
@@ -5613,7 +5613,7 @@
     "dexnum": 668,
     "primaryType": "fire",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "quilladin",
@@ -5629,7 +5629,7 @@
     "dexnum": 664,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "skiddo",
@@ -5637,7 +5637,7 @@
     "dexnum": 672,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "skrelp",
@@ -5645,7 +5645,7 @@
     "dexnum": 690,
     "primaryType": "poison",
     "secondaryType": "water",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "sliggoo",
@@ -5669,7 +5669,7 @@
     "dexnum": 665,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "spritzee",
@@ -5677,7 +5677,7 @@
     "dexnum": 682,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "swirlix",
@@ -5693,7 +5693,7 @@
     "dexnum": 700,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "talonflame",
@@ -5701,7 +5701,7 @@
     "dexnum": 663,
     "primaryType": "fire",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "trevenant",
@@ -5709,7 +5709,7 @@
     "dexnum": 709,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "tyrantrum",
@@ -5733,7 +5733,7 @@
     "dexnum": 666,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "volcanion",
@@ -5781,7 +5781,7 @@
     "dexnum": 760,
     "primaryType": "normal",
     "secondaryType": "fighting",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "blacephalon",
@@ -5797,7 +5797,7 @@
     "dexnum": 761,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "brionne",
@@ -5813,7 +5813,7 @@
     "dexnum": 779,
     "primaryType": "water",
     "secondaryType": "psychic",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "buzzwole",
@@ -5845,7 +5845,7 @@
     "dexnum": 764,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "cosmoem",
@@ -5877,7 +5877,7 @@
     "dexnum": 739,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "cutiefly",
@@ -5885,7 +5885,7 @@
     "dexnum": 742,
     "primaryType": "bug",
     "secondaryType": "fairy",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "dartrix",
@@ -5909,7 +5909,7 @@
     "dexnum": 751,
     "primaryType": "water",
     "secondaryType": "bug",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "dhelmise",
@@ -5917,7 +5917,7 @@
     "dexnum": 781,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "drampa",
@@ -5933,7 +5933,7 @@
     "dexnum": 753,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "golisopod",
@@ -5941,7 +5941,7 @@
     "dexnum": 768,
     "primaryType": "bug",
     "secondaryType": "water",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "grubbin",
@@ -5949,7 +5949,7 @@
     "dexnum": 736,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "gumshoos",
@@ -5957,7 +5957,7 @@
     "dexnum": 735,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "guzzlord",
@@ -5989,7 +5989,7 @@
     "dexnum": 782,
     "primaryType": "dragon",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "kartana",
@@ -6005,7 +6005,7 @@
     "dexnum": 775,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "kommoo",
@@ -6037,7 +6037,7 @@
     "dexnum": 754,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "lycanroc",
@@ -6061,7 +6061,7 @@
     "dexnum": 747,
     "primaryType": "poison",
     "secondaryType": "water",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "marshadow",
@@ -6077,7 +6077,7 @@
     "dexnum": 778,
     "primaryType": "ghost",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "minior",
@@ -6093,7 +6093,7 @@
     "dexnum": 755,
     "primaryType": "grass",
     "secondaryType": "fairy",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "mudbray",
@@ -6101,7 +6101,7 @@
     "dexnum": 749,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "mudsdale",
@@ -6109,7 +6109,7 @@
     "dexnum": 750,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "naganadel",
@@ -6141,7 +6141,7 @@
     "dexnum": 765,
     "primaryType": "normal",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "oricorio",
@@ -6149,7 +6149,7 @@
     "dexnum": 741,
     "primaryType": "fire",
     "secondaryType": "flying",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "palossand",
@@ -6157,7 +6157,7 @@
     "dexnum": 770,
     "primaryType": "ghost",
     "secondaryType": "ground",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "passimian",
@@ -6165,7 +6165,7 @@
     "dexnum": 766,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "pheromosa",
@@ -6181,7 +6181,7 @@
     "dexnum": 731,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "poipole",
@@ -6221,7 +6221,7 @@
     "dexnum": 743,
     "primaryType": "bug",
     "secondaryType": "fairy",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "rockruff",
@@ -6229,7 +6229,7 @@
     "dexnum": 744,
     "primaryType": "rock",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "rowlet",
@@ -6245,7 +6245,7 @@
     "dexnum": 757,
     "primaryType": "poison",
     "secondaryType": "fire",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "salazzle",
@@ -6261,7 +6261,7 @@
     "dexnum": 769,
     "primaryType": "ghost",
     "secondaryType": "ground",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "shiinotic",
@@ -6269,7 +6269,7 @@
     "dexnum": 756,
     "primaryType": "grass",
     "secondaryType": "fairy",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "silvally",
@@ -6301,7 +6301,7 @@
     "dexnum": 762,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "stufful",
@@ -6309,7 +6309,7 @@
     "dexnum": 759,
     "primaryType": "normal",
     "secondaryType": "fighting",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "tapubulu",
@@ -6365,7 +6365,7 @@
     "dexnum": 733,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "toxapex",
@@ -6373,7 +6373,7 @@
     "dexnum": 748,
     "primaryType": "poison",
     "secondaryType": "water",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "trumbeak",
@@ -6381,7 +6381,7 @@
     "dexnum": 732,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "tsareena",
@@ -6389,7 +6389,7 @@
     "dexnum": 763,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "turtonator",
@@ -6397,7 +6397,7 @@
     "dexnum": 776,
     "primaryType": "fire",
     "secondaryType": "dragon",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "typenull",
@@ -6421,7 +6421,7 @@
     "dexnum": 767,
     "primaryType": "bug",
     "secondaryType": "water",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "wishiwashi",
@@ -6445,7 +6445,7 @@
     "dexnum": 734,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "zeraora",
@@ -6477,7 +6477,7 @@
     "dexnum": 869,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "appletun",
@@ -6541,7 +6541,7 @@
     "dexnum": 836,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "calyrex",
@@ -6565,7 +6565,7 @@
     "dexnum": 851,
     "primaryType": "fire",
     "secondaryType": "bug",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "chewtle",
@@ -6573,7 +6573,7 @@
     "dexnum": 833,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "cinderace",
@@ -6613,7 +6613,7 @@
     "dexnum": 823,
     "primaryType": "flying",
     "secondaryType": "steel",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "corvisquire",
@@ -6621,7 +6621,7 @@
     "dexnum": 822,
     "primaryType": "flying",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "cramorant",
@@ -6629,7 +6629,7 @@
     "dexnum": 845,
     "primaryType": "flying",
     "secondaryType": "water",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "cufant",
@@ -6645,7 +6645,7 @@
     "dexnum": 864,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 4
   },
   {
     "id": "dottler",
@@ -6653,7 +6653,7 @@
     "dexnum": 825,
     "primaryType": "bug",
     "secondaryType": "psychic",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "dracovish",
@@ -6693,7 +6693,7 @@
     "dexnum": 834,
     "primaryType": "water",
     "secondaryType": "rock",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "dreepy",
@@ -6701,7 +6701,7 @@
     "dexnum": 885,
     "primaryType": "dragon",
     "secondaryType": "ghost",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "drizzile",
@@ -6717,7 +6717,7 @@
     "dexnum": 832,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "duraludon",
@@ -6725,7 +6725,7 @@
     "dexnum": 884,
     "primaryType": "steel",
     "secondaryType": "dragon",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "eiscue",
@@ -6741,7 +6741,7 @@
     "dexnum": 830,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "eternatus",
@@ -6757,7 +6757,7 @@
     "dexnum": 870,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "flapple",
@@ -6765,7 +6765,7 @@
     "dexnum": 841,
     "primaryType": "grass",
     "secondaryType": "dragon",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "frosmoth",
@@ -6789,7 +6789,7 @@
     "dexnum": 829,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "grapploct",
@@ -6813,7 +6813,7 @@
     "dexnum": 861,
     "primaryType": "dark",
     "secondaryType": "fairy",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "grookey",
@@ -6829,7 +6829,7 @@
     "dexnum": 856,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "hatterene",
@@ -6837,7 +6837,7 @@
     "dexnum": 858,
     "primaryType": "psychic",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "hattrem",
@@ -6845,7 +6845,7 @@
     "dexnum": 857,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "impidimp",
@@ -6853,7 +6853,7 @@
     "dexnum": 859,
     "primaryType": "dark",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "indeedee",
@@ -6861,7 +6861,7 @@
     "dexnum": 876,
     "primaryType": "psychic",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "inteleon",
@@ -6885,7 +6885,7 @@
     "dexnum": 868,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "morgrem",
@@ -6901,7 +6901,7 @@
     "dexnum": 877,
     "primaryType": "electric",
     "secondaryType": "dark",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "mrrime",
@@ -6917,7 +6917,7 @@
     "dexnum": 827,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "obstagoon",
@@ -6925,7 +6925,7 @@
     "dexnum": 862,
     "primaryType": "dark",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "orbeetle",
@@ -6933,7 +6933,7 @@
     "dexnum": 826,
     "primaryType": "bug",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "perrserker",
@@ -6941,7 +6941,7 @@
     "dexnum": 863,
     "primaryType": "steel",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pincurchin",
@@ -6949,7 +6949,7 @@
     "dexnum": 871,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "polteageist",
@@ -6957,7 +6957,7 @@
     "dexnum": 855,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "raboot",
@@ -7005,7 +7005,7 @@
     "dexnum": 821,
     "primaryType": "flying",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "runerigus",
@@ -7013,7 +7013,7 @@
     "dexnum": 867,
     "primaryType": "ground",
     "secondaryType": "ghost",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sandaconda",
@@ -7021,7 +7021,7 @@
     "dexnum": 844,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "scorbunny",
@@ -7037,7 +7037,7 @@
     "dexnum": 843,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "sinistea",
@@ -7045,7 +7045,7 @@
     "dexnum": 854,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sirfetchd",
@@ -7053,7 +7053,7 @@
     "dexnum": 865,
     "primaryType": "fighting",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sizzlipede",
@@ -7061,7 +7061,7 @@
     "dexnum": 850,
     "primaryType": "fire",
     "secondaryType": "bug",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "skwovet",
@@ -7069,7 +7069,7 @@
     "dexnum": 819,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "snom",
@@ -7077,7 +7077,7 @@
     "dexnum": 872,
     "primaryType": "ice",
     "secondaryType": "bug",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sobble",
@@ -7109,7 +7109,7 @@
     "dexnum": 828,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "thwackey",
@@ -7125,7 +7125,7 @@
     "dexnum": 848,
     "primaryType": "electric",
     "secondaryType": "poison",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "toxtricity",
@@ -7133,7 +7133,7 @@
     "dexnum": 849,
     "primaryType": "electric",
     "secondaryType": "poison",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "urshifu",
@@ -7149,7 +7149,7 @@
     "dexnum": 831,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "yamper",
@@ -7157,7 +7157,7 @@
     "dexnum": 835,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "zacian",
@@ -7189,7 +7189,7 @@
     "dexnum": 902,
     "primaryType": "water",
     "secondaryType": "ghost",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "enamorus",
@@ -7213,7 +7213,7 @@
     "dexnum": 904,
     "primaryType": "dark",
     "secondaryType": "poison",
-    "spawnCount": 13
+    "spawnCount": 14
   },
   {
     "id": "sneasler",
@@ -7221,7 +7221,7 @@
     "dexnum": 903,
     "primaryType": "fighting",
     "secondaryType": "poison",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "ursaluna",
@@ -7229,7 +7229,7 @@
     "dexnum": 901,
     "primaryType": "ground",
     "secondaryType": "normal",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "wyrdeer",
@@ -7237,7 +7237,7 @@
     "dexnum": 899,
     "primaryType": "normal",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "annihilape",
@@ -7245,7 +7245,7 @@
     "dexnum": 979,
     "primaryType": "fighting",
     "secondaryType": "ghost",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "arboliva",
@@ -7261,7 +7261,7 @@
     "dexnum": 1018,
     "primaryType": "steel",
     "secondaryType": "dragon",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "arctibax",
@@ -7269,7 +7269,7 @@
     "dexnum": 997,
     "primaryType": "dragon",
     "secondaryType": "ice",
-    "spawnCount": 2
+    "spawnCount": 1
   },
   {
     "id": "armarouge",
@@ -7277,7 +7277,7 @@
     "dexnum": 936,
     "primaryType": "fire",
     "secondaryType": "psychic",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "baxcalibur",
@@ -7285,7 +7285,7 @@
     "dexnum": 998,
     "primaryType": "dragon",
     "secondaryType": "ice",
-    "spawnCount": 2
+    "spawnCount": 1
   },
   {
     "id": "bellibolt",
@@ -7301,7 +7301,7 @@
     "dexnum": 962,
     "primaryType": "flying",
     "secondaryType": "dark",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "brambleghast",
@@ -7309,7 +7309,7 @@
     "dexnum": 947,
     "primaryType": "grass",
     "secondaryType": "ghost",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "bramblin",
@@ -7317,7 +7317,7 @@
     "dexnum": 946,
     "primaryType": "grass",
     "secondaryType": "ghost",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "brutebonnet",
@@ -7333,7 +7333,7 @@
     "dexnum": 951,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "ceruledge",
@@ -7341,7 +7341,7 @@
     "dexnum": 937,
     "primaryType": "fire",
     "secondaryType": "ghost",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "cetitan",
@@ -7365,7 +7365,7 @@
     "dexnum": 935,
     "primaryType": "fire",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "chienpao",
@@ -7373,7 +7373,7 @@
     "dexnum": 1002,
     "primaryType": "dark",
     "secondaryType": "ice",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "chiyu",
@@ -7381,7 +7381,7 @@
     "dexnum": 1004,
     "primaryType": "dark",
     "secondaryType": "fire",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "clodsire",
@@ -7389,7 +7389,7 @@
     "dexnum": 980,
     "primaryType": "poison",
     "secondaryType": "ground",
-    "spawnCount": 12
+    "spawnCount": 13
   },
   {
     "id": "crocalor",
@@ -7405,7 +7405,7 @@
     "dexnum": 967,
     "primaryType": "dragon",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "dachsbun",
@@ -7413,7 +7413,7 @@
     "dexnum": 927,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "dipplin",
@@ -7421,7 +7421,7 @@
     "dexnum": 1011,
     "primaryType": "grass",
     "secondaryType": "dragon",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "dolliv",
@@ -7453,7 +7453,7 @@
     "dexnum": 956,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "farigiraf",
@@ -7461,7 +7461,7 @@
     "dexnum": 981,
     "primaryType": "normal",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "fezandipiti",
@@ -7477,7 +7477,7 @@
     "dexnum": 926,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "finizen",
@@ -7493,7 +7493,7 @@
     "dexnum": 973,
     "primaryType": "flying",
     "secondaryType": "fighting",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "flittle",
@@ -7501,7 +7501,7 @@
     "dexnum": 955,
     "primaryType": "psychic",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "floragato",
@@ -7541,7 +7541,7 @@
     "dexnum": 934,
     "primaryType": "rock",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "gholdengo",
@@ -7557,7 +7557,7 @@
     "dexnum": 999,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "glimmet",
@@ -7589,7 +7589,7 @@
     "dexnum": 945,
     "primaryType": "poison",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "greattusk",
@@ -7613,7 +7613,7 @@
     "dexnum": 972,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "hydrapple",
@@ -7621,7 +7621,7 @@
     "dexnum": 1019,
     "primaryType": "grass",
     "secondaryType": "dragon",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "ironboulder",
@@ -7701,7 +7701,7 @@
     "dexnum": 1006,
     "primaryType": "fairy",
     "secondaryType": "fighting",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "kilowattrel",
@@ -7717,7 +7717,7 @@
     "dexnum": 983,
     "primaryType": "dark",
     "secondaryType": "steel",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "klawf",
@@ -7741,7 +7741,7 @@
     "dexnum": 915,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "lokix",
@@ -7757,7 +7757,7 @@
     "dexnum": 943,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "maschiff",
@@ -7765,7 +7765,7 @@
     "dexnum": 942,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "maushold",
@@ -7773,7 +7773,7 @@
     "dexnum": 925,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "meowscarada",
@@ -7805,7 +7805,7 @@
     "dexnum": 932,
     "primaryType": "rock",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "naclstack",
@@ -7813,7 +7813,7 @@
     "dexnum": 933,
     "primaryType": "rock",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "nymble",
@@ -7837,7 +7837,7 @@
     "dexnum": 916,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "okidogi",
@@ -7853,7 +7853,7 @@
     "dexnum": 968,
     "primaryType": "steel",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "palafin",
@@ -7861,7 +7861,7 @@
     "dexnum": 964,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "pawmi",
@@ -7885,7 +7885,7 @@
     "dexnum": 923,
     "primaryType": "electric",
     "secondaryType": "fighting",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "pecharunt",
@@ -7901,7 +7901,7 @@
     "dexnum": 1012,
     "primaryType": "grass",
     "secondaryType": "ghost",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "quaquaval",
@@ -7909,7 +7909,7 @@
     "dexnum": 914,
     "primaryType": "water",
     "secondaryType": "fighting",
-    "spawnCount": 4
+    "spawnCount": 3
   },
   {
     "id": "quaxly",
@@ -7917,7 +7917,7 @@
     "dexnum": 912,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 3
   },
   {
     "id": "quaxwell",
@@ -7925,7 +7925,7 @@
     "dexnum": 913,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 3
   },
   {
     "id": "rabsca",
@@ -7933,7 +7933,7 @@
     "dexnum": 954,
     "primaryType": "bug",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "ragingbolt",
@@ -7949,7 +7949,7 @@
     "dexnum": 953,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "revavroom",
@@ -7957,7 +7957,7 @@
     "dexnum": 966,
     "primaryType": "steel",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "roaringmoon",
@@ -7981,7 +7981,7 @@
     "dexnum": 952,
     "primaryType": "grass",
     "secondaryType": "fire",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "screamtail",
@@ -7997,7 +7997,7 @@
     "dexnum": 944,
     "primaryType": "poison",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sinistcha",
@@ -8005,7 +8005,7 @@
     "dexnum": 1013,
     "primaryType": "grass",
     "secondaryType": "ghost",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "skeledirge",
@@ -8037,7 +8037,7 @@
     "dexnum": 918,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "sprigatito",
@@ -8053,7 +8053,7 @@
     "dexnum": 931,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "tadbulb",
@@ -8061,7 +8061,7 @@
     "dexnum": 938,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "tandemaus",
@@ -8077,7 +8077,7 @@
     "dexnum": 917,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "tatsugiri",
@@ -8085,7 +8085,7 @@
     "dexnum": 978,
     "primaryType": "dragon",
     "secondaryType": "water",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "terapagos",
@@ -8101,7 +8101,7 @@
     "dexnum": 1003,
     "primaryType": "dark",
     "secondaryType": "ground",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "tinkatink",
@@ -8109,7 +8109,7 @@
     "dexnum": 957,
     "primaryType": "fairy",
     "secondaryType": "steel",
-    "spawnCount": 3
+    "spawnCount": 5
   },
   {
     "id": "tinkaton",
@@ -8117,7 +8117,7 @@
     "dexnum": 959,
     "primaryType": "fairy",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 4
   },
   {
     "id": "tinkatuff",
@@ -8125,7 +8125,7 @@
     "dexnum": 958,
     "primaryType": "fairy",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 5
   },
   {
     "id": "toedscool",
@@ -8149,7 +8149,7 @@
     "dexnum": 965,
     "primaryType": "steel",
     "secondaryType": "poison",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "veluza",
@@ -8189,7 +8189,7 @@
     "dexnum": 1001,
     "primaryType": "dark",
     "secondaryType": "grass",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "wugtrio",
@@ -8245,7 +8245,7 @@
     "dexnum": 58,
     "primaryType": "fire",
     "secondaryType": "rock",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "lightblue_furfrou",
@@ -8373,7 +8373,7 @@
     "dexnum": 104,
     "primaryType": "ground",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "diglett_alola",
@@ -8381,7 +8381,7 @@
     "dexnum": 50,
     "primaryType": "ground",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "dugtrio_alola",
@@ -8389,7 +8389,7 @@
     "dexnum": 51,
     "primaryType": "ground",
     "secondaryType": "steel",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "electrode_hisui",
@@ -8405,7 +8405,7 @@
     "dexnum": 102,
     "primaryType": "grass",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "exeggutor_alola",
@@ -8413,7 +8413,7 @@
     "dexnum": 103,
     "primaryType": "grass",
     "secondaryType": "dragon",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "farfetchd_galar",
@@ -8421,7 +8421,7 @@
     "dexnum": 83,
     "primaryType": "fighting",
     "secondaryType": "flying",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "geodude_alola",
@@ -8437,7 +8437,7 @@
     "dexnum": 76,
     "primaryType": "rock",
     "secondaryType": "electric",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "graveler_alola",
@@ -8445,7 +8445,7 @@
     "dexnum": 75,
     "primaryType": "rock",
     "secondaryType": "electric",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "grimer_alola",
@@ -8453,7 +8453,7 @@
     "dexnum": 88,
     "primaryType": "poison",
     "secondaryType": "dark",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "koffing_galar",
@@ -8469,7 +8469,7 @@
     "dexnum": 105,
     "primaryType": "fire",
     "secondaryType": "ghost",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "meowth_alola",
@@ -8477,7 +8477,7 @@
     "dexnum": 52,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "meowth_galar",
@@ -8501,7 +8501,7 @@
     "dexnum": 122,
     "primaryType": "ice",
     "secondaryType": "psychic",
-    "spawnCount": 3
+    "spawnCount": 2
   },
   {
     "id": "muk_alola",
@@ -8509,7 +8509,7 @@
     "dexnum": 89,
     "primaryType": "poison",
     "secondaryType": "dark",
-    "spawnCount": 1
+    "spawnCount": 3
   },
   {
     "id": "ninetales_alola",
@@ -8517,7 +8517,7 @@
     "dexnum": 38,
     "primaryType": "ice",
     "secondaryType": "fairy",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "persian_alola",
@@ -8525,7 +8525,7 @@
     "dexnum": 53,
     "primaryType": "dark",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "pikachu_alola",
@@ -8549,7 +8549,7 @@
     "dexnum": 26,
     "primaryType": "electric",
     "secondaryType": "psychic",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "rapidash_galar",
@@ -8557,7 +8557,7 @@
     "dexnum": 78,
     "primaryType": "psychic",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "raticate_alola",
@@ -8573,7 +8573,7 @@
     "dexnum": 19,
     "primaryType": "dark",
     "secondaryType": "normal",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "sandshrew_alola",
@@ -8597,7 +8597,7 @@
     "dexnum": 80,
     "primaryType": "poison",
     "secondaryType": "psychic",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "slowpoke_galar",
@@ -8605,7 +8605,7 @@
     "dexnum": 79,
     "primaryType": "psychic",
     "secondaryType": "psychic",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "tauros_paldea",
@@ -8613,7 +8613,7 @@
     "dexnum": 128,
     "primaryType": "fighting",
     "secondaryType": "water",
-    "spawnCount": 3
+    "spawnCount": 1
   },
   {
     "id": "voltorb_hisui",
@@ -8621,7 +8621,7 @@
     "dexnum": 100,
     "primaryType": "electric",
     "secondaryType": "grass",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "vulpix_alola",
@@ -8637,7 +8637,7 @@
     "dexnum": 110,
     "primaryType": "poison",
     "secondaryType": "fairy",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "zapdos_galar",
@@ -8653,7 +8653,7 @@
     "dexnum": 222,
     "primaryType": "ghost",
     "secondaryType": "rock",
-    "spawnCount": 6
+    "spawnCount": 1
   },
   {
     "id": "cyndaquil_hisui",
@@ -8677,7 +8677,7 @@
     "dexnum": 172,
     "primaryType": "electric",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "quilava_hisui",
@@ -8693,7 +8693,7 @@
     "dexnum": 211,
     "primaryType": "dark",
     "secondaryType": "poison",
-    "spawnCount": 13
+    "spawnCount": 14
   },
   {
     "id": "slowking_galar",
@@ -8701,7 +8701,7 @@
     "dexnum": 199,
     "primaryType": "poison",
     "secondaryType": "psychic",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "sneasel_hisui",
@@ -8709,7 +8709,7 @@
     "dexnum": 215,
     "primaryType": "fighting",
     "secondaryType": "poison",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "typhlosion_hisui",
@@ -8933,7 +8933,7 @@
     "dexnum": 194,
     "primaryType": "poison",
     "secondaryType": "ground",
-    "spawnCount": 12
+    "spawnCount": 13
   },
   {
     "id": "castform_sunny",
@@ -9005,7 +9005,7 @@
     "dexnum": 264,
     "primaryType": "dark",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "zigzagoon_galar",
@@ -9013,7 +9013,7 @@
     "dexnum": 263,
     "primaryType": "dark",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "arceus_fighting",
@@ -9157,7 +9157,7 @@
     "dexnum": 412,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "burmy_trash",
@@ -9165,7 +9165,7 @@
     "dexnum": 412,
     "primaryType": "bug",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "cherrim_sunshine",
@@ -9189,7 +9189,7 @@
     "dexnum": 423,
     "primaryType": "water",
     "secondaryType": "ground",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "giratina_origin",
@@ -9205,7 +9205,7 @@
     "dexnum": 439,
     "primaryType": "psychic",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "palkia_origin",
@@ -9221,7 +9221,7 @@
     "dexnum": 479,
     "primaryType": "electric",
     "secondaryType": "fire",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "rotom_wash",
@@ -9229,7 +9229,7 @@
     "dexnum": 479,
     "primaryType": "electric",
     "secondaryType": "water",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "rotom_frost",
@@ -9237,7 +9237,7 @@
     "dexnum": 479,
     "primaryType": "electric",
     "secondaryType": "ice",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "rotom_fan",
@@ -9245,7 +9245,7 @@
     "dexnum": 479,
     "primaryType": "electric",
     "secondaryType": "flying",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "rotom_mow",
@@ -9253,7 +9253,7 @@
     "dexnum": 479,
     "primaryType": "electric",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "shaymin_sky",
@@ -9269,7 +9269,7 @@
     "dexnum": 422,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "wormadam_sandy",
@@ -9277,7 +9277,7 @@
     "dexnum": 413,
     "primaryType": "bug",
     "secondaryType": "ground",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "wormadam_trash",
@@ -9285,7 +9285,7 @@
     "dexnum": 413,
     "primaryType": "bug",
     "secondaryType": "steel",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "basculin_blue_striped",
@@ -9309,7 +9309,7 @@
     "dexnum": 628,
     "primaryType": "psychic",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 1
   },
   {
     "id": "darmanitan_zen",
@@ -9317,7 +9317,7 @@
     "dexnum": 555,
     "primaryType": "fire",
     "secondaryType": "psychic",
-    "spawnCount": 6
+    "spawnCount": 5
   },
   {
     "id": "darmanitan_galar",
@@ -9325,7 +9325,7 @@
     "dexnum": 555,
     "primaryType": "ice",
     "secondaryType": "fire",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "darumaka_galar",
@@ -9341,7 +9341,7 @@
     "dexnum": 585,
     "primaryType": "normal",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "deerling_autumn",
@@ -9349,7 +9349,7 @@
     "dexnum": 585,
     "primaryType": "normal",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "deerling_winter",
@@ -9357,7 +9357,7 @@
     "dexnum": 585,
     "primaryType": "normal",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "dewott_hisui",
@@ -9365,7 +9365,7 @@
     "dexnum": 502,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 3
   },
   {
     "id": "genesect_water",
@@ -9437,7 +9437,7 @@
     "dexnum": 549,
     "primaryType": "grass",
     "secondaryType": "fighting",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "meloetta_pirouette",
@@ -9453,7 +9453,7 @@
     "dexnum": 501,
     "primaryType": "water",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 3
   },
   {
     "id": "petilil_hisui",
@@ -9461,7 +9461,7 @@
     "dexnum": 548,
     "primaryType": "grass",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "rufflet_hisui",
@@ -9469,7 +9469,7 @@
     "dexnum": 627,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "samurott_hisui",
@@ -9485,7 +9485,7 @@
     "dexnum": 586,
     "primaryType": "normal",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "sawsbuck_autumn",
@@ -9493,7 +9493,7 @@
     "dexnum": 586,
     "primaryType": "normal",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "sawsbuck_winter",
@@ -9501,7 +9501,7 @@
     "dexnum": 586,
     "primaryType": "normal",
     "secondaryType": "grass",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "stunfisk_galar",
@@ -9509,7 +9509,7 @@
     "dexnum": 618,
     "primaryType": "ground",
     "secondaryType": "steel",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "thundurus_therian",
@@ -9533,7 +9533,7 @@
     "dexnum": 562,
     "primaryType": "ground",
     "secondaryType": "ghost",
-    "spawnCount": 2
+    "spawnCount": 1
   },
   {
     "id": "zoroark_hisui",
@@ -9557,7 +9557,7 @@
     "dexnum": 681,
     "primaryType": "steel",
     "secondaryType": "ghost",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "avalugg_hisui",
@@ -9573,7 +9573,7 @@
     "dexnum": 712,
     "primaryType": "ice",
     "secondaryType": "",
-    "spawnCount": 9
+    "spawnCount": 10
   },
   {
     "id": "flabebe_yellow",
@@ -9581,7 +9581,7 @@
     "dexnum": 669,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "flabebe_orange",
@@ -9589,7 +9589,7 @@
     "dexnum": 669,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "flabebe_blue",
@@ -9597,7 +9597,7 @@
     "dexnum": 669,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "flabebe_white",
@@ -9605,7 +9605,7 @@
     "dexnum": 669,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "floette_yellow",
@@ -9613,7 +9613,7 @@
     "dexnum": 670,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "floette_orange",
@@ -9621,7 +9621,7 @@
     "dexnum": 670,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "floette_blue",
@@ -9629,7 +9629,7 @@
     "dexnum": 670,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "floette_white",
@@ -9637,7 +9637,7 @@
     "dexnum": 670,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "floette_eternal",
@@ -9645,7 +9645,7 @@
     "dexnum": 670,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "florges_yellow",
@@ -9653,7 +9653,7 @@
     "dexnum": 671,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "florges_orange",
@@ -9661,7 +9661,7 @@
     "dexnum": 671,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "florges_blue",
@@ -9669,7 +9669,7 @@
     "dexnum": 671,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "florges_white",
@@ -9677,7 +9677,7 @@
     "dexnum": 671,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "furfrou_heart",
@@ -9685,7 +9685,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "furfrou_star",
@@ -9693,7 +9693,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "furfrou_diamond",
@@ -9701,7 +9701,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "furfrou_debutante",
@@ -9709,7 +9709,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "furfrou_matron",
@@ -9717,7 +9717,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "furfrou_dandy",
@@ -9725,7 +9725,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "furfrou_la_reine",
@@ -9733,7 +9733,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "furfrou_kabuki",
@@ -9741,7 +9741,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "furfrou_pharaoh",
@@ -9749,7 +9749,7 @@
     "dexnum": 676,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "goodra_hisui",
@@ -9765,7 +9765,7 @@
     "dexnum": 704,
     "primaryType": "dragon",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "gourgeist_small",
@@ -9773,7 +9773,7 @@
     "dexnum": 711,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "gourgeist_large",
@@ -9781,7 +9781,7 @@
     "dexnum": 711,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "gourgeist_super",
@@ -9789,7 +9789,7 @@
     "dexnum": 711,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "greninja_bond",
@@ -9829,7 +9829,7 @@
     "dexnum": 710,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pumpkaboo_large",
@@ -9837,7 +9837,7 @@
     "dexnum": 710,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "pumpkaboo_super",
@@ -9845,7 +9845,7 @@
     "dexnum": 710,
     "primaryType": "ghost",
     "secondaryType": "grass",
-    "spawnCount": 2
+    "spawnCount": 3
   },
   {
     "id": "sliggoo_hisui",
@@ -9861,7 +9861,7 @@
     "dexnum": 666,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "xerneas_active",
@@ -9949,7 +9949,7 @@
     "dexnum": 778,
     "primaryType": "ghost",
     "secondaryType": "fairy",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "minior_meteor",
@@ -9989,7 +9989,7 @@
     "dexnum": 741,
     "primaryType": "electric",
     "secondaryType": "flying",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "oricorio_pa_u",
@@ -9997,7 +9997,7 @@
     "dexnum": 741,
     "primaryType": "psychic",
     "secondaryType": "flying",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "oricorio_sensu",
@@ -10005,7 +10005,7 @@
     "dexnum": 741,
     "primaryType": "ghost",
     "secondaryType": "flying",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "rockruff_own_tempo",
@@ -10013,7 +10013,7 @@
     "dexnum": 744,
     "primaryType": "rock",
     "secondaryType": "",
-    "spawnCount": 6
+    "spawnCount": 7
   },
   {
     "id": "rowlet_hisui",
@@ -10173,7 +10173,7 @@
     "dexnum": 869,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "alcremie_matcha_cream",
@@ -10181,7 +10181,7 @@
     "dexnum": 869,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "alcremie_mint_cream",
@@ -10189,7 +10189,7 @@
     "dexnum": 869,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "alcremie_lemon_cream",
@@ -10197,7 +10197,7 @@
     "dexnum": 869,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "alcremie_salted_cream",
@@ -10205,7 +10205,7 @@
     "dexnum": 869,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "alcremie_ruby_swirl",
@@ -10213,7 +10213,7 @@
     "dexnum": 869,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "alcremie_caramel_swirl",
@@ -10221,7 +10221,7 @@
     "dexnum": 869,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "alcremie_rainbow_swirl",
@@ -10229,7 +10229,7 @@
     "dexnum": 869,
     "primaryType": "fairy",
     "secondaryType": "",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "calyrex_ice",
@@ -10253,7 +10253,7 @@
     "dexnum": 845,
     "primaryType": "flying",
     "secondaryType": "water",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "cramorant_gorging",
@@ -10261,7 +10261,7 @@
     "dexnum": 845,
     "primaryType": "flying",
     "secondaryType": "water",
-    "spawnCount": 8
+    "spawnCount": 9
   },
   {
     "id": "eiscue_noice_face",
@@ -10285,7 +10285,7 @@
     "dexnum": 876,
     "primaryType": "psychic",
     "secondaryType": "normal",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "morpeko_hangry",
@@ -10293,7 +10293,7 @@
     "dexnum": 877,
     "primaryType": "electric",
     "secondaryType": "dark",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "polteageist_antique",
@@ -10301,7 +10301,7 @@
     "dexnum": 855,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sinistea_antique",
@@ -10309,7 +10309,7 @@
     "dexnum": 854,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "toxtricity_low_key",
@@ -10317,7 +10317,7 @@
     "dexnum": 849,
     "primaryType": "electric",
     "secondaryType": "poison",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "urshifu_rapid_strike",
@@ -10357,7 +10357,7 @@
     "dexnum": 902,
     "primaryType": "water",
     "secondaryType": "ghost",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "enamorus_therian",
@@ -10389,7 +10389,7 @@
     "dexnum": 999,
     "primaryType": "ghost",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 6
   },
   {
     "id": "maushold_four",
@@ -10397,7 +10397,7 @@
     "dexnum": 925,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "ogerpon_wellspring",
@@ -10461,7 +10461,7 @@
     "dexnum": 916,
     "primaryType": "normal",
     "secondaryType": "",
-    "spawnCount": 3
+    "spawnCount": 4
   },
   {
     "id": "poltchageist_artisan",
@@ -10469,7 +10469,7 @@
     "dexnum": 1012,
     "primaryType": "grass",
     "secondaryType": "ghost",
-    "spawnCount": 1
+    "spawnCount": 2
   },
   {
     "id": "sinistcha_masterpiece",
@@ -10477,7 +10477,7 @@
     "dexnum": 1013,
     "primaryType": "grass",
     "secondaryType": "ghost",
-    "spawnCount": 0
+    "spawnCount": 1
   },
   {
     "id": "squawkabilly_blue",
@@ -10485,7 +10485,7 @@
     "dexnum": 931,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "squawkabilly_yellow",
@@ -10493,7 +10493,7 @@
     "dexnum": 931,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "squawkabilly_white",
@@ -10501,7 +10501,7 @@
     "dexnum": 931,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "spawnCount": 4
+    "spawnCount": 5
   },
   {
     "id": "tatsugiri_droopy",
@@ -10509,7 +10509,7 @@
     "dexnum": 978,
     "primaryType": "dragon",
     "secondaryType": "water",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "tatsugiri_stretchy",
@@ -10517,7 +10517,7 @@
     "dexnum": 978,
     "primaryType": "dragon",
     "secondaryType": "water",
-    "spawnCount": 5
+    "spawnCount": 6
   },
   {
     "id": "terapagos_terastal",

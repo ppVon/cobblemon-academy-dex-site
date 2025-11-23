@@ -138,14 +138,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "lele_totem",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_jungle",
@@ -163,10 +161,10 @@
             "wythers:tropical_grassland",
             "wythers:tropical_island",
             "wythers:tropical_rainforest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-tapulele.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-tapulele.json",
+        "keyItem": "myths_and_legends:lele_totem"
       }
     ],
     [
@@ -174,14 +172,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "lele_totem",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:stony_shore",
@@ -203,10 +199,10 @@
             "wythers:temperate_island",
             "wythers:tropical_island",
             "wythers:warm_stony_shore"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-tapulele.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-tapulele.json",
+        "keyItem": "myths_and_legends:lele_totem"
       }
     ]
   ],

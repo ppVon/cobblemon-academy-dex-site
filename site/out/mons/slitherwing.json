@@ -127,13 +127,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:starlight_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_forest/ultra-rare_starlight_forest.json"
       }
@@ -149,17 +146,17 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_arid",
             "#cobblemon:is_jungle",
             "#cobblemon:is_badlands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/slitherwing.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/slitherwing.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -173,14 +170,11 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_nether_crimson",
             "minecraft:crimson_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/slitherwing.json"
       }

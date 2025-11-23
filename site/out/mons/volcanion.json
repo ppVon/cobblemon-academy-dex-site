@@ -163,15 +163,12 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:warm_shore"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/warm_shore/ultra-rare_torreya_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/warm_shore/ultra-rare_warm_shore.json"
       }
     ],
     [
@@ -180,18 +177,15 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#minecraft:is_nether"
-          ],
-          "exclude": []
+            "minecraft:crimson_forest"
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-volcanion.json"
       }
@@ -202,26 +196,15 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#cobblemon:is_volcanic",
-            "terralith:cave/mantle_caves",
-            "terralith:volcanic_crater",
-            "terralith:volcanic_peaks",
-            "wythers:icy_volcano",
-            "wythers:tropical_volcano",
-            "wythers:volcano",
-            "wythers:volcanic_chamber",
-            "wythers:volcanic_crater"
-          ],
-          "exclude": []
+            "#cobblemon:is_volcanic"
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-volcanion.json"
       }

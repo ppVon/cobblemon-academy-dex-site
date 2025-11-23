@@ -148,14 +148,7 @@
   "evolutions": [],
   "spawns": [],
   "implemented": false,
-  "images": {
-    "normal": [
-      "out/sprites/cobblemon/furfrou.png"
-    ],
-    "shiny": [
-      "out/sprites/cobblemon/furfrou_shiny.png"
-    ]
-  },
+  "images": {},
   "speciesSources": [
     "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\custom\\pink_furfrou.json"
   ]

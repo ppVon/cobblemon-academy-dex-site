@@ -202,37 +202,21 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0083_farfetchd.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "uncommon",
-        "weight": 6.7,
-        "levels": "24-41",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#eternal_starlight:is_starlight_forest"
-          ],
-          "exclude": []
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0083_farfetchd.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "cobblemon:medicinal_leek"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/uncommon_is_starlight_forest.json"
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ]
   ],

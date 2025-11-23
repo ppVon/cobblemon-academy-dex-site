@@ -115,21 +115,19 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "scaly_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_nether"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regidrago.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regidrago.json",
+        "keyItem": "myths_and_legends:scaly_tablet"
       }
     ],
     [
@@ -137,14 +135,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "scaly_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:the_end",
@@ -152,10 +148,10 @@
             "minecraft:end_highlands",
             "minecraft:end_midlands",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regidrago.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regidrago.json",
+        "keyItem": "myths_and_legends:scaly_tablet"
       }
     ],
     [
@@ -163,14 +159,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "ancient_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:the_end",
@@ -178,10 +172,10 @@
             "minecraft:end_highlands",
             "minecraft:end_midlands",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regidrago.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regidrago.json",
+        "keyItem": "myths_and_legends:ancient_tablet"
       }
     ],
     [
@@ -189,14 +183,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "ancient_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:the_end",
@@ -204,10 +196,10 @@
             "minecraft:end_highlands",
             "minecraft:end_midlands",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regidrago.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regidrago.json",
+        "keyItem": "myths_and_legends:ancient_tablet"
       }
     ]
   ],

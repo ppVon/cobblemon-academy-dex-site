@@ -157,25 +157,43 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 4.1,
         "levels": "15-32",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:dark_forest",
             "minecraft:flower_forest",
             "#cobblemon:is_jungle",
             "#cobblemon:is_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0877_morpeko.json"
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0877_morpeko.json",
+        "sky": {
+          "canSeeSky": true
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 6.0,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/rare_scarlet_forest.json"
       }
     ],
     [
@@ -189,39 +207,35 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_spooky",
             "#cobblemon:is_magical"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0877_morpeko.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 4.1,
         "levels": "15-32",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:dark_forest",
             "minecraft:flower_forest",
             "#cobblemon:is_jungle",
             "#cobblemon:is_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0877_morpeko.json"
+        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0877_morpeko.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

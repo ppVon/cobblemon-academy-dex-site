@@ -132,20 +132,35 @@
   "spawns": [
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 9.1,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/rare_dark_swamp.json"
+      }
+    ],
+    [
+      {
         "rarity": "uncommon",
         "weight": 10.0,
         "levels": "10-25",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_spooky"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0854_sinistea.json"
       }

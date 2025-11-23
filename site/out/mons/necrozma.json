@@ -180,21 +180,19 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "necro_prism",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_deep_dark"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-necrozma.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-necrozma.json",
+        "keyItem": "myths_and_legends:necro_prism"
       }
     ],
     [
@@ -202,14 +200,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "necro_prism",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:the_end",
@@ -217,10 +213,10 @@
             "minecraft:end_highlands",
             "minecraft:end_midlands",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-necrozma.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-necrozma.json",
+        "keyItem": "myths_and_legends:necro_prism"
       }
     ]
   ],

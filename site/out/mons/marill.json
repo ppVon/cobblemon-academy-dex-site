@@ -192,22 +192,40 @@
   "spawns": [
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 3.5,
+        "levels": "4-18",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/common_starlight_permafrost_forest.json"
+      }
+    ],
+    [
+      {
         "rarity": "uncommon",
         "weight": 6.8,
         "levels": "20-35",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_river"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/marill.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/marill.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

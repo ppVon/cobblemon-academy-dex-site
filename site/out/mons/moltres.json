@@ -165,22 +165,20 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "tidal_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:badlands",
             "minecraft:windswept_hills"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-moltres.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-moltres.json",
+        "keyItem": "myths_and_legends:tidal_bell_moltres"
       }
     ],
     [
@@ -188,23 +186,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "tidal_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_volcanic",
             "#cobblemon:is_thermal",
             "#cobblemon:is_sky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-moltres.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-moltres.json",
+        "keyItem": "myths_and_legends:tidal_bell_moltres"
       }
     ]
   ],

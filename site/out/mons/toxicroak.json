@@ -179,22 +179,40 @@
   "spawns": [
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 2.2,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/rare_dark_swamp.json"
+      }
+    ],
+    [
+      {
         "rarity": "uncommon",
         "weight": 5,
         "levels": "37-65",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0454_toxicroak.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0454_toxicroak.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

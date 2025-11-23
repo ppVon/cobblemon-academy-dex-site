@@ -140,23 +140,22 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 2.5,
         "levels": "13-34",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_coast",
             "#cobblemon:is_island"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/grapploct.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/grapploct.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -170,16 +169,16 @@
         "contexts": [
           "surface"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_river",
             "#cobblemon:is_freshwater"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/grapploct.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/grapploct.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

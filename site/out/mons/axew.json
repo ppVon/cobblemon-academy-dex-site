@@ -195,21 +195,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "rare",
-        "weight": 3.5,
-        "levels": "1-19",
+        "rarity": "ultra-rare",
+        "weight": 4.1,
+        "levels": "31-48",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:starlight_permafrost_forest"
-          ],
-          "exclude": []
+            "#eternal_starlight:is_starlight_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/ultra-rare_is_starlight_forest.json"
       }
     ],
     [
@@ -224,15 +221,12 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain",
             "#minecraft:is_taiga",
             "terralith:alpine_highlands"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/axew.json"
       }
@@ -248,8 +242,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -259,7 +251,11 @@
             "#cobblemon:is_mountain"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/axew.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/axew.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
@@ -273,36 +269,32 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "betterend:dragon_graveyards"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/axew.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 3,
         "levels": "10-29",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain",
             "#cobblemon:is_highlands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/axew.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/axew.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

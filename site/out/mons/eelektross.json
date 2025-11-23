@@ -187,13 +187,30 @@
           "water"
         ],
         "rarity": "rare",
+        "weight": 4.1,
+        "levels": "18-41",
+        "contexts": [
+          "submerged"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_safari_ocean"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/rare_is_safari_ocean.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "rare",
         "weight": 0.1,
         "levels": "39-60",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cave"
@@ -202,7 +219,10 @@
             "#cobblemon:is_lush"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektross.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektross.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
@@ -216,28 +236,25 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_lush"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektross.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektross.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 0.8,
         "levels": "39-60",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cave"
@@ -246,27 +263,29 @@
             "#cobblemon:is_lush"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektross.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektross.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 0.9,
         "levels": "39-60",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_lush"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektross.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektross.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ]
   ],

@@ -180,14 +180,12 @@
           "freshwater",
           "underwater"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "45-70",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "blue_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_ocean",
@@ -195,10 +193,10 @@
             "minecraft:deep_frozen_ocean",
             "minecraft:deep_ocean",
             "minecraft:ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyogre.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyogre.json",
+        "keyItem": "myths_and_legends:blue_orb"
       }
     ],
     [
@@ -207,22 +205,20 @@
           "freshwater",
           "underwater"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "45-70",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "blue_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_deep_ocean",
             "#cobblemon:is_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyogre.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyogre.json",
+        "keyItem": "myths_and_legends:blue_orb"
       }
     ]
   ],

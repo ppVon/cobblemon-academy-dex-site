@@ -144,23 +144,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "sapling_of_life",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:flower_forest",
             "minecraft:forest",
             "minecraft:meadow"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-xerneas.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-xerneas.json",
+        "keyItem": "myths_and_legends:sapling_of_life"
       }
     ],
     [
@@ -168,23 +166,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "sapling_of_life",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
             "#cobblemon:is_magical",
             "#cobblemon:is_floral"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-xerneas.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-xerneas.json",
+        "keyItem": "myths_and_legends:sapling_of_life"
       }
     ]
   ],

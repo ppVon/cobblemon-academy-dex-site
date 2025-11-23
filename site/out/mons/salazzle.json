@@ -205,36 +205,8 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#cobblemon:is_volcanic"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0758_salazzle.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "common",
-        "weight": 0.1,
-        "levels": "33-48",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_badlands",
-            "#cobblemon:is_mountain"
-          ],
-          "exclude": [
             "#cobblemon:is_volcanic"
           ]
         },
@@ -252,13 +224,45 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_badlands",
+            "#cobblemon:is_mountain"
+          ],
+          "exclude": [
+            "#cobblemon:is_volcanic"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0758_salazzle.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:lava"
+          ],
+          "resolved": [
+            "#minecraft:lava"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.1,
+        "levels": "33-48",
+        "contexts": [
+          "grounded"
+        ],
         "biomeTags": {
           "include": [
             "#cobblemon:nether/is_basalt"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0758_salazzle.json"
       }
@@ -274,13 +278,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:nether/is_desert"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0758_salazzle.json"
       }

@@ -244,17 +244,17 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
             "#cobblemon:is_mountain",
             "#cobblemon:is_taiga"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0217_ursaring.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0217_ursaring.json",
+        "yLevel": {
+          "minY": 48
+        }
       }
     ],
     [
@@ -268,35 +268,28 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "aether:skyroot_forest",
             "aether:skyroot_woodland"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0217_ursaring.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 0.19,
         "levels": "30-50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "the_bumblezone:crystal_canyon",
             "the_bumblezone:floral_meadow"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0217_ursaring.json"
       }
@@ -307,20 +300,17 @@
           "natural"
         ],
         "rarity": "uncommon",
-        "weight": 2.1,
-        "levels": "34-51",
+        "weight": 1.7,
+        "levels": "18-34",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#eternal_starlight:is_starlight_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/uncommon_is_starlight_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/uncommon_starlight_permafrost_forest.json"
       }
     ]
   ],

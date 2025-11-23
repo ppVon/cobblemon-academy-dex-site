@@ -151,40 +151,36 @@
           "natural"
         ],
         "rarity": "uncommon",
-        "weight": 0.6,
-        "levels": "20-39",
+        "weight": 1.4,
+        "levels": "18-34",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:dark_swamp"
-          ],
-          "exclude": []
+            "eternal_starlight:scarlet_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/uncommon_dark_swamp.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/uncommon_scarlet_forest.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 2.5,
         "levels": "15-32",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_arid"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/pawmo.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/pawmo.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

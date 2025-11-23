@@ -153,22 +153,23 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 9.2,
         "levels": "15-40",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0137_porygon.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0137_porygon.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "cobblemon:pc"
+          ]
+        }
       }
     ],
     [
@@ -177,20 +178,17 @@
           "natural"
         ],
         "rarity": "rare",
-        "weight": 1.8,
-        "levels": "21-48",
+        "weight": 3.2,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#eternal_starlight:is_starlight_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:crystallized_desert"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/rare_is_starlight_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/rare_crystallized_desert.json"
       }
     ]
   ],

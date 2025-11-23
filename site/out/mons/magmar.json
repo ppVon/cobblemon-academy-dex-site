@@ -208,14 +208,75 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_hills"
           ],
           "exclude": [
             "#cobblemon:is_volcanic"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0126_magmar.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:lava",
+            "minecraft:magma_block"
+          ],
+          "resolved": [
+            "#minecraft:lava",
+            "minecraft:magma_block"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": false
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.95,
+        "levels": "30-50",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_volcanic"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0126_magmar.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": false
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.95,
+        "levels": "30-50",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:nether/is_basalt",
+            "#cobblemon:nether/is_wasteland"
           ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0126_magmar.json"
@@ -226,44 +287,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
-        "weight": 0.95,
-        "levels": "30-50",
+        "rarity": "rare",
+        "weight": 6.5,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#cobblemon:is_volcanic"
-          ],
-          "exclude": []
+            "eternal_starlight:scarlet_forest"
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0126_magmar.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "common",
-        "weight": 0.95,
-        "levels": "30-50",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:nether/is_basalt",
-            "#cobblemon:nether/is_wasteland"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0126_magmar.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/rare_scarlet_forest.json"
       }
     ]
   ],

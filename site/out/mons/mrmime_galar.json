@@ -209,28 +209,6 @@
     [
       {
         "presets": [
-          "natural"
-        ],
-        "rarity": "uncommon",
-        "weight": 3.3,
-        "levels": "26-46",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "eternal_starlight:starlight_permafrost_forest"
-          ],
-          "exclude": []
-        },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/uncommon_starlight_permafrost_forest.json"
-      }
-    ],
-    [
-      {
-        "presets": [
           "village"
         ],
         "rarity": "uncommon",
@@ -239,15 +217,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_freezing"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/mrmime.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/mrmime.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -261,15 +239,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_freezing"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/mrmime.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/mrmime.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

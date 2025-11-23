@@ -134,23 +134,24 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "reveal_glass_enamorus",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:flower_forest",
             "minecraft:meadow",
             "minecraft:cherry_grove"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-enamorus.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-enamorus.json",
+        "keyItem": "myths_and_legends:reveal_glass_enamorus",
+        "weather": {
+          "isThundering": true
+        }
       }
     ]
   ],

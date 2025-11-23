@@ -190,23 +190,40 @@
         "presets": [
           "natural"
         ],
+        "rarity": "common",
+        "weight": 1.4,
+        "levels": "4-18",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/common_starlight_permafrost_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
         "rarity": "rare",
         "weight": 9.0,
         "levels": "5-35",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_magical"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0577_solosis.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0577_solosis.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

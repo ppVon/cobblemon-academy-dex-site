@@ -158,36 +158,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "ancient_tablet",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_deep_dark"
-          ],
-          "exclude": []
-        },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regigigas.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "common",
-        "weight": 3.0,
-        "levels": "70",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "ancient_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_savanna",
@@ -200,41 +176,10 @@
             "terralith:savanna_slopes",
             "minecraft:savanna_plateau",
             "#cobblemon:is_savanna"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regigigas.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "common",
-        "weight": 3.0,
-        "levels": "70",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#minecraft:is_savanna",
-            "#minecraft:savanna_plateau",
-            "#wythers:is_dark_forest",
-            "terralith:savanna_slopes",
-            "terralith:ashen_savanna",
-            "terralith:fractured_savanna",
-            "terralith:savanna_badlands",
-            "terralith:savanna_slopes",
-            "minecraft:savanna_plateau",
-            "#cobblemon:is_savanna"
-          ],
-          "exclude": []
-        },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regigigas.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regigigas.json",
+        "keyItem": "myths_and_legends:ancient_tablet"
       }
     ]
   ],

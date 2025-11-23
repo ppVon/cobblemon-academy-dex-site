@@ -204,21 +204,59 @@
         "presets": [
           "natural"
         ],
+        "rarity": "rare",
+        "weight": 8.8,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/rare_dark_swamp.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 3.6,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/uncommon_dark_swamp.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
         "rarity": "uncommon",
         "weight": 9.0,
         "levels": "38-48",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_beach"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0089_muk_alolan.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/genomons/spawn_pool_world/0089_muk_alolan.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

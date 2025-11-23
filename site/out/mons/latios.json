@@ -210,23 +210,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "30-50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "eon_ticket_latios",
-        "times": [],
         "biomeTags": {
           "include": [
             "terralith:mirage_isles",
             "minecraft:plains",
             "minecraft:mountain_edge"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-latios.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-latios.json",
+        "keyItem": "myths_and_legends:eon_ticket_latios"
       }
     ],
     [
@@ -234,23 +232,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "30-50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "eon_ticket_latios",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_coast",
             "#cobblemon:is_temperate",
             "#cobblemon:is_beach"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-latios.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-latios.json",
+        "keyItem": "myths_and_legends:eon_ticket_latios"
       }
     ]
   ],

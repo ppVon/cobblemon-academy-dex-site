@@ -124,19 +124,35 @@
         "presets": [
           "natural"
         ],
+        "rarity": "common",
+        "weight": 1.8,
+        "levels": "4-18",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/common_crystallized_desert.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
         "rarity": "uncommon",
         "weight": 0.9,
         "levels": "5-50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_jungle"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/0953_rellor.json"
       }

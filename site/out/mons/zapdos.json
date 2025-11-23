@@ -167,22 +167,20 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "tidal_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:plains",
             "minecraft:savanna"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zapdos.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zapdos.json",
+        "keyItem": "myths_and_legends:tidal_bell_zapdos"
       }
     ],
     [
@@ -190,22 +188,20 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "tidal_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_sky",
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zapdos.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zapdos.json",
+        "keyItem": "myths_and_legends:tidal_bell_zapdos"
       }
     ]
   ],

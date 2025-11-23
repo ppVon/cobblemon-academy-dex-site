@@ -118,20 +118,17 @@
           "natural"
         ],
         "rarity": "common",
-        "weight": 5.6,
-        "levels": "10-18",
+        "weight": 2.8,
+        "levels": "4-18",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#eternal_starlight:is_starlight_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:scarlet_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/common_is_starlight_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/common_scarlet_forest.json"
       }
     ],
     [
@@ -145,15 +142,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_savanna"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/nymble.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/nymble.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

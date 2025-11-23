@@ -181,8 +181,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -191,7 +189,11 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0019_rattata.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0019_rattata.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
@@ -205,8 +207,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -215,7 +215,10 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0019_rattata.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0019_rattata.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
@@ -229,17 +232,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "night"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_spooky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0019_rattata.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0019_rattata.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -253,15 +255,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_spooky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0019_rattata.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0019_rattata.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
@@ -275,8 +277,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -285,7 +285,11 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0019_rattata.json"
+        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0019_rattata.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
@@ -299,8 +303,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -309,7 +311,10 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0019_rattata.json"
+        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0019_rattata.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
@@ -323,17 +328,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "night"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_spooky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0019_rattata.json"
+        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0019_rattata.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -347,15 +351,34 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_spooky"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0019_rattata.json"
+        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0019_rattata.json",
+        "sky": {
+          "canSeeSky": false
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 1.6,
+        "levels": "4-19",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/common_dark_swamp.json"
       }
     ]
   ],

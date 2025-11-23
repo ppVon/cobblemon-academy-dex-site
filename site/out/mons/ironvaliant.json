@@ -169,7 +169,27 @@
   "forms": [],
   "types": [],
   "evolutions": [],
-  "spawns": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 1.4,
+        "levels": "31-53",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_dense_forest/ultra-rare_starlight_dense_forest.json"
+      }
+    ]
+  ],
   "implemented": false,
   "images": {
     "normal": [

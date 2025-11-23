@@ -242,8 +242,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#aether:is_aether",
@@ -253,7 +251,11 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0094_gengar.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0094_gengar.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 0
+        }
       }
     ],
     [
@@ -267,14 +269,57 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
           ],
           "exclude": [
             "#cobblemon:is_deep_dark"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0094_gengar.json",
+        "sky": {
+          "canSeeSky": false
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.05,
+        "levels": "36-50",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_spooky"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0094_gengar.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.05,
+        "levels": "36-50",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_nether"
           ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0094_gengar.json"
@@ -291,52 +336,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_spooky"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0094_gengar.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "common",
-        "weight": 0.05,
-        "levels": "36-50",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#minecraft:is_nether"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0094_gengar.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "common",
-        "weight": 0.05,
-        "levels": "36-50",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#aether:is_aether",
@@ -347,7 +346,11 @@
             "#cobblemon:is_deep_dark"
           ]
         },
-        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0094_gengar.json"
+        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0094_gengar.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 0
+        }
       }
     ],
     [
@@ -361,14 +364,57 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
           ],
           "exclude": [
             "#cobblemon:is_deep_dark"
+          ]
+        },
+        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0094_gengar.json",
+        "sky": {
+          "canSeeSky": false
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.05,
+        "levels": "36-50",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_spooky"
+          ]
+        },
+        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0094_gengar.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.05,
+        "levels": "36-50",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#minecraft:is_nether"
           ]
         },
         "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0094_gengar.json"
@@ -379,43 +425,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
-        "weight": 0.05,
-        "levels": "36-50",
+        "rarity": "rare",
+        "weight": 3.2,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#cobblemon:is_spooky"
-          ],
-          "exclude": []
+            "eternal_starlight:dark_swamp"
+          ]
         },
-        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0094_gengar.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "common",
-        "weight": 0.05,
-        "levels": "36-50",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#minecraft:is_nether"
-          ],
-          "exclude": []
-        },
-        "source": "datapacks/Academy/data/cobblemon/spawn_pool_world/0094_gengar.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/rare_dark_swamp.json"
       }
     ]
   ],

@@ -95,7 +95,30 @@
   "forms": [],
   "types": [],
   "evolutions": [],
-  "spawns": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "summons",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "minecraft:soul_sand_valley",
+            "regions_unexplored:infernal_holt",
+            "#cobblemon:is_volcanic"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/legendaries/chiyu.json",
+        "keyItem": "academy:beads_of_ruin"
+      }
+    ]
+  ],
   "implemented": false,
   "images": {
     "normal": [

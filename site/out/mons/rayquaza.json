@@ -223,14 +223,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "jade_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "terralith:skylands_autumn",
@@ -239,10 +237,10 @@
             "terralith:skylands_winter",
             "#cobblemon:is_jungle",
             "#minecraft:is_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-rayquaza.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-rayquaza.json",
+        "keyItem": "myths_and_legends:jade_orb"
       }
     ],
     [
@@ -250,14 +248,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "jade_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_sky",
@@ -267,10 +263,10 @@
             "#cobblemon:is_end",
             "#cobblemon:is_jungle",
             "#minecraft:is_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-rayquaza.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-rayquaza.json",
+        "keyItem": "myths_and_legends:jade_orb"
       }
     ]
   ],

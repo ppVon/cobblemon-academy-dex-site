@@ -192,22 +192,21 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 1.5,
         "levels": "29-45",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_hills"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0745_lycanroc.json"
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0745_lycanroc.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -215,41 +214,37 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
-        "weight": 0.3,
-        "levels": "29-43",
+        "rarity": "rare",
+        "weight": 8.9,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:starlight_permafrost_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:crystallized_desert"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/common_starlight_permafrost_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/rare_crystallized_desert.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 1.5,
         "levels": "29-45",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_hills"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0745_lycanroc.json"
+        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0745_lycanroc.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

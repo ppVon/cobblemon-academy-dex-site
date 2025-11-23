@@ -89,6 +89,25 @@
     [
       {
         "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 2.6,
+        "levels": "4-18",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/common_scarlet_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
           "natural",
           "treetop"
         ],
@@ -98,8 +117,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
@@ -109,7 +126,12 @@
             "#cobblemon:is_freezing"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/silcoon.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/silcoon.json",
+        "sky": {
+          "canSeeSky": true,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ]
   ],

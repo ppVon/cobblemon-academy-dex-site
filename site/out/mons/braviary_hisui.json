@@ -190,54 +190,20 @@
     [
       {
         "presets": [
-          "natural",
-          "treetop",
-          "wild"
+          "natural"
         ],
-        "rarity": "common",
-        "weight": 0.2,
-        "levels": "54-59",
+        "rarity": "rare",
+        "weight": 2.2,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
-            "#cobblemon:is_badlands",
-            "#cobblemon:is_hills"
-          ],
-          "exclude": []
+            "eternal_starlight:starlight_permafrost_forest"
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0628_braviary.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural",
-          "treetop",
-          "wild"
-        ],
-        "rarity": "common",
-        "weight": 1.0,
-        "levels": "54-59",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_sky"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0628_braviary.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
       }
     ]
   ],

@@ -153,20 +153,17 @@
           "water"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.6,
+        "weight": 0.3,
         "levels": "31-48",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:shimmer_river"
-          ],
-          "exclude": []
+            "#eternal_starlight:is_safari_ocean"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/shimmer_river/ultra-rare_shimmer_river.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/ultra-rare_is_safari_ocean.json"
       }
     ],
     [
@@ -175,19 +172,16 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "5-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:mushroom_fields",
             "minecraft:windswept_gravelly_hills"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-jirachi.json"
       }
@@ -198,19 +192,16 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "5-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_magical",
             "#cobblemon:is_sparse"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-jirachi.json"
       }

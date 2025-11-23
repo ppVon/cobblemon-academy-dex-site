@@ -150,14 +150,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "zygarde_cube",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:birch_forest",
@@ -165,10 +163,10 @@
             "minecraft:jungle",
             "minecraft:mangrove_swamp",
             "minecraft:swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zygarde100.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zygarde100.json",
+        "keyItem": "myths_and_legends:zygarde_cube"
       }
     ],
     [
@@ -176,23 +174,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "zygarde_cube",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
             "#cobblemon:is_cave",
             "#cobblemon:is_swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zygarde100.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zygarde100.json",
+        "keyItem": "myths_and_legends:zygarde_cube"
       }
     ],
     [
@@ -200,23 +196,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "zygarde_cell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
             "#cobblemon:is_cave",
             "#cobblemon:is_swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zygarde100.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zygarde100.json",
+        "keyItem": "myths_and_legends:zygarde_cell"
       }
     ],
     [
@@ -224,23 +218,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "zygarde_core",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
             "#cobblemon:is_cave",
             "#cobblemon:is_swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zygarde100.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zygarde100.json",
+        "keyItem": "myths_and_legends:zygarde_core"
       }
     ]
   ],

@@ -102,46 +102,40 @@
   "spawns": [
     [
       {
-        "presets": [],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "shaderoot_carrot",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
             "#cobblemon:is_dark_forest",
             "#cobblemon:is_plains"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-spectrier.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-spectrier.json",
+        "keyItem": "myths_and_legends:shaderoot_carrot"
       }
     ],
     [
       {
-        "presets": [],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "shaderoot_carrot",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
             "#cobblemon:is_spooky",
             "#cobblemon:is_plains"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-spectrier.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-spectrier.json",
+        "keyItem": "myths_and_legends:shaderoot_carrot"
       }
     ]
   ],

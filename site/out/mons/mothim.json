@@ -140,80 +140,83 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 15.0,
         "levels": "45-65",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "biomesoplenty:maple_woods"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0414_mothim.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 2,
         "levels": "28-45",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0414_mothim.json"
       }
     ],
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 8.1,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/rare_scarlet_forest.json"
+      }
+    ],
+    [
+      {
         "rarity": "rare",
         "weight": 15.0,
         "levels": "45-65",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "biomesoplenty:maple_woods"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0414_mothim.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 2,
         "levels": "28-45",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0414_mothim.json"
       }

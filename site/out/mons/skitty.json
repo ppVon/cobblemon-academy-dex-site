@@ -188,20 +188,17 @@
           "natural"
         ],
         "rarity": "common",
-        "weight": 5.8,
-        "levels": "4-29",
+        "weight": 3.1,
+        "levels": "4-19",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:crystallized_desert"
-          ],
-          "exclude": []
+            "#eternal_starlight:is_starlight_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/common_crystallized_desert.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/common_is_starlight_forest.json"
       }
     ],
     [
@@ -216,8 +213,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -227,7 +222,13 @@
             "#cobblemon:is_freezing"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/skitty.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/skitty.json",
+        "sky": {
+          "canSeeSky": true
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ],
     [
@@ -242,15 +243,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_arid"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/skitty.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/skitty.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -264,15 +265,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:cherry_grove"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/skitty.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/skitty.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

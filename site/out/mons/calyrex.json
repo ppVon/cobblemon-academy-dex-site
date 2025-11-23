@@ -129,22 +129,20 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "reins_of_unity",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_autumn",
             "minecraft:flower_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-calyrex.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-calyrex.json",
+        "keyItem": "myths_and_legends:reins_of_unity"
       }
     ]
   ],

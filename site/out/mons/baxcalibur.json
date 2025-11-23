@@ -147,43 +147,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "rare",
-        "weight": 0.3,
-        "levels": "54-61",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "eternal_starlight:starlight_permafrost_forest"
-          ],
-          "exclude": []
-        },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
         "rarity": "ultra-rare",
         "weight": 5.0,
         "levels": "58-67",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_glacial"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/baxcalibur.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/baxcalibur.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

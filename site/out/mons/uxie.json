@@ -202,14 +202,12 @@
         "presets": [
           "water_surface"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50",
         "contexts": [
           "surface"
         ],
-        "keyItem": "uxie_claw",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:mangrove_swamp",
@@ -221,10 +219,10 @@
             "terralith:ice_marsh",
             "terralith:orchid_swampc",
             "wythers:billabong"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-uxie.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-uxie.json",
+        "keyItem": "myths_and_legends:uxie_claw"
       }
     ],
     [
@@ -232,14 +230,12 @@
         "presets": [
           "water_surface"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50",
         "contexts": [
           "surface"
         ],
-        "keyItem": "uxie_claw",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_river",
@@ -247,10 +243,10 @@
             "#minecraft:is_river",
             "wythers:tropical_forest_river",
             "#cobblemon:is_freshwater"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-uxie.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-uxie.json",
+        "keyItem": "myths_and_legends:uxie_claw"
       }
     ]
   ],

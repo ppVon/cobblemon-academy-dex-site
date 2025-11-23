@@ -134,22 +134,35 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 7.0,
         "levels": "20-75",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0479_rotom.json"
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0479_rotom.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "minecraft:redstone_block",
+            "minecraft:repeater",
+            "minecraft:redstone_torch",
+            "minecraft:daylight_detector",
+            "minecraft:comparator",
+            "minecraft:redstone_ore",
+            "minecraft:redstone_lamp",
+            "minecraft:lightning_rod",
+            "cobblemon:pc",
+            "cobblemon:monitor",
+            "cobblemon:healing_machine",
+            "cobblemon:restoration_tank",
+            "cobblemon:fossil_analyzer"
+          ]
+        }
       }
     ],
     [
@@ -163,35 +176,64 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#eternal_starlight:is_safari_surface"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_surface/rare_is_safari_surface.json"
       }
     ],
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 3.0,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/rare_is_starlight_forest.json"
+      }
+    ],
+    [
+      {
         "rarity": "rare",
         "weight": 7.0,
         "levels": "20-75",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0479_rotom.json"
+        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0479_rotom.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "minecraft:redstone_block",
+            "minecraft:repeater",
+            "minecraft:redstone_torch",
+            "minecraft:daylight_detector",
+            "minecraft:comparator",
+            "minecraft:redstone_ore",
+            "minecraft:redstone_lamp",
+            "minecraft:lightning_rod",
+            "cobblemon:pc",
+            "cobblemon:monitor",
+            "cobblemon:healing_machine",
+            "cobblemon:restoration_tank",
+            "cobblemon:fossil_analyzer"
+          ]
+        }
       }
     ]
   ],

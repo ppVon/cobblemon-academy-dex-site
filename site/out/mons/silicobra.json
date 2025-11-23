@@ -130,84 +130,87 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 5.0,
         "levels": "23-34",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "biomesoplenty:dryland",
             "biomesoplenty:wasteland",
             "biomesoplenty:wasteland_steppe"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0843_silicobra.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 4,
         "levels": "7-19",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_desert"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0843_silicobra.json"
       }
     ],
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 4.1,
+        "levels": "4-21",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/common_crystallized_desert.json"
+      }
+    ],
+    [
+      {
         "rarity": "uncommon",
         "weight": 7.0,
         "levels": "23-34",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "biomesoplenty:dryland",
             "biomesoplenty:wasteland",
             "biomesoplenty:wasteland_steppe"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0843_silicobra.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 9,
         "levels": "7-19",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_desert"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0843_silicobra.json"
       }

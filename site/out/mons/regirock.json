@@ -163,14 +163,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "stone_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:desert",
@@ -191,10 +189,13 @@
             "wythers:outback_desert",
             "wythers:red_desert",
             "wythers:sandy_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regirock.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regirock.json",
+        "keyItem": "myths_and_legends:stone_tablet",
+        "yLevel": {
+          "maxY": 63
+        }
       }
     ],
     [
@@ -202,14 +203,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "stone_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_badlands",
@@ -219,10 +218,13 @@
             "terralith:warped_mesa",
             "terralith:white_mesa",
             "wythers:danakil_desert"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regirock.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regirock.json",
+        "keyItem": "myths_and_legends:stone_tablet",
+        "yLevel": {
+          "maxY": 63
+        }
       }
     ],
     [
@@ -230,14 +232,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "ancient_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_badlands",
@@ -247,10 +247,13 @@
             "terralith:warped_mesa",
             "terralith:white_mesa",
             "wythers:danakil_desert"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regirock.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regirock.json",
+        "keyItem": "myths_and_legends:ancient_tablet",
+        "yLevel": {
+          "maxY": 63
+        }
       }
     ]
   ],

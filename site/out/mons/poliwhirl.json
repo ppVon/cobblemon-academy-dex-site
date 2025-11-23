@@ -194,15 +194,19 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": true
+        }
       }
     ],
     [
@@ -216,15 +220,20 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "minecraft:lily_pad"
+          ]
+        },
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -238,8 +247,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_freshwater",
@@ -254,7 +261,22 @@
             "#cobblemon:is_swamp"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#minecraft:water"
+          ],
+          "resolved": [
+            "#minecraft:water"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": true
+        }
       }
     ],
     [
@@ -268,8 +290,6 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_freshwater",
@@ -284,177 +304,10 @@
             "#cobblemon:is_swamp"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "natural"
-        ],
-        "rarity": "common",
-        "weight": 0.19,
-        "levels": "25-39",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_lush"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "water"
-        ],
-        "rarity": "common",
-        "weight": 0.57,
-        "levels": "25-39",
-        "contexts": [
-          "submerged"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_lush"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
-      }
-    ],
-    [
-      {
-        "presets": [],
-        "rarity": "common",
-        "weight": 0.95,
-        "levels": "25-39",
-        "contexts": [
-          "fishing"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_freshwater",
-            "#cobblemon:is_hills",
-            "#cobblemon:is_jungle",
-            "#cobblemon:is_magical",
-            "#cobblemon:is_mushroom",
-            "#cobblemon:is_temperate"
-          ],
-          "exclude": [
-            "#cobblemon:is_freezing"
-          ]
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
-      }
-    ],
-    [
-      {
-        "presets": [],
-        "rarity": "common",
-        "weight": 0.95,
-        "levels": "25-39",
-        "contexts": [
-          "fishing"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_lush"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "water"
-        ],
-        "rarity": "common",
-        "weight": 0.95,
-        "levels": "25-39",
-        "contexts": [
-          "submerged"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_swamp"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
-      }
-    ],
-    [
-      {
-        "presets": [
-          "water"
-        ],
-        "rarity": "common",
-        "weight": 0.57,
-        "levels": "25-39",
-        "contexts": [
-          "submerged"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_freshwater",
-            "#cobblemon:is_hills",
-            "#cobblemon:is_jungle",
-            "#cobblemon:is_magical",
-            "#cobblemon:is_mushroom",
-            "#cobblemon:is_temperate"
-          ],
-          "exclude": [
-            "#cobblemon:is_freezing",
-            "#cobblemon:is_swamp"
-          ]
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
-      }
-    ],
-    [
-      {
-        "presets": [],
-        "rarity": "common",
-        "weight": 0.95,
-        "levels": "25-39",
-        "contexts": [
-          "fishing"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "#cobblemon:is_freshwater",
-            "#cobblemon:is_hills",
-            "#cobblemon:is_jungle",
-            "#cobblemon:is_magical",
-            "#cobblemon:is_mushroom",
-            "#cobblemon:is_temperate"
-          ],
-          "exclude": [
-            "#cobblemon:is_freezing"
-          ]
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -468,17 +321,16 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#cobblemon:is_overworld"
-          ],
-          "exclude": [
             "#cobblemon:is_lush"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
@@ -492,30 +344,167 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#cobblemon:is_overworld"
-          ],
-          "exclude": [
             "#cobblemon:is_lush"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 0.95,
         "levels": "25-39",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_freshwater",
+            "#cobblemon:is_hills",
+            "#cobblemon:is_jungle",
+            "#cobblemon:is_magical",
+            "#cobblemon:is_mushroom",
+            "#cobblemon:is_temperate"
+          ],
+          "exclude": [
+            "#cobblemon:is_freezing"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "sky": {
+          "canSeeSky": true
+        }
+      }
+    ],
+    [
+      {
+        "rarity": "common",
+        "weight": 0.95,
+        "levels": "25-39",
+        "contexts": [
+          "fishing"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_lush"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "common",
+        "weight": 0.95,
+        "levels": "25-39",
+        "contexts": [
+          "submerged"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_swamp"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "minecraft:lily_pad"
+          ]
+        },
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "common",
+        "weight": 0.57,
+        "levels": "25-39",
+        "contexts": [
+          "submerged"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_freshwater",
+            "#cobblemon:is_hills",
+            "#cobblemon:is_jungle",
+            "#cobblemon:is_magical",
+            "#cobblemon:is_mushroom",
+            "#cobblemon:is_temperate"
+          ],
+          "exclude": [
+            "#cobblemon:is_freezing",
+            "#cobblemon:is_swamp"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "rarity": "common",
+        "weight": 0.95,
+        "levels": "25-39",
+        "contexts": [
+          "fishing"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_freshwater",
+            "#cobblemon:is_hills",
+            "#cobblemon:is_jungle",
+            "#cobblemon:is_magical",
+            "#cobblemon:is_mushroom",
+            "#cobblemon:is_temperate"
+          ],
+          "exclude": [
+            "#cobblemon:is_freezing"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "sky": {
+          "canSeeSky": false,
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.19,
+        "levels": "25-39",
+        "contexts": [
+          "grounded"
+        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -524,7 +513,100 @@
             "#cobblemon:is_lush"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "structures": [
+          "cobblemon:shipwreck_coves/lush_shipwreck_cove"
+        ],
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        },
+        "yLevel": {
+          "minY": -41,
+          "maxY": 9
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
+        "rarity": "common",
+        "weight": 0.57,
+        "levels": "25-39",
+        "contexts": [
+          "submerged"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": [
+            "#cobblemon:is_lush"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "structures": [
+          "cobblemon:shipwreck_coves/lush_shipwreck_cove"
+        ],
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        },
+        "yLevel": {
+          "minY": -41,
+          "maxY": 9
+        }
+      }
+    ],
+    [
+      {
+        "rarity": "common",
+        "weight": 0.95,
+        "levels": "25-39",
+        "contexts": [
+          "fishing"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_overworld"
+          ],
+          "exclude": [
+            "#cobblemon:is_lush"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0061_poliwhirl.json",
+        "structures": [
+          "cobblemon:shipwreck_coves/lush_shipwreck_cove"
+        ],
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        },
+        "yLevel": {
+          "minY": -41,
+          "maxY": 9
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 3.5,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:dark_swamp"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/uncommon_dark_swamp.json"
       }
     ]
   ],

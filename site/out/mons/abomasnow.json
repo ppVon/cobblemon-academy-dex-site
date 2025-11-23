@@ -197,14 +197,11 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_snowy_taiga",
             "#cobblemon:is_snowy_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0460_abomasnow.json"
       }
@@ -214,42 +211,38 @@
         "presets": [
           "natural"
         ],
-        "rarity": "uncommon",
-        "weight": 7.3,
-        "levels": "24-41",
+        "rarity": "rare",
+        "weight": 8.0,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:starlight_permafrost_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/uncommon_starlight_permafrost_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_permafrost_forest/rare_starlight_permafrost_forest.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 2,
         "levels": "40-50",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cold",
             "#cobblemon:is_freezing"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/abomasnow.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/abomasnow.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -263,14 +256,11 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_snowy_taiga",
             "#cobblemon:is_snowy_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0460_abomasnow.json"
       }

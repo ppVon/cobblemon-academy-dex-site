@@ -167,22 +167,25 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "steel_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:deep_dark",
             "#cobblemon:is_deep_dark"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-registeel.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-registeel.json",
+        "keyItem": "myths_and_legends:steel_tablet",
+        "nearbyBlocks": {
+          "selectors": [
+            "minecraft:iron_block"
+          ]
+        }
       }
     ],
     [
@@ -190,21 +193,24 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "steel_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:village"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-registeel.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-registeel.json",
+        "keyItem": "myths_and_legends:steel_tablet",
+        "nearbyBlocks": {
+          "selectors": [
+            "minecraft:iron_block"
+          ]
+        }
       }
     ],
     [
@@ -212,21 +218,24 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "ancient_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:village"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-registeel.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-registeel.json",
+        "keyItem": "myths_and_legends:ancient_tablet",
+        "nearbyBlocks": {
+          "selectors": [
+            "minecraft:iron_block"
+          ]
+        }
       }
     ]
   ],

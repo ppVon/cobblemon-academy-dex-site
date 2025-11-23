@@ -143,33 +143,26 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:starlight_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/starlight_forest/ultra-rare_starlight_forest.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:meadow"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-shaymin.json"
       }
@@ -178,10 +171,10 @@
   "implemented": false,
   "images": {
     "normal": [
-      "out/sprites/cobblemon/shaymin.png"
+      "out/sprites/cobblemon/shaymin_sky.png"
     ],
     "shiny": [
-      "out/sprites/cobblemon/shaymin_shiny.png"
+      "out/sprites/cobblemon/shaymin_sky_shiny.png"
     ]
   },
   "speciesSources": [

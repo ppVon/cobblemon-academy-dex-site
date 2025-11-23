@@ -107,46 +107,40 @@
   "spawns": [
     [
       {
-        "presets": [],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "iceroot_carrot",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_snowy_forest",
             "#cobblemon:is_taiga",
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-glastrier.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-glastrier.json",
+        "keyItem": "myths_and_legends:iceroot_carrot"
       }
     ],
     [
       {
-        "presets": [],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "iceroot_carrot",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_snowy_forest",
             "#cobblemon:is_taiga",
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-glastrier.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-glastrier.json",
+        "keyItem": "myths_and_legends:iceroot_carrot"
       }
     ]
   ],

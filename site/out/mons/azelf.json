@@ -210,14 +210,12 @@
         "presets": [
           "water_surface"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50",
         "contexts": [
           "surface"
         ],
-        "keyItem": "azelf_fang",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:mangrove_swamp",
@@ -230,10 +228,10 @@
             "terralith:orchid_swampc",
             "wythers:billabong",
             "#cobblemon:is_swamp"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-azelf.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-azelf.json",
+        "keyItem": "myths_and_legends:azelf_fang"
       }
     ],
     [
@@ -241,14 +239,12 @@
         "presets": [
           "water_surface"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50",
         "contexts": [
           "surface"
         ],
-        "keyItem": "azelf_fang",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_river",
@@ -256,10 +252,10 @@
             "#minecraft:is_river",
             "wythers:tropical_forest_river",
             "#cobblemon:is_freshwater"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-azelf.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-azelf.json",
+        "keyItem": "myths_and_legends:azelf_fang"
       }
     ]
   ],

@@ -152,22 +152,20 @@
         "presets": [
           "river"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "clear_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:frozen_river",
             "minecraft:river"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-suicune.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-suicune.json",
+        "keyItem": "myths_and_legends:clear_bell_suicune"
       }
     ],
     [
@@ -175,22 +173,20 @@
         "presets": [
           "river"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "clear_bell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_freshwater",
             "#cobblemon:is_cold_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-suicune.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-suicune.json",
+        "keyItem": "myths_and_legends:clear_bell_suicune"
       }
     ]
   ],

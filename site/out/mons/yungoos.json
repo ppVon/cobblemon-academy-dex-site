@@ -161,39 +161,54 @@
         ],
         "rarity": "common",
         "weight": 0.3,
-        "levels": "12-27",
+        "levels": "4-18",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#eternal_starlight:is_safari_surface"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_surface/common_is_safari_surface.json"
       }
     ],
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 1.7,
+        "levels": "4-18",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/common_scarlet_forest.json"
+      }
+    ],
+    [
+      {
         "rarity": "common",
         "weight": 4,
         "levels": "15-27",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plains"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/yungoos.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/yungoos.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

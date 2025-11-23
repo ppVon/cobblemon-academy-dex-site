@@ -162,20 +162,17 @@
           "water"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.5,
+        "weight": 0.3,
         "levels": "31-48",
         "contexts": [
-          "surface"
+          "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:lush_shallow_sea"
-          ],
-          "exclude": []
+            "#eternal_starlight:is_safari_ocean"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/lush_shallow_sea/ultra-rare_lush_shallow_sea.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/ultra-rare_is_safari_ocean.json"
       }
     ]
   ],

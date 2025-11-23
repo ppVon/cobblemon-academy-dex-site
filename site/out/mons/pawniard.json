@@ -171,19 +171,35 @@
         "presets": [
           "natural"
         ],
+        "rarity": "uncommon",
+        "weight": 0.8,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/uncommon_is_starlight_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
         "rarity": "rare",
         "weight": 9.6942,
         "levels": "10-38",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:bamboo_jungle"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/pawniard.json"
       }
@@ -199,15 +215,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plateau"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/pawniard.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/pawniard.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -221,15 +237,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/pawniard.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/pawniard.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -243,27 +259,20 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/pawniard.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/pawniard.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],
   "implemented": false,
-  "images": {
-    "normal": [
-      "out/sprites/cobblemon/pawniard.png"
-    ],
-    "shiny": [
-      "out/sprites/cobblemon/pawniard_shiny.png"
-    ]
-  },
+  "images": {},
   "speciesSources": [
     "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/pawniard.json",
     "datapacks\\MysticMons_v3.2.1\\data\\cobblemon\\species\\generation5\\pawniard.json"

@@ -208,19 +208,35 @@
         "presets": [
           "natural"
         ],
+        "rarity": "rare",
+        "weight": 7.7,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/rare_is_starlight_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
         "rarity": "common",
         "weight": 2.1,
         "levels": "10-27",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:torreya_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/torreya_forest/common_torreya_forest.json"
       }
@@ -237,16 +253,11 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "morning"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_magical",
             "#cobblemon:is_floral"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0175_togepi.json"
       }

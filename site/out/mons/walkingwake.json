@@ -135,15 +135,12 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:warm_shore"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/warm_shore/ultra-rare_torreya_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/warm_shore/ultra-rare_warm_shore.json"
       }
     ]
   ],

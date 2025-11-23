@@ -7,8 +7,7 @@
   "maleRatio": -1,
   "labels": [
     "gen8",
-    "legendary",
-    "restricted"
+    "legendary"
   ],
   "abilities": [
     "intrepidsword",
@@ -36,15 +35,8 @@
   "experienceGroup": "slow",
   "catchRate": 10,
   "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "minecraft:diamond_sword",
-        "percentage": null,
-        "quantityRange": null,
-        "source": "species"
-      }
-    ]
+    "amount": 0,
+    "entries": []
   },
   "moves": [
     "1:sacredsword",
@@ -130,7 +122,6 @@
     "tutor:laserfocus",
     "tutor:playrough",
     "tutor:poisonjab",
-    "tutor:psychic",
     "tutor:psychocut",
     "tutor:rest",
     "tutor:sleeptalk",
@@ -138,49 +129,35 @@
     "tutor:steelbeam",
     "tutor:swift",
     "tutor:thunderfang",
-    "tutor:wildcharge"
+    "tutor:wildcharge",
+    "legacy:round",
+    "legacy:snore"
   ],
   "forms": [
     "Crowned"
   ],
   "types": [],
-  "evolutions": [
-    {
-      "id": "zacian_crowned_r",
-      "variant": "level_up",
-      "result": "zacian behemoth_warrior=crowned",
-      "consumeHeldItem": false,
-      "learnableMoves": [],
-      "requirements": [
-        {
-          "variant": "held_item",
-          "itemCondition": "cobblemon:kings_rock"
-        }
-      ]
-    }
-  ],
+  "evolutions": [],
   "spawns": [
     [
       {
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "rusted_sword",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:flower_forest",
             "minecraft:meadow"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zacian.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zacian.json",
+        "keyItem": "myths_and_legends:rusted_sword"
       }
     ],
     [
@@ -188,27 +165,25 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "rusted_sword",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_magical",
             "#cobblemon:is_forest",
             "#cobblemon:is_highlands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zacian.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zacian.json",
+        "keyItem": "myths_and_legends:rusted_sword"
       }
     ]
   ],
-  "implemented": false,
+  "implemented": true,
   "images": {
     "normal": [
       "out/sprites/cobblemon/zacian.png"
@@ -219,7 +194,6 @@
   },
   "speciesSources": [
     "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation8/zacian.json",
-    "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/species/generation8/zacian.json",
-    "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\generation8\\zacian.json"
+    "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/species/generation8/zacian.json"
   ]
 }

@@ -185,23 +185,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "60-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "dark_stone",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:swamp",
             "minecraft:dark_forest",
             "minecraft:roofed_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zekrom.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zekrom.json",
+        "keyItem": "myths_and_legends:dark_stone"
       }
     ]
   ],

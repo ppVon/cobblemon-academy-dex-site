@@ -143,24 +143,23 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 2.0,
         "levels": "4-25",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
             "#cobblemon:is_jungle",
             "#cobblemon:is_taiga"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0420_cherubi.json"
+        "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0420_cherubi.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -168,43 +167,39 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
-        "weight": 3.1,
-        "levels": "4-25",
+        "rarity": "uncommon",
+        "weight": 4.1,
+        "levels": "18-34",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#eternal_starlight:is_starlight_forest"
-          ],
-          "exclude": []
+            "eternal_starlight:scarlet_forest"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/common_is_starlight_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/uncommon_scarlet_forest.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 7.0,
         "levels": "4-25",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest",
             "#cobblemon:is_jungle",
             "#cobblemon:is_taiga"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0420_cherubi.json"
+        "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0420_cherubi.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

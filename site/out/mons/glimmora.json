@@ -153,54 +153,68 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0970_glimmora.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0970_glimmora.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#cobblemon:gemstones"
+          ],
+          "resolved": [
+            "#c:amethyst_ores",
+            "#c:diamond_ores",
+            "#c:emerald_ores",
+            "#c:peridot_ores",
+            "#c:ruby_ores",
+            "#c:sapphire_ores",
+            "#c:topaz_ores",
+            "#minecraft:diamond_ores",
+            "#minecraft:emerald_ores",
+            "minecraft:amethyst_block",
+            "minecraft:budding_amethyst",
+            "regions_unexplored:hanging_prismarite",
+            "regions_unexplored:large_prismarite_cluster",
+            "regions_unexplored:prismarite_cluster"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 0,
+          "maxSkyLight": 7
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 0.2,
         "levels": "35-53",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:nether/is_quartz"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0970_glimmora.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 1.0,
         "levels": "35-53",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "the_bumblezone:crystal_canyon",
             "biomesoplenty:crystalline_chasm"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0970_glimmora.json"
       }
@@ -210,21 +224,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
-        "weight": 0.7,
-        "levels": "36-48",
+        "rarity": "rare",
+        "weight": 0.8,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "eternal_starlight:dark_swamp"
-          ],
-          "exclude": []
+            "eternal_starlight:crystallized_desert"
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/dark_swamp/common_dark_swamp.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/rare_crystallized_desert.json"
       }
     ]
   ],

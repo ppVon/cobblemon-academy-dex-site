@@ -160,16 +160,11 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 0.9,
         "levels": "14-36",
         "contexts": [
           "grounded"
-        ],
-        "keyItem": "",
-        "times": [
-          "day"
         ],
         "biomeTags": {
           "include": [
@@ -181,7 +176,30 @@
             "#cobblemon:is_freezing"
           ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0732_trumbeak.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0732_trumbeak.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.9,
+        "levels": "4-19",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/common_is_starlight_forest.json"
       }
     ]
   ],

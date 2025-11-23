@@ -198,23 +198,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "75",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "dna_splicer",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:frozen_peaks",
             "minecraft:snowy_slopes",
             "minecraft:snowy_taiga"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyurem.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyurem.json",
+        "keyItem": "myths_and_legends:dna_splicer"
       }
     ],
     [
@@ -222,23 +220,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "75",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "dna_splicer",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_freezing",
             "#cobblemon:is_glacial",
             "#cobblemon:is_snowy_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyurem.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kyurem.json",
+        "keyItem": "myths_and_legends:dna_splicer"
       }
     ]
   ],

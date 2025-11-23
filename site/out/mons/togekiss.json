@@ -240,6 +240,25 @@
     [
       {
         "presets": [
+          "natural"
+        ],
+        "rarity": "ultra-rare",
+        "weight": 7.3,
+        "levels": "31-48",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/ultra-rare_is_starlight_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
           "natural",
           "flowers"
         ],
@@ -249,16 +268,11 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "morning"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_magical",
             "#cobblemon:is_floral"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/0468_togekiss.json"
       }

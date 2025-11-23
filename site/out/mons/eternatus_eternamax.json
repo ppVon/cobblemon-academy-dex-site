@@ -130,14 +130,12 @@
         "presets": [
           "water_surface"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "surface"
         ],
-        "keyItem": "eternatus_core",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:mangrove_swamp",
@@ -149,10 +147,10 @@
             "terralith:ice_marsh",
             "terralith:orchid_swampc",
             "wythers:billabong"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-eternatus.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-eternatus.json",
+        "keyItem": "myths_and_legends:eternatus_core"
       }
     ],
     [
@@ -160,14 +158,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "eternatus_core",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:the_end",
@@ -175,10 +171,10 @@
             "minecraft:end_highlands",
             "minecraft:end_midlands",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-eternatus.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-eternatus.json",
+        "keyItem": "myths_and_legends:eternatus_core"
       }
     ]
   ],

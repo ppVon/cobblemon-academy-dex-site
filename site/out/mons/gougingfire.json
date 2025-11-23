@@ -135,22 +135,21 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "ultra-rare",
         "weight": 3.25,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_nether"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/gougingfire.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/gougingfire.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

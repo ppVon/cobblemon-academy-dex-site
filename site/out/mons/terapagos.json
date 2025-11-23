@@ -143,48 +143,42 @@
   "spawns": [
     [
       {
-        "presets": [],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "75",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "prismatic_shell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain",
             "#cobblemon:is_magical",
             "#cobblemon:is_river",
             "#cobblemon:is_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-terapagos.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-terapagos.json",
+        "keyItem": "myths_and_legends:prismatic_shell"
       }
     ],
     [
       {
-        "presets": [],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "75",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "prismatic_shell",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain",
             "#cobblemon:is_magical",
             "#cobblemon:is_river",
             "#cobblemon:is_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-terapagos.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-terapagos.json",
+        "keyItem": "myths_and_legends:prismatic_shell"
       }
     ]
   ],

@@ -154,25 +154,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70-80",
         "contexts": [
           "grounded"
-        ],
-        "keyItem": "sun_flute",
-        "times": [
-          "day"
         ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plateau",
             "minecraft:desert",
             "wythers:badlands_desert"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-solgaleo.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-solgaleo.json",
+        "keyItem": "myths_and_legends:sun_flute"
       }
     ]
   ],

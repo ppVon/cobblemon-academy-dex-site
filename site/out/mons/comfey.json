@@ -181,16 +181,20 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_floral",
             "#cobblemon:is_tropical_island"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0764_comfey.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0764_comfey.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ],
     [
@@ -204,36 +208,137 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#aether:is_aether",
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0764_comfey.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0764_comfey.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#cobblemon:flowers"
+          ],
+          "resolved": [
+            "aether_redux:mixed_prismatic_petals",
+            "aether_redux:pink_prismatic_petals",
+            "aether_redux:teal_prismatic_petals",
+            "cobblemon:pep_up_flower",
+            "deep_aether:aerlavender",
+            "deep_aether:enchanted_blossom",
+            "deep_aether:golden_flower",
+            "deep_aether:radiant_orchid",
+            "deep_aether:tall_aerlavender",
+            "etcetera:bouquet",
+            "minecraft:chorus_flower",
+            "mythicbotany:aquapanthus",
+            "mythicbotany:aquapanthus_floating",
+            "mythicbotany:exoblaze",
+            "mythicbotany:exoblaze_floating",
+            "mythicbotany:feysythia",
+            "mythicbotany:feysythia_floating",
+            "mythicbotany:hellebore",
+            "mythicbotany:hellebore_floating",
+            "mythicbotany:petrunia",
+            "mythicbotany:petrunia_floating",
+            "mythicbotany:raindeletia",
+            "mythicbotany:raindeletia_floating",
+            "mythicbotany:wither_aconite",
+            "mythicbotany:wither_aconite_floating",
+            "regions_unexplored:alpha_dandelion",
+            "regions_unexplored:alpha_rose",
+            "regions_unexplored:aster",
+            "regions_unexplored:black_snowbelle",
+            "regions_unexplored:bleeding_heart",
+            "regions_unexplored:blue_lupine",
+            "regions_unexplored:blue_magnolia_flowers",
+            "regions_unexplored:blue_snowbelle",
+            "regions_unexplored:brown_snowbelle",
+            "regions_unexplored:cyan_snowbelle",
+            "regions_unexplored:daisy",
+            "regions_unexplored:day_lily",
+            "regions_unexplored:dorcel",
+            "regions_unexplored:felicia_daisy",
+            "regions_unexplored:fireweed",
+            "regions_unexplored:gray_snowbelle",
+            "regions_unexplored:green_snowbelle",
+            "regions_unexplored:hibiscus",
+            "regions_unexplored:hyacinth_flowers",
+            "regions_unexplored:hyssop",
+            "regions_unexplored:light_blue_snowbelle",
+            "regions_unexplored:light_gray_snowbelle",
+            "regions_unexplored:lime_snowbelle",
+            "regions_unexplored:magenta_snowbelle",
+            "regions_unexplored:mallow",
+            "regions_unexplored:orange_coneflower",
+            "regions_unexplored:orange_snowbelle",
+            "regions_unexplored:pink_lupine",
+            "regions_unexplored:pink_magnolia_flowers",
+            "regions_unexplored:pink_snowbelle",
+            "regions_unexplored:poppy_bush",
+            "regions_unexplored:purple_coneflower",
+            "regions_unexplored:purple_lupine",
+            "regions_unexplored:purple_snowbelle",
+            "regions_unexplored:red_lupine",
+            "regions_unexplored:red_snowbelle",
+            "regions_unexplored:salmon_poppy_bush",
+            "regions_unexplored:tassel",
+            "regions_unexplored:tsubaki",
+            "regions_unexplored:waratah",
+            "regions_unexplored:white_magnolia_flowers",
+            "regions_unexplored:white_snowbelle",
+            "regions_unexplored:white_trillium",
+            "regions_unexplored:wilting_trillium",
+            "regions_unexplored:yellow_lupine",
+            "regions_unexplored:yellow_snowbelle",
+            "twilightforest:thorn_rose"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 2.0,
         "levels": "24-49",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "the_bumblezone:floral_meadow"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0764_comfey.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0764_comfey.json",
+        "weather": {
+          "isRaining": false
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 9.9,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/rare_is_starlight_forest.json"
       }
     ],
     [
@@ -247,13 +352,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:torreya_forest"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/torreya_forest/common_torreya_forest.json"
       }

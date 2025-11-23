@@ -155,14 +155,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "ice_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:frozen_river",
@@ -187,10 +185,10 @@
             "wythers:snowy_canyon",
             "wythers:snowy_peaks",
             "wythers:snowy_tundra"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regice.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regice.json",
+        "keyItem": "myths_and_legends:ice_tablet"
       }
     ],
     [
@@ -198,14 +196,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "ice_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_freezing",
@@ -216,10 +212,10 @@
             "#c:climate_cold",
             "#forge:is_cold/overworld",
             "wythers:berry_bog"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regice.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regice.json",
+        "keyItem": "myths_and_legends:ice_tablet"
       }
     ],
     [
@@ -227,14 +223,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "ancient_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:frozen_river",
@@ -259,10 +253,10 @@
             "wythers:snowy_canyon",
             "wythers:snowy_peaks",
             "wythers:snowy_tundra"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regice.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regice.json",
+        "keyItem": "myths_and_legends:ancient_tablet"
       }
     ],
     [
@@ -270,14 +264,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "ancient_tablet",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_freezing",
@@ -288,10 +280,10 @@
             "#c:climate_cold",
             "#forge:is_cold/overworld",
             "wythers:berry_bog"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regice.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-regice.json",
+        "keyItem": "myths_and_legends:ancient_tablet"
       }
     ]
   ],

@@ -171,14 +171,29 @@
           "natural"
         ],
         "rarity": "uncommon",
+        "weight": 1.4,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/uncommon_scarlet_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
         "weight": 1.0,
         "levels": "25-40",
         "contexts": [
           "grounded"
-        ],
-        "keyItem": "",
-        "times": [
-          "day"
         ],
         "biomeTags": {
           "include": [
@@ -188,7 +203,10 @@
             "#cobblemon:is_spooky"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0541_swadloon.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0541_swadloon.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

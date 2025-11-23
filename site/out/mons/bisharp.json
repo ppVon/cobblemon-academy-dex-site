@@ -157,7 +157,7 @@
       "requirements": [
         {
           "variant": "defeat",
-          "target": "bisharp held_item=cobblemon:leaders_crest",
+          "target": "bisharp",
           "amount": 3
         }
       ]
@@ -170,18 +170,34 @@
           "natural"
         ],
         "rarity": "rare",
+        "weight": 8.6,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_starlight_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_starlight_forest/rare_is_starlight_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
         "weight": 4.0,
         "levels": "38-65",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_bamboo"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/bisharp.json"
       }
@@ -197,15 +213,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plateau"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bisharp.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bisharp.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -219,15 +235,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bisharp.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bisharp.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -241,20 +257,27 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bisharp.json"
+        "source": "datapacks/MysticMons_v3.2.1/data/cobblemon/spawn_pool_world/bisharp.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],
   "implemented": false,
-  "images": {},
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/bisharp.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/bisharp_shiny.png"
+    ]
+  },
   "speciesSources": [
     "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/species/generation5/bisharp.json",
     "datapacks\\MysticMons_v3.2.1\\data\\cobblemon\\species\\generation5\\bisharp.json"

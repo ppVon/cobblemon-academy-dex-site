@@ -141,84 +141,87 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 3.0,
         "levels": "37-45",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "biomesoplenty:dryland",
             "biomesoplenty:wasteland",
             "biomesoplenty:wasteland_steppe"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0844_sandaconda.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 2,
         "levels": "37-44",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_desert"
-          ],
-          "exclude": []
+          ]
         },
         "source": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar!/data/cobblemon/spawn_pool_world/0844_sandaconda.json"
       }
     ],
     [
       {
-        "presets": [],
+        "presets": [
+          "natural"
+        ],
+        "rarity": "rare",
+        "weight": 7.3,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:crystallized_desert"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/crystallized_desert/rare_crystallized_desert.json"
+      }
+    ],
+    [
+      {
         "rarity": "rare",
         "weight": 7.0,
         "levels": "37-45",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "biomesoplenty:dryland",
             "biomesoplenty:wasteland",
             "biomesoplenty:wasteland_steppe"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0844_sandaconda.json"
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 9,
         "levels": "37-44",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_desert"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MegaShowdown/data/cobblemon/spawn_pool_world/0844_sandaconda.json"
       }

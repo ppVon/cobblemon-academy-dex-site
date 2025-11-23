@@ -133,22 +133,20 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "68-72",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "violet_book",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:windswept_gravelly_hills",
             "minecraft:deep_dark"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-miraidon.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-miraidon.json",
+        "keyItem": "myths_and_legends:violet_book"
       }
     ],
     [
@@ -156,21 +154,19 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "68-72",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "violet_book",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_deep_dark"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-miraidon.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-miraidon.json",
+        "keyItem": "myths_and_legends:violet_book"
       }
     ]
   ],

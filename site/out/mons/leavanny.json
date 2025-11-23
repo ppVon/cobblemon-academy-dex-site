@@ -199,15 +199,30 @@
         "presets": [
           "natural"
         ],
+        "rarity": "rare",
+        "weight": 1.8,
+        "levels": "18-41",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/rare_scarlet_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
         "rarity": "ultra-rare",
         "weight": 5.0,
         "levels": "40-60",
         "contexts": [
           "grounded"
-        ],
-        "keyItem": "",
-        "times": [
-          "day"
         ],
         "biomeTags": {
           "include": [
@@ -217,7 +232,10 @@
             "#cobblemon:is_spooky"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0542_leavanny.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/wavimons/spawn_pool_world/0542_leavanny.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

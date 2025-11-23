@@ -157,14 +157,7 @@
   ],
   "spawns": [],
   "implemented": true,
-  "images": {
-    "normal": [
-      "out/sprites/cobblemon/shaymin_sky.png"
-    ],
-    "shiny": [
-      "out/sprites/cobblemon/shaymin_sky_shiny.png"
-    ]
-  },
+  "images": {},
   "speciesSources": [
     "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\custom\\shayminsky.json"
   ]

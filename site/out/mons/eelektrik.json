@@ -147,14 +147,31 @@
         "presets": [
           "water"
         ],
+        "rarity": "uncommon",
+        "weight": 3.1,
+        "levels": "18-34",
+        "contexts": [
+          "submerged"
+        ],
+        "biomeTags": {
+          "include": [
+            "#eternal_starlight:is_safari_ocean"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/uncommon_is_safari_ocean.json"
+      }
+    ],
+    [
+      {
+        "presets": [
+          "water"
+        ],
         "rarity": "rare",
         "weight": 4.0,
         "levels": "39-50",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cave"
@@ -163,7 +180,10 @@
             "#cobblemon:is_lush"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
@@ -177,48 +197,44 @@
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_lush"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "uncommon",
         "weight": 3.1,
         "levels": "39-50",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_lush"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ],
     [
       {
-        "presets": [],
         "rarity": "rare",
         "weight": 1.0,
         "levels": "39-50",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_cave"
@@ -227,7 +243,10 @@
             "#cobblemon:is_lush"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/eelektrik.json",
+        "sky": {
+          "canSeeSky": false
+        }
       }
     ]
   ],

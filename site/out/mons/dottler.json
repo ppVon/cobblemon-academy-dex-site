@@ -130,6 +130,25 @@
     [
       {
         "presets": [
+          "natural"
+        ],
+        "rarity": "uncommon",
+        "weight": 1.2,
+        "levels": "18-34",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "eternal_starlight:scarlet_forest"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/uncommon_scarlet_forest.json"
+      }
+    ],
+    [
+      {
+        "presets": [
           "natural",
           "treetop"
         ],
@@ -139,8 +158,6 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_forest"
@@ -149,7 +166,10 @@
             "#cobblemon:is_spooky"
           ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/dottler.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/dottler.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ],
     [
@@ -165,15 +185,15 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plains"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/dottler.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/cobblemon/spawn_pool_world/dottler.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],

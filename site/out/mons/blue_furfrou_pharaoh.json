@@ -138,6 +138,13 @@
   "evolutions": [],
   "spawns": [],
   "implemented": false,
-  "images": {},
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/furfrou_pharaoh.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/furfrou_pharaoh_shiny.png"
+    ]
+  },
   "speciesSources": []
 }

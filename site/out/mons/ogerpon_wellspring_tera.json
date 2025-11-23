@@ -139,23 +139,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "40-60",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "teal_mask",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_floral",
             "#cobblemon:is_bamboo",
             "#cobblemon:is_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-ogerpon.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-ogerpon.json",
+        "keyItem": "myths_and_legends:teal_mask"
       }
     ]
   ],

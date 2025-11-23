@@ -138,6 +138,13 @@
   "evolutions": [],
   "spawns": [],
   "implemented": false,
-  "images": {},
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/furfrou_kabuki.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/furfrou_kabuki_shiny.png"
+    ]
+  },
   "speciesSources": []
 }

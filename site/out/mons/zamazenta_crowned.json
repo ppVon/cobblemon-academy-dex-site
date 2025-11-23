@@ -167,22 +167,20 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "rusted_shield",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:taiga",
             "minecraft:windswept_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zamazenta.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zamazenta.json",
+        "keyItem": "myths_and_legends:rusted_shield"
       }
     ],
     [
@@ -190,23 +188,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "rusted_shield",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_plateau",
             "#cobblemon:is_savanna",
             "#cobblemon:is_highlands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zamazenta.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-zamazenta.json",
+        "keyItem": "myths_and_legends:rusted_shield"
       }
     ]
   ],

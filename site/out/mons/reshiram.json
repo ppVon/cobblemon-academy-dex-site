@@ -170,23 +170,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "60-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "light_stone",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:savanna",
             "minecraft:sunflower_plains",
             "minecraft:desert"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-reshiram.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-reshiram.json",
+        "keyItem": "myths_and_legends:light_stone"
       }
     ]
   ],

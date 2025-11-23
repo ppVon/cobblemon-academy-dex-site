@@ -183,7 +183,14 @@
   ],
   "spawns": [],
   "implemented": false,
-  "images": {},
+  "images": {
+    "normal": [
+      "out/sprites/cobblemon/pawniard.png"
+    ],
+    "shiny": [
+      "out/sprites/cobblemon/pawniard_shiny.png"
+    ]
+  },
   "speciesSources": [
     "datapacks\\CCC_MAL_1.6.4.1\\data\\cobblemon\\species\\pawniard_override.json"
   ]

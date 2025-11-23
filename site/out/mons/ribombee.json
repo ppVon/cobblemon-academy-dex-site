@@ -181,17 +181,19 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_floral"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0743_ribombee.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0743_ribombee.json",
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": false
+        }
       }
     ],
     [
@@ -205,16 +207,217 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [
-          "day"
-        ],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
           ],
           "exclude": [
             "#cobblemon:is_floral"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0743_ribombee.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#cobblemon:flowers"
+          ],
+          "resolved": [
+            "aether_redux:mixed_prismatic_petals",
+            "aether_redux:pink_prismatic_petals",
+            "aether_redux:teal_prismatic_petals",
+            "cobblemon:pep_up_flower",
+            "deep_aether:aerlavender",
+            "deep_aether:enchanted_blossom",
+            "deep_aether:golden_flower",
+            "deep_aether:radiant_orchid",
+            "deep_aether:tall_aerlavender",
+            "etcetera:bouquet",
+            "minecraft:chorus_flower",
+            "mythicbotany:aquapanthus",
+            "mythicbotany:aquapanthus_floating",
+            "mythicbotany:exoblaze",
+            "mythicbotany:exoblaze_floating",
+            "mythicbotany:feysythia",
+            "mythicbotany:feysythia_floating",
+            "mythicbotany:hellebore",
+            "mythicbotany:hellebore_floating",
+            "mythicbotany:petrunia",
+            "mythicbotany:petrunia_floating",
+            "mythicbotany:raindeletia",
+            "mythicbotany:raindeletia_floating",
+            "mythicbotany:wither_aconite",
+            "mythicbotany:wither_aconite_floating",
+            "regions_unexplored:alpha_dandelion",
+            "regions_unexplored:alpha_rose",
+            "regions_unexplored:aster",
+            "regions_unexplored:black_snowbelle",
+            "regions_unexplored:bleeding_heart",
+            "regions_unexplored:blue_lupine",
+            "regions_unexplored:blue_magnolia_flowers",
+            "regions_unexplored:blue_snowbelle",
+            "regions_unexplored:brown_snowbelle",
+            "regions_unexplored:cyan_snowbelle",
+            "regions_unexplored:daisy",
+            "regions_unexplored:day_lily",
+            "regions_unexplored:dorcel",
+            "regions_unexplored:felicia_daisy",
+            "regions_unexplored:fireweed",
+            "regions_unexplored:gray_snowbelle",
+            "regions_unexplored:green_snowbelle",
+            "regions_unexplored:hibiscus",
+            "regions_unexplored:hyacinth_flowers",
+            "regions_unexplored:hyssop",
+            "regions_unexplored:light_blue_snowbelle",
+            "regions_unexplored:light_gray_snowbelle",
+            "regions_unexplored:lime_snowbelle",
+            "regions_unexplored:magenta_snowbelle",
+            "regions_unexplored:mallow",
+            "regions_unexplored:orange_coneflower",
+            "regions_unexplored:orange_snowbelle",
+            "regions_unexplored:pink_lupine",
+            "regions_unexplored:pink_magnolia_flowers",
+            "regions_unexplored:pink_snowbelle",
+            "regions_unexplored:poppy_bush",
+            "regions_unexplored:purple_coneflower",
+            "regions_unexplored:purple_lupine",
+            "regions_unexplored:purple_snowbelle",
+            "regions_unexplored:red_lupine",
+            "regions_unexplored:red_snowbelle",
+            "regions_unexplored:salmon_poppy_bush",
+            "regions_unexplored:tassel",
+            "regions_unexplored:tsubaki",
+            "regions_unexplored:waratah",
+            "regions_unexplored:white_magnolia_flowers",
+            "regions_unexplored:white_snowbelle",
+            "regions_unexplored:white_trillium",
+            "regions_unexplored:wilting_trillium",
+            "regions_unexplored:yellow_lupine",
+            "regions_unexplored:yellow_snowbelle",
+            "twilightforest:thorn_rose"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        },
+        "weather": {
+          "isRaining": false
+        }
+      }
+    ],
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "common",
+        "weight": 0.2,
+        "levels": "25-46",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#aether:is_aether"
+          ]
+        },
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0743_ribombee.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#cobblemon:flowers"
+          ],
+          "resolved": [
+            "aether_redux:mixed_prismatic_petals",
+            "aether_redux:pink_prismatic_petals",
+            "aether_redux:teal_prismatic_petals",
+            "cobblemon:pep_up_flower",
+            "deep_aether:aerlavender",
+            "deep_aether:enchanted_blossom",
+            "deep_aether:golden_flower",
+            "deep_aether:radiant_orchid",
+            "deep_aether:tall_aerlavender",
+            "etcetera:bouquet",
+            "minecraft:chorus_flower",
+            "mythicbotany:aquapanthus",
+            "mythicbotany:aquapanthus_floating",
+            "mythicbotany:exoblaze",
+            "mythicbotany:exoblaze_floating",
+            "mythicbotany:feysythia",
+            "mythicbotany:feysythia_floating",
+            "mythicbotany:hellebore",
+            "mythicbotany:hellebore_floating",
+            "mythicbotany:petrunia",
+            "mythicbotany:petrunia_floating",
+            "mythicbotany:raindeletia",
+            "mythicbotany:raindeletia_floating",
+            "mythicbotany:wither_aconite",
+            "mythicbotany:wither_aconite_floating",
+            "regions_unexplored:alpha_dandelion",
+            "regions_unexplored:alpha_rose",
+            "regions_unexplored:aster",
+            "regions_unexplored:black_snowbelle",
+            "regions_unexplored:bleeding_heart",
+            "regions_unexplored:blue_lupine",
+            "regions_unexplored:blue_magnolia_flowers",
+            "regions_unexplored:blue_snowbelle",
+            "regions_unexplored:brown_snowbelle",
+            "regions_unexplored:cyan_snowbelle",
+            "regions_unexplored:daisy",
+            "regions_unexplored:day_lily",
+            "regions_unexplored:dorcel",
+            "regions_unexplored:felicia_daisy",
+            "regions_unexplored:fireweed",
+            "regions_unexplored:gray_snowbelle",
+            "regions_unexplored:green_snowbelle",
+            "regions_unexplored:hibiscus",
+            "regions_unexplored:hyacinth_flowers",
+            "regions_unexplored:hyssop",
+            "regions_unexplored:light_blue_snowbelle",
+            "regions_unexplored:light_gray_snowbelle",
+            "regions_unexplored:lime_snowbelle",
+            "regions_unexplored:magenta_snowbelle",
+            "regions_unexplored:mallow",
+            "regions_unexplored:orange_coneflower",
+            "regions_unexplored:orange_snowbelle",
+            "regions_unexplored:pink_lupine",
+            "regions_unexplored:pink_magnolia_flowers",
+            "regions_unexplored:pink_snowbelle",
+            "regions_unexplored:poppy_bush",
+            "regions_unexplored:purple_coneflower",
+            "regions_unexplored:purple_lupine",
+            "regions_unexplored:purple_snowbelle",
+            "regions_unexplored:red_lupine",
+            "regions_unexplored:red_snowbelle",
+            "regions_unexplored:salmon_poppy_bush",
+            "regions_unexplored:tassel",
+            "regions_unexplored:tsubaki",
+            "regions_unexplored:waratah",
+            "regions_unexplored:white_magnolia_flowers",
+            "regions_unexplored:white_snowbelle",
+            "regions_unexplored:white_trillium",
+            "regions_unexplored:wilting_trillium",
+            "regions_unexplored:yellow_lupine",
+            "regions_unexplored:yellow_snowbelle",
+            "twilightforest:thorn_rose"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
+      }
+    ],
+    [
+      {
+        "rarity": "common",
+        "weight": 18.0,
+        "levels": "25-46",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "the_bumblezone:floral_meadow",
+            "the_bumblezone:pollinated_fields"
           ]
         },
         "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0743_ribombee.json"
@@ -225,42 +428,18 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
-        "weight": 0.2,
-        "levels": "25-46",
+        "rarity": "rare",
+        "weight": 7.2,
+        "levels": "18-41",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
-            "#aether:is_aether"
-          ],
-          "exclude": []
+            "eternal_starlight:scarlet_forest"
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0743_ribombee.json"
-      }
-    ],
-    [
-      {
-        "presets": [],
-        "rarity": "common",
-        "weight": 18.0,
-        "levels": "25-46",
-        "contexts": [
-          "grounded"
-        ],
-        "keyItem": "",
-        "times": [],
-        "biomeTags": {
-          "include": [
-            "the_bumblezone:floral_meadow",
-            "the_bumblezone:pollinated_fields"
-          ],
-          "exclude": []
-        },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0743_ribombee.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/scarlet_forest/rare_scarlet_forest.json"
       }
     ]
   ],

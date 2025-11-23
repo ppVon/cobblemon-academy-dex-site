@@ -177,15 +177,12 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:warm_shore"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/warm_shore/ultra-rare_torreya_forest.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/warm_shore/ultra-rare_warm_shore.json"
       }
     ],
     [
@@ -194,13 +191,11 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_hill",
@@ -224,8 +219,7 @@
             "wythers:temperate_rainforest_crags",
             "wythers:thermal_taiga_crags",
             "wythers:windswept_jungle"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-keldeo.json"
       }
@@ -236,13 +230,11 @@
           "natural"
         ],
         "rarity": "ultra-rare",
-        "weight": 0.03,
+        "weight": 0.3,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_mountain",
@@ -253,8 +245,7 @@
             "terralith:windswept_spires",
             "terralith:yosemite_cliffs",
             "wythers:tibesti_mountains"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-keldeo.json"
       }

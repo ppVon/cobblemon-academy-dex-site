@@ -178,14 +178,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "47-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "lustrous_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "terralith:skylands_winter",
@@ -194,10 +192,10 @@
             "minecraft:end_highlands",
             "minecraft:end_midlands",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-palkia.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-palkia.json",
+        "keyItem": "myths_and_legends:lustrous_orb"
       }
     ],
     [
@@ -205,14 +203,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "47-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "lustrous_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "terralith:skylands_winter",
@@ -222,10 +218,10 @@
             "minecraft:end_midlands",
             "#cobblemon:is_end",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-palkia.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-palkia.json",
+        "keyItem": "myths_and_legends:lustrous_orb"
       }
     ]
   ],

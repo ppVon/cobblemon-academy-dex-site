@@ -134,15 +134,12 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 5.7,
         "levels": "1-20",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -157,15 +154,12 @@
     ],
     [
       {
-        "presets": [],
         "rarity": "common",
         "weight": 9.5,
         "levels": "1-20",
         "contexts": [
           "fishing"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
@@ -183,21 +177,18 @@
         "presets": [
           "water"
         ],
-        "rarity": "common",
-        "weight": 3.3,
-        "levels": "1-15",
+        "rarity": "rare",
+        "weight": 9.3,
+        "levels": "18-41",
         "contexts": [
           "submerged"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#eternal_starlight:is_safari_ocean"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/common_is_safari_ocean.json"
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/is_safari_ocean/rare_is_safari_ocean.json"
       }
     ]
   ],

@@ -68,14 +68,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "15",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "lillies_bag",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:cherry_grove",
@@ -104,10 +102,10 @@
             "wythers:sakura_forest",
             "wythers:spring_flower_fields",
             "wythers:spring_flower_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-cosmog.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-cosmog.json",
+        "keyItem": "myths_and_legends:lillies_bag"
       }
     ],
     [
@@ -115,14 +113,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "15",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "lillies_bag",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:the_end",
@@ -130,10 +126,10 @@
             "minecraft:end_highlands",
             "minecraft:end_midlands",
             "minecraft:small_end_islands"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-cosmog.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-cosmog.json",
+        "keyItem": "myths_and_legends:lillies_bag"
       }
     ]
   ],

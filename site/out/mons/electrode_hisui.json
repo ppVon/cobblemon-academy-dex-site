@@ -162,15 +162,30 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_overworld"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0101_electrode.json"
+        "source": "Cobblemon-fabric-1.6.1+1.21.1.jar!/data/cobblemon/spawn_pool_world/0101_electrode.json",
+        "nearbyBlocks": {
+          "selectors": [
+            "#cobblemon:apricorns"
+          ],
+          "resolved": [
+            "cobblemon:black_apricorn",
+            "cobblemon:blue_apricorn",
+            "cobblemon:green_apricorn",
+            "cobblemon:pink_apricorn",
+            "cobblemon:red_apricorn",
+            "cobblemon:white_apricorn",
+            "cobblemon:yellow_apricorn"
+          ]
+        },
+        "sky": {
+          "minSkyLight": 8,
+          "maxSkyLight": 15
+        }
       }
     ],
     [
@@ -184,13 +199,10 @@
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "eternal_starlight:warm_shore"
-          ],
-          "exclude": []
+          ]
         },
         "source": "datapacks/Academy/data/academy/spawn_pool_world/safari/warm_shore/uncommon_warm_shore.json"
       }

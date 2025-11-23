@@ -173,22 +173,20 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "47-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "adamant_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:mountain_edge",
             "minecraft:stony_peaks"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-dialga.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-dialga.json",
+        "keyItem": "myths_and_legends:adamant_orb"
       }
     ],
     [
@@ -196,23 +194,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "47-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "adamant_orb",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_highlands",
             "#cobblemon:is_peak",
             "#cobblemon:is_mountain"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-dialga.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-dialga.json",
+        "keyItem": "myths_and_legends:adamant_orb"
       }
     ]
   ],

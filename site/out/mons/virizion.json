@@ -160,14 +160,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "grassland_blade",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_hill",
@@ -191,10 +189,10 @@
             "wythers:temperate_rainforest_crags",
             "wythers:thermal_taiga_crags",
             "wythers:windswept_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-virizion.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-virizion.json",
+        "keyItem": "myths_and_legends:grassland_blade"
       }
     ],
     [
@@ -202,14 +200,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "grassland_blade",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_mountain",
@@ -220,10 +216,10 @@
             "terralith:windswept_spires",
             "terralith:yosemite_cliffs",
             "wythers:tibesti_mountains"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-virizion.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-virizion.json",
+        "keyItem": "myths_and_legends:grassland_blade"
       }
     ]
   ],

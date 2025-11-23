@@ -98,7 +98,28 @@
   "forms": [],
   "types": [],
   "evolutions": [],
-  "spawns": [],
+  "spawns": [
+    [
+      {
+        "presets": [
+          "natural"
+        ],
+        "rarity": "summons",
+        "weight": 3.0,
+        "levels": "50-60",
+        "contexts": [
+          "grounded"
+        ],
+        "biomeTags": {
+          "include": [
+            "#cobblemon:is_swamp"
+          ]
+        },
+        "source": "datapacks/Academy/data/academy/spawn_pool_world/legendaries/tinglu.json",
+        "keyItem": "academy:vessel_of_ruin"
+      }
+    ]
+  ],
   "implemented": false,
   "images": {
     "normal": [

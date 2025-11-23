@@ -142,14 +142,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "15",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "kubfus_band",
-        "times": [],
         "biomeTags": {
           "include": [
             "#minecraft:is_jungle",
@@ -167,10 +165,10 @@
             "wythers:tropical_grassland",
             "wythers:tropical_island",
             "wythers:tropical_rainforest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kubfu.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kubfu.json",
+        "keyItem": "myths_and_legends:kubfus_band"
       }
     ],
     [
@@ -178,14 +176,12 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "15",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "kubfus_band",
-        "times": [],
         "biomeTags": {
           "include": [
             "wythers:bamboo_jungle_highlands",
@@ -197,10 +193,10 @@
             "wythers:sakura_forest",
             "wythers:sandy_jungle",
             "wythers:sparse_bamboo_jungle"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kubfu.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-kubfu.json",
+        "keyItem": "myths_and_legends:kubfus_band"
       }
     ]
   ],

@@ -152,23 +152,21 @@
         "presets": [
           "natural"
         ],
-        "rarity": "common",
+        "rarity": "summons",
         "weight": 3.0,
         "levels": "50-70",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "magma_stone",
-        "times": [],
         "biomeTags": {
           "include": [
             "minecraft:nether_wastes",
             "minecraft:basalt_deltas",
             "minecraft:crimson_forest"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-heatran.json"
+        "source": "datapacks/MythsandLegends-Datapack-v1.0.4/data/cobblemon/spawn_pool_world/mythsandlegends-heatran.json",
+        "keyItem": "myths_and_legends:magma_stone"
       }
     ]
   ],

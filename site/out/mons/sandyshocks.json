@@ -130,22 +130,21 @@
   "spawns": [
     [
       {
-        "presets": [],
         "rarity": "ultra-rare",
         "weight": 1.0,
         "levels": "43-68",
         "contexts": [
           "grounded"
         ],
-        "keyItem": "",
-        "times": [],
         "biomeTags": {
           "include": [
             "#cobblemon:is_sandy"
-          ],
-          "exclude": []
+          ]
         },
-        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/sandyshocks.json"
+        "source": "datapacks/CCC_MAL_1.6.4.1/data/paradox_spawns/spawn_pool_world/sandyshocks.json",
+        "sky": {
+          "canSeeSky": true
+        }
       }
     ]
   ],
